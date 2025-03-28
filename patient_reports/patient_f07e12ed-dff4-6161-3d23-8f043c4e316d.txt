@@ -1,0 +1,338 @@
+PATIENT RECORD
+========================================
+Name: Sunday568 Mitchell808
+ID: f07e12ed-dff4-6161-3d23-8f043c4e316d
+Birthdate: 1980-01-31 00:00:00
+Gender: F
+
+
+ENCOUNTERS
+----------------------------------------
+ • start: 1998-03-26 00:00:00 | stop: 1998-03-26 00:00:00 | description: General examination of patient (procedure)
+ • start: 2002-04-04 00:00:00 | stop: 2002-04-04 00:00:00 | description: General examination of patient (procedure)
+ • start: 2008-04-10 00:00:00 | stop: 2008-04-10 00:00:00 | description: General examination of patient (procedure)
+ • start: 2008-12-20 00:00:00 | stop: 2008-12-20 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 2014-02-09 00:00:00 | stop: 2014-02-09 00:00:00 | description: Consultation for treatment (procedure)
+ • start: 2014-04-17 00:00:00 | stop: 2014-04-17 00:00:00 | description: General examination of patient (procedure)
+ • start: 2015-02-07 00:00:00 | stop: 2015-02-07 00:00:00 | description: Consultation for treatment (procedure)
+ • start: 2015-02-15 00:00:00 | stop: 2015-02-16 00:00:00 | description: Admission to surgical department (procedure)
+ • start: 2017-04-20 00:00:00 | stop: 2017-04-20 00:00:00 | description: General examination of patient (procedure)
+ • start: 2017-08-22 00:00:00 | stop: 2017-08-22 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 2019-03-14 00:00:00 | stop: 2019-03-14 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2020-02-06 00:00:00 | stop: 2020-02-06 00:00:00 | description: General examination of patient (procedure)
+ • start: 2020-02-20 00:00:00 | stop: 2020-02-20 00:00:00 | description: Encounter for check up (procedure)
+ • start: 2020-07-19 00:00:00 | stop: 2020-07-19 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 2021-04-08 00:00:00 | stop: 2021-04-08 00:00:00 | description: Administration of vaccine to produce active immunity (procedure)
+ • start: 2021-04-29 00:00:00 | stop: 2021-04-29 00:00:00 | description: Administration of vaccine to produce active immunity (procedure)
+ • start: 2022-02-10 00:00:00 | stop: 2022-02-10 00:00:00 | description: General examination of patient (procedure)
+ • start: 2023-08-08 00:00:00 | stop: 2023-08-09 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 2023-09-05 00:00:00 | stop: 2023-09-06 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 2024-02-15 00:00:00 | stop: 2024-02-15 00:00:00 | description: General examination of patient (procedure)
+ • start: 2024-03-14 00:00:00 | stop: 2024-03-14 00:00:00 | description: Patient encounter procedure (procedure)
+
+CONDITIONS
+----------------------------------------
+ • description: Medication review due (situation)
+ • description: Only received primary school education (finding)
+ • description: Unhealthy alcohol drinking behavior (finding)
+ • description: Has a criminal record (finding)
+ • description: Chronic sinusitis (disorder)
+ • description: Part-time employment (finding)
+ • description: Sterilization requested (situation)
+ • description: History of tubal ligation (situation)
+ • description: Full-time employment (finding)
+ • description: Stress (finding)
+ • description: Viral sinusitis (disorder)
+ • description: Medication review due (situation)
+ • description: Body mass index 30+ - obesity (finding)
+ • description: Limited social contact (finding)
+ • description: Severe anxiety (panic) (finding)
+ • description: Loose dental filling (finding)
+ • description: Suspected disease caused by Severe acute respiratory coronavirus 2 (situation)
+ • description: Sputum finding (finding)
+ • description: Muscle pain (finding)
+ • description: Joint pain (finding)
+ • description: Fever (finding)
+ • description: Loss of taste (finding)
+ • description: Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder)
+ • description: Medication review due (situation)
+ • description: Social isolation (finding)
+ • description: Sinusitis (disorder)
+ • description: Medication review due (situation)
+ • description: Victim of intimate partner abuse (finding)
+
+MEDICATIONS
+----------------------------------------
+ • description: Mirena 52 MG Intrauterine System | start: 2014-02-09 00:00:00 | stop: 2015-02-07 00:00:00
+ • description: sodium fluoride 0.0272 MG/MG Oral Gel | start: 2020-02-20 00:00:00 | stop: 2020-02-20 00:00:00
+
+PROCEDURES
+----------------------------------------
+ • description: Sterilization education (procedure) | start: 2015-02-07 00:00:00 | stop: 2015-02-07 00:00:00
+ • description: Ligation of bilateral fallopian tubes (procedure) | start: 2015-02-15 00:00:00 | stop: 2015-02-15 00:00:00
+ • description: Postoperative care (regime/therapy) | start: 2015-02-15 00:00:00 | stop: 2015-02-16 00:00:00
+ • description: Medication reconciliation (procedure) | start: 2017-04-20 00:00:00 | stop: 2017-04-20 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2017-04-20 00:00:00 | stop: 2017-04-20 00:00:00
+ • description: Assessment of anxiety (procedure) | start: 2017-04-20 00:00:00 | stop: 2017-04-20 00:00:00
+ • description: Depression screening (procedure) | start: 2017-04-20 00:00:00 | stop: 2017-04-20 00:00:00
+ • description: Depression screening (procedure) | start: 2017-04-20 00:00:00 | stop: 2017-04-20 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2017-04-20 00:00:00 | stop: 2017-04-20 00:00:00
+ • description: Screening for drug abuse (procedure) | start: 2017-04-20 00:00:00 | stop: 2017-04-20 00:00:00
+ • description: Replacement of contraceptive intrauterine device (procedure) | start: 2019-03-14 00:00:00 | stop: 2019-03-14 00:00:00
+ • description: Medication reconciliation (procedure) | start: 2020-02-06 00:00:00 | stop: 2020-02-06 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2020-02-06 00:00:00 | stop: 2020-02-06 00:00:00
+ • description: Assessment of anxiety (procedure) | start: 2020-02-06 00:00:00 | stop: 2020-02-06 00:00:00
+ • description: Screening for domestic abuse (procedure) | start: 2020-02-06 00:00:00 | stop: 2020-02-06 00:00:00
+ • description: Depression screening (procedure) | start: 2020-02-06 00:00:00 | stop: 2020-02-06 00:00:00
+ • description: Depression screening (procedure) | start: 2020-02-06 00:00:00 | stop: 2020-02-06 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2020-02-06 00:00:00 | stop: 2020-02-06 00:00:00
+ • description: Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) | start: 2020-02-06 00:00:00 | stop: 2020-02-06 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 2020-02-06 00:00:00 | stop: 2020-02-06 00:00:00
+ • description: Dental consultation and report (procedure) | start: 2020-02-20 00:00:00 | stop: 2020-02-20 00:00:00
+ • description: Dental care (regime/therapy) | start: 2020-02-20 00:00:00 | stop: 2020-02-20 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2020-02-20 00:00:00 | stop: 2020-02-20 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2020-02-20 00:00:00 | stop: 2020-02-20 00:00:00
+ • description: Dental plain X-ray bitewing (procedure) | start: 2020-02-20 00:00:00 | stop: 2020-02-20 00:00:00
+ • description: Examination of gingivae (procedure) | start: 2020-02-20 00:00:00 | stop: 2020-02-20 00:00:00
+ • description: Restoration of tooth with coverage of all cusps using dental filling material (procedure) | start: 2020-02-20 00:00:00 | stop: 2020-02-20 00:00:00
+ • description: Dental fluoride treatment (procedure) | start: 2020-02-20 00:00:00 | stop: 2020-02-20 00:00:00
+ • description: Oral health education (procedure) | start: 2020-02-20 00:00:00 | stop: 2020-02-20 00:00:00
+ • description: Face mask (physical object) | start: 2020-07-19 00:00:00 | stop: 2020-07-19 00:00:00
+ • description: Medication reconciliation (procedure) | start: 2022-02-10 00:00:00 | stop: 2022-02-10 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2022-02-10 00:00:00 | stop: 2022-02-10 00:00:00
+ • description: Depression screening (procedure) | start: 2022-02-10 00:00:00 | stop: 2022-02-10 00:00:00
+ • description: Depression screening (procedure) | start: 2022-02-10 00:00:00 | stop: 2022-02-10 00:00:00
+ • description: Nasal sinus endoscopy (procedure) | start: 2023-09-05 00:00:00 | stop: 2023-09-06 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2024-02-15 00:00:00 | stop: 2024-02-15 00:00:00
+ • description: Screening for domestic abuse (procedure) | start: 2024-02-15 00:00:00 | stop: 2024-02-15 00:00:00
+ • description: Depression screening (procedure) | start: 2024-02-15 00:00:00 | stop: 2024-02-15 00:00:00
+ • description: Depression screening (procedure) | start: 2024-02-15 00:00:00 | stop: 2024-02-15 00:00:00
+ • description: Replacement of contraceptive intrauterine device (procedure) | start: 2024-03-14 00:00:00 | stop: 2024-03-14 00:00:00
+
+OBSERVATIONS
+----------------------------------------
+ • description: Body Height | value: 156.3 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 1.0 | units: {score}
+ • description: Body Weight | value: 69.1 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 28.3 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 79.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 125.0 | units: mm[Hg]
+ • description: Heart rate | value: 80.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Cholesterol [Mass/volume] in Serum or Plasma | value: 164.3 | units: mg/dL
+ • description: Triglycerides | value: 125.0 | units: mg/dL
+ • description: Low Density Lipoprotein Cholesterol | value: 76.9 | units: mg/dL
+ • description: Cholesterol in HDL [Mass/volume] in Serum or Plasma | value: 62.4 | units: mg/dL
+ • description: Tobacco smoking status | value: Ex-smoker (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: Yes | units: N/A
+ • description: Stress level | value: Very much | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 3 to 5 times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 124361 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: Less than high school degree | units: N/A
+ • description: Address | value: 782 Abbott Center Apt 25 | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 8.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] | value: 0.0 | units: {score}
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 0.0 | units: {score}
+ • description: Total score [DAST-10] | value: 0.0 | units: {score}
+ • description: Body Height | value: 156.3 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 4.0 | units: {score}
+ • description: Body Weight | value: 74.0 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 30.3 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 79.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 127.0 | units: mm[Hg]
+ • description: Heart rate | value: 82.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Leukocytes [#/volume] in Blood by Automated count | value: 7.3 | units: 10*3/uL
+ • description: Erythrocytes [#/volume] in Blood by Automated count | value: 5.4 | units: 10*6/uL
+ • description: Hemoglobin [Mass/volume] in Blood | value: 15.8 | units: g/dL
+ • description: Hematocrit [Volume Fraction] of Blood by Automated count | value: 38.9 | units: %
+ • description: MCV [Entitic volume] by Automated count | value: 91.5 | units: fL
+ • description: MCH [Entitic mass] by Automated count | value: 28.4 | units: pg
+ • description: MCHC [Mass/volume] by Automated count | value: 35.5 | units: g/dL
+ • description: Erythrocyte distribution width [Entitic volume] by Automated count | value: 42.8 | units: fL
+ • description: Platelets [#/volume] in Blood by Automated count | value: 355.7 | units: 10*3/uL
+ • description: Platelet distribution width [Entitic volume] in Blood by Automated count | value: 436.6 | units: fL
+ • description: Platelet mean volume [Entitic volume] in Blood by Automated count | value: 10.3 | units: fL
+ • description: Tobacco smoking status | value: Ex-smoker (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: Yes | units: N/A
+ • description: Stress level | value: Somewhat | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 1 or 2 times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 124361 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: Less than high school degree | units: N/A
+ • description: Address | value: 782 Abbott Center Apt 25 | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 8.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] | value: 17.0 | units: {score}
+ • description: Total score [HARK] | value: 0.0 | units: {score}
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 1.0 | units: {score}
+ • description: Total score [AUDIT-C] | value: 1.0 | units: {score}
+ • description: Body temperature | value: 37.8 | units: Cel
+ • description: Respiratory rate | value: 22.0 | units: /min
+ • description: Heart rate | value: 50.6 | units: /min
+ • description: Oxygen saturation in Arterial blood | value: 84.4 | units: %
+ • description: Diastolic Blood Pressure | value: 75.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 125.0 | units: mm[Hg]
+ • description: Body Weight | value: 74.0 | units: kg
+ • description: Influenza virus A Ag [Presence] in Upper respiratory specimen by Rapid immunoassay | value: Detected (qualifier value) | units: N/A
+ • description: Influenza virus B Ag [Presence] in Upper respiratory specimen by Rapid immunoassay | value: Not detected (qualifier value) | units: N/A
+ • description: SARS-CoV-2 RNA Pnl Resp NAA+probe | value: Detected (qualifier value) | units: N/A
+ • description: Body Height | value: 156.3 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 4.0 | units: {score}
+ • description: Body Weight | value: 74.0 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 30.3 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 71.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 124.0 | units: mm[Hg]
+ • description: Heart rate | value: 96.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Cholesterol [Mass/volume] in Serum or Plasma | value: 174.4 | units: mg/dL
+ • description: Triglycerides | value: 116.7 | units: mg/dL
+ • description: Low Density Lipoprotein Cholesterol | value: 91.1 | units: mg/dL
+ • description: Cholesterol in HDL [Mass/volume] in Serum or Plasma | value: 60.0 | units: mg/dL
+ • description: Tobacco smoking status | value: Ex-smoker (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: Yes | units: N/A
+ • description: Stress level | value: Not at all | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: Less than once a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 124361 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: Less than high school degree | units: N/A
+ • description: Address | value: 782 Abbott Center Apt 25 | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 8.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 0.0 | units: {score}
+ • description: Body Height | value: 156.3 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 2.0 | units: {score}
+ • description: Body Weight | value: 74.0 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 30.3 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 78.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 126.0 | units: mm[Hg]
+ • description: Heart rate | value: 76.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Tobacco smoking status | value: Ex-smoker (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: Yes | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: Yes | units: N/A
+ • description: Stress level | value: Not at all | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 5 or more times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 124361 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: Less than high school degree | units: N/A
+ • description: Address | value: 782 Abbott Center Apt 25 | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 8.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Total score [HARK] | value: 0.0 | units: {score}
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 2.0 | units: {score}
+ • description: QALY | value: 33.0 | units: a
+ • description: QALY | value: 34.0 | units: a
+ • description: QALY | value: 35.0 | units: a
+ • description: QALY | value: 36.0 | units: a
+ • description: QALY | value: 37.0 | units: a
+ • description: QALY | value: 38.0 | units: a
+ • description: QALY | value: 39.0 | units: a
+ • description: QALY | value: 39.9 | units: a
+ • description: QALY | value: 40.9 | units: a
+ • description: QALY | value: 41.9 | units: a
+ • description: QALY | value: 42.9 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.1 | units: a
+ • description: DALY | value: 0.1 | units: a
+ • description: DALY | value: 0.1 | units: a
+ • description: DALY | value: 0.1 | units: a
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+
+IMMUNIZATIONS
+----------------------------------------
+ • description: Influenza  seasonal  injectable  preservative free | date: 2017-04-20 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2020-02-06 00:00:00
+ • description: Hep A  adult | date: 2020-02-06 00:00:00
+ • description: COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose | date: 2021-04-08 00:00:00
+ • description: COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose | date: 2021-04-29 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2022-02-10 00:00:00
+ • description: Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed | date: 2022-02-10 00:00:00
+ • description: Hep A  adult | date: 2022-02-10 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2024-02-15 00:00:00
+
+DEVICES
+----------------------------------------
+ • description: Home nebulizer (physical object) | start: 2008-12-20 00:00:00 | stop: 2023-09-05 00:00:00
+ • description: Dental x-ray system (physical object) | start: 2020-02-20 00:00:00 | stop: 2020-02-20 00:00:00
+
+CAREPLANS
+----------------------------------------
+ • description: Minor surgery care management (procedure) | start: 2015-02-15 00:00:00 | stop: 2015-03-06 00:00:00
+ • description: Infectious disease care plan (record artifact) | start: 2020-07-19 00:00:00 | stop: 2020-07-19 00:00:00
+ • description: Infectious disease care plan (record artifact) | start: 2020-07-19 00:00:00 | stop: 2020-08-02 00:00:00
+
+IMAGING
+----------------------------------------
+ • bodysitedescription: Structure of region of internal part of mouth (body structure) | modalitydescription: Digital Radiography | date: 2020-02-20 00:00:00
+
+SUPPLIES
+----------------------------------------
+ • description: Dental equipment (physical object) | quantity: 1 | date: 2020-02-20 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 2020-02-20 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 2020-02-20 00:00:00

@@ -1,0 +1,539 @@
+PATIENT RECORD
+========================================
+Name: Maryjane289 Murazik203
+ID: ba459391-501f-22f5-3446-7defd52e5fab
+Birthdate: 1962-09-02 00:00:00
+Gender: F
+
+
+ENCOUNTERS
+----------------------------------------
+ • start: 1962-09-02 00:00:00 | stop: 1962-09-02 00:00:00 | description: Well child visit (procedure)
+ • start: 1962-10-07 00:00:00 | stop: 1962-10-07 00:00:00 | description: Well child visit (procedure)
+ • start: 1962-12-09 00:00:00 | stop: 1962-12-09 00:00:00 | description: Well child visit (procedure)
+ • start: 1963-02-10 00:00:00 | stop: 1963-02-10 00:00:00 | description: Well child visit (procedure)
+ • start: 1963-05-12 00:00:00 | stop: 1963-05-12 00:00:00 | description: Well child visit (procedure)
+ • start: 1963-05-30 00:00:00 | stop: 1963-05-30 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 1963-08-11 00:00:00 | stop: 1963-08-11 00:00:00 | description: Well child visit (procedure)
+ • start: 1963-11-10 00:00:00 | stop: 1963-11-10 00:00:00 | description: Well child visit (procedure)
+ • start: 1964-02-09 00:00:00 | stop: 1964-02-09 00:00:00 | description: Well child visit (procedure)
+ • start: 1964-08-09 00:00:00 | stop: 1964-08-09 00:00:00 | description: Well child visit (procedure)
+ • start: 1965-02-07 00:00:00 | stop: 1965-02-07 00:00:00 | description: Well child visit (procedure)
+ • start: 1965-07-01 00:00:00 | stop: 1965-07-01 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 1965-08-08 00:00:00 | stop: 1965-08-08 00:00:00 | description: Well child visit (procedure)
+ • start: 1965-08-15 00:00:00 | stop: 1965-08-15 00:00:00 | description: Encounter for check up (procedure)
+ • start: 1966-02-06 00:00:00 | stop: 1966-02-06 00:00:00 | description: Well child visit (procedure)
+ • start: 1966-08-07 00:00:00 | stop: 1966-08-07 00:00:00 | description: Well child visit (procedure)
+ • start: 1966-08-14 00:00:00 | stop: 1966-08-14 00:00:00 | description: Encounter for check up (procedure)
+ • start: 1967-08-13 00:00:00 | stop: 1967-08-13 00:00:00 | description: Well child visit (procedure)
+ • start: 1967-08-20 00:00:00 | stop: 1967-08-20 00:00:00 | description: Encounter for check up (procedure)
+ • start: 1968-08-18 00:00:00 | stop: 1968-08-18 00:00:00 | description: Well child visit (procedure)
+ • start: 1969-08-24 00:00:00 | stop: 1969-08-24 00:00:00 | description: Well child visit (procedure)
+ • start: 1970-08-30 00:00:00 | stop: 1970-08-30 00:00:00 | description: Well child visit (procedure)
+ • start: 1971-01-31 00:00:00 | stop: 1971-02-02 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 1971-02-04 00:00:00 | stop: 1971-02-04 00:00:00 | description: Discussion about treatment (procedure)
+ • start: 1971-02-09 00:00:00 | stop: 1971-02-09 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-03-02 00:00:00 | stop: 1971-03-02 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-03-22 00:00:00 | stop: 1971-03-22 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-04-12 00:00:00 | stop: 1971-04-12 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-05-04 00:00:00 | stop: 1971-05-04 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-05-26 00:00:00 | stop: 1971-05-26 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-06-18 00:00:00 | stop: 1971-06-18 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-07-08 00:00:00 | stop: 1971-07-08 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-08-11 00:00:00 | stop: 1971-08-16 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-08-21 00:00:00 | stop: 1971-08-21 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-08-22 00:00:00 | stop: 1971-08-22 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-08-23 00:00:00 | stop: 1971-08-24 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-08-25 00:00:00 | stop: 1971-08-25 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-08-26 00:00:00 | stop: 1971-08-26 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-08-27 00:00:00 | stop: 1971-08-27 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-08-28 00:00:00 | stop: 1971-08-28 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-09-05 00:00:00 | stop: 1971-09-05 00:00:00 | description: Well child visit (procedure)
+ • start: 1971-09-12 00:00:00 | stop: 1971-09-12 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-09-14 00:00:00 | stop: 1971-09-14 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-09-15 00:00:00 | stop: 1971-09-15 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-09-16 00:00:00 | stop: 1971-09-16 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-09-17 00:00:00 | stop: 1971-09-17 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-09-18 00:00:00 | stop: 1971-09-18 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-09-19 00:00:00 | stop: 1971-09-19 00:00:00 | description: Encounter for check up (procedure)
+ • start: 1971-10-03 00:00:00 | stop: 1971-10-03 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-10-05 00:00:00 | stop: 1971-10-05 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-10-06 00:00:00 | stop: 1971-10-06 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-10-07 00:00:00 | stop: 1971-10-07 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-10-08 00:00:00 | stop: 1971-10-08 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-10-09 00:00:00 | stop: 1971-10-09 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-10-10 00:00:00 | stop: 1971-10-10 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-10-12 00:00:00 | stop: 1971-10-12 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-10-13 00:00:00 | stop: 1971-10-13 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-10-14 00:00:00 | stop: 1971-10-14 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-10-15 00:00:00 | stop: 1971-10-15 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-10-16 00:00:00 | stop: 1971-10-16 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-10-18 00:00:00 | stop: 1971-10-18 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-10-19 00:00:00 | stop: 1971-10-19 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-10-20 00:00:00 | stop: 1971-10-20 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-10-22 00:00:00 | stop: 1971-10-22 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-10-23 00:00:00 | stop: 1971-10-23 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-10-23 00:00:00 | stop: 1971-10-23 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 1971-10-24 00:00:00 | stop: 1971-10-24 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-10-25 00:00:00 | stop: 1971-10-25 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-10-26 00:00:00 | stop: 1971-10-26 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-10-28 00:00:00 | stop: 1971-10-28 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1971-10-30 00:00:00 | stop: 1971-10-30 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1972-02-11 00:00:00 | stop: 1972-02-11 00:00:00 | description: Postoperative follow-up visit (procedure)
+ • start: 1972-05-07 00:00:00 | stop: 1972-06-01 00:00:00 | description: Admission to hospice (procedure)
+ • start: 1972-06-04 00:00:00 | stop: 1972-06-04 00:00:00 | description: Death Certification
+
+CONDITIONS
+----------------------------------------
+ • description: Medication review due (situation)
+ • description: Medication review due (situation)
+ • description: Medication review due (situation)
+ • description: Medication review due (situation)
+ • description: Otitis media (disorder)
+ • description: Medication review due (situation)
+ • description: Medication review due (situation)
+ • description: Otitis media (disorder)
+ • description: Medication review due (situation)
+ • description: Medication review due (situation)
+ • description: Medication review due (situation)
+ • description: Medication review due (situation)
+ • description: Medication review due (situation)
+ • description: Malignant neoplasm of breast (disorder)
+ • description: Medication review due (situation)
+ • description: Gingival disease (disorder)
+ • description: Viral sinusitis (disorder)
+
+MEDICATIONS
+----------------------------------------
+ • description: Ampicillin 100 MG/ML Injectable Solution | start: 1963-05-30 00:00:00 | stop: 1963-06-13 00:00:00
+ • description: Aspirin 81 MG Oral Tablet | start: 1963-05-30 00:00:00 | stop: 1963-06-13 00:00:00
+ • description: Ampicillin 100 MG/ML Injectable Solution | start: 1965-07-01 00:00:00 | stop: 1965-07-15 00:00:00
+ • description: Aspirin 81 MG Oral Tablet | start: 1965-07-01 00:00:00 | stop: 1965-07-15 00:00:00
+ • description: sodium fluoride 0.0272 MG/MG Oral Gel | start: 1966-08-14 00:00:00 | stop: 1966-08-14 00:00:00
+ • description: sodium fluoride 0.0272 MG/MG Oral Gel | start: 1967-08-20 00:00:00 | stop: 1967-08-20 00:00:00
+ • description: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection | start: 1971-02-09 00:00:00 | stop: 1971-02-09 00:00:00
+ • description: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection | start: 1971-03-02 00:00:00 | stop: 1971-03-02 00:00:00
+ • description: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection | start: 1971-03-22 00:00:00 | stop: 1971-03-22 00:00:00
+ • description: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection | start: 1971-04-12 00:00:00 | stop: 1971-04-12 00:00:00
+ • description: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection | start: 1971-05-04 00:00:00 | stop: 1971-05-04 00:00:00
+ • description: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection | start: 1971-05-26 00:00:00 | stop: 1971-05-26 00:00:00
+ • description: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection | start: 1971-06-18 00:00:00 | stop: 1971-06-18 00:00:00
+ • description: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection | start: 1971-07-08 00:00:00 | stop: 1971-07-08 00:00:00
+ • description: sodium fluoride 0.0272 MG/MG Oral Gel | start: 1971-09-19 00:00:00 | stop: 1971-09-19 00:00:00
+ • description: Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | start: 1971-10-23 00:00:00 | stop: 1971-11-18 00:00:00
+ • description: exemestane 25 MG Oral Tablet | start: 1971-10-30 00:00:00 | stop: 1971-10-30 00:00:00
+ • description: 5 ML hyaluronidase-oysk 2000 UNT/ML / trastuzumab 120 MG/ML Injection | start: 1971-10-30 00:00:00 | stop: 1971-10-30 00:00:00
+ • description: ribociclib 200 MG Oral Tablet | start: 1971-10-30 00:00:00 | stop: 1971-10-30 00:00:00
+
+PROCEDURES
+----------------------------------------
+ • description: Medication reconciliation (procedure) | start: 1962-09-02 00:00:00 | stop: 1962-09-02 00:00:00
+ • description: Medication reconciliation (procedure) | start: 1962-10-07 00:00:00 | stop: 1962-10-07 00:00:00
+ • description: Medication reconciliation (procedure) | start: 1962-12-09 00:00:00 | stop: 1962-12-09 00:00:00
+ • description: Medication reconciliation (procedure) | start: 1963-05-12 00:00:00 | stop: 1963-05-12 00:00:00
+ • description: Medication reconciliation (procedure) | start: 1963-11-10 00:00:00 | stop: 1963-11-10 00:00:00
+ • description: Medication reconciliation (procedure) | start: 1965-08-08 00:00:00 | stop: 1965-08-08 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 1965-08-08 00:00:00 | stop: 1965-08-08 00:00:00
+ • description: Dental consultation and report (procedure) | start: 1965-08-15 00:00:00 | stop: 1965-08-15 00:00:00
+ • description: Dental care (regime/therapy) | start: 1965-08-15 00:00:00 | stop: 1965-08-15 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 1965-08-15 00:00:00 | stop: 1965-08-15 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 1965-08-15 00:00:00 | stop: 1965-08-15 00:00:00
+ • description: Examination of gingivae (procedure) | start: 1965-08-15 00:00:00 | stop: 1965-08-15 00:00:00
+ • description: Oral health education (procedure) | start: 1965-08-15 00:00:00 | stop: 1965-08-15 00:00:00
+ • description: Medication reconciliation (procedure) | start: 1966-02-06 00:00:00 | stop: 1966-02-06 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 1966-08-07 00:00:00 | stop: 1966-08-07 00:00:00
+ • description: Dental consultation and report (procedure) | start: 1966-08-14 00:00:00 | stop: 1966-08-14 00:00:00
+ • description: Dental care (regime/therapy) | start: 1966-08-14 00:00:00 | stop: 1966-08-14 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 1966-08-14 00:00:00 | stop: 1966-08-14 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 1966-08-14 00:00:00 | stop: 1966-08-14 00:00:00
+ • description: Examination of gingivae (procedure) | start: 1966-08-14 00:00:00 | stop: 1966-08-14 00:00:00
+ • description: Dental fluoride treatment (procedure) | start: 1966-08-14 00:00:00 | stop: 1966-08-14 00:00:00
+ • description: Oral health education (procedure) | start: 1966-08-14 00:00:00 | stop: 1966-08-14 00:00:00
+ • description: Medication reconciliation (procedure) | start: 1967-08-13 00:00:00 | stop: 1967-08-13 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 1967-08-13 00:00:00 | stop: 1967-08-13 00:00:00
+ • description: Dental consultation and report (procedure) | start: 1967-08-20 00:00:00 | stop: 1967-08-20 00:00:00
+ • description: Dental care (regime/therapy) | start: 1967-08-20 00:00:00 | stop: 1967-08-20 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 1967-08-20 00:00:00 | stop: 1967-08-20 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 1967-08-20 00:00:00 | stop: 1967-08-20 00:00:00
+ • description: Dental plain X-ray bitewing (procedure) | start: 1967-08-20 00:00:00 | stop: 1967-08-20 00:00:00
+ • description: Examination of gingivae (procedure) | start: 1967-08-20 00:00:00 | stop: 1967-08-20 00:00:00
+ • description: Dental fluoride treatment (procedure) | start: 1967-08-20 00:00:00 | stop: 1967-08-20 00:00:00
+ • description: Oral health education (procedure) | start: 1967-08-20 00:00:00 | stop: 1967-08-20 00:00:00
+ • description: Medication reconciliation (procedure) | start: 1968-08-18 00:00:00 | stop: 1968-08-18 00:00:00
+ • description: Medication reconciliation (procedure) | start: 1969-08-24 00:00:00 | stop: 1969-08-24 00:00:00
+ • description: Medication reconciliation (procedure) | start: 1970-08-30 00:00:00 | stop: 1970-08-30 00:00:00
+ • description: Mammogram - symptomatic (procedure) | start: 1971-01-31 00:00:00 | stop: 1971-01-31 00:00:00
+ • description: Ultrasonography of bilateral breasts (procedure) | start: 1971-01-31 00:00:00 | stop: 1971-01-31 00:00:00
+ • description: Biopsy of breast (procedure) | start: 1971-01-31 00:00:00 | stop: 1971-01-31 00:00:00
+ • description: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure) | start: 1971-01-31 00:00:00 | stop: 1971-02-02 00:00:00
+ • description: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure) | start: 1971-02-02 00:00:00 | stop: 1971-02-02 00:00:00
+ • description: Discussion about options (procedure) | start: 1971-02-04 00:00:00 | stop: 1971-02-04 00:00:00
+ • description: Chemotherapy (procedure) | start: 1971-02-09 00:00:00 | stop: 1971-02-09 00:00:00
+ • description: Chemotherapy (procedure) | start: 1971-03-02 00:00:00 | stop: 1971-03-02 00:00:00
+ • description: Chemotherapy (procedure) | start: 1971-03-22 00:00:00 | stop: 1971-03-22 00:00:00
+ • description: Chemotherapy (procedure) | start: 1971-04-12 00:00:00 | stop: 1971-04-12 00:00:00
+ • description: Chemotherapy (procedure) | start: 1971-05-04 00:00:00 | stop: 1971-05-04 00:00:00
+ • description: Chemotherapy (procedure) | start: 1971-05-26 00:00:00 | stop: 1971-05-26 00:00:00
+ • description: Chemotherapy (procedure) | start: 1971-06-18 00:00:00 | stop: 1971-06-18 00:00:00
+ • description: Chemotherapy (procedure) | start: 1971-07-08 00:00:00 | stop: 1971-07-08 00:00:00
+ • description: Sentinel lymph node biopsy (procedure) | start: 1971-08-11 00:00:00 | stop: 1971-08-11 00:00:00
+ • description: Excision of sentinel lymph node (procedure) | start: 1971-08-11 00:00:00 | stop: 1971-08-11 00:00:00
+ • description: Excision of breast tissue (procedure) | start: 1971-08-11 00:00:00 | stop: 1971-08-12 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-08-21 00:00:00 | stop: 1971-08-21 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-08-22 00:00:00 | stop: 1971-08-22 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-08-23 00:00:00 | stop: 1971-08-24 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-08-25 00:00:00 | stop: 1971-08-25 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-08-26 00:00:00 | stop: 1971-08-26 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-08-27 00:00:00 | stop: 1971-08-27 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-08-28 00:00:00 | stop: 1971-08-28 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 1971-09-05 00:00:00 | stop: 1971-09-05 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-09-12 00:00:00 | stop: 1971-09-12 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-09-14 00:00:00 | stop: 1971-09-14 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-09-15 00:00:00 | stop: 1971-09-15 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-09-16 00:00:00 | stop: 1971-09-16 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-09-17 00:00:00 | stop: 1971-09-17 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-09-18 00:00:00 | stop: 1971-09-18 00:00:00
+ • description: Dental consultation and report (procedure) | start: 1971-09-19 00:00:00 | stop: 1971-09-19 00:00:00
+ • description: Dental care (regime/therapy) | start: 1971-09-19 00:00:00 | stop: 1971-09-19 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 1971-09-19 00:00:00 | stop: 1971-09-19 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 1971-09-19 00:00:00 | stop: 1971-09-19 00:00:00
+ • description: Examination of gingivae (procedure) | start: 1971-09-19 00:00:00 | stop: 1971-09-19 00:00:00
+ • description: Dental surgical procedure (procedure) | start: 1971-09-19 00:00:00 | stop: 1971-09-19 00:00:00
+ • description: Dental application of desensitizing medicament (procedure) | start: 1971-09-19 00:00:00 | stop: 1971-09-19 00:00:00
+ • description: Gingivectomy or gingivoplasty  per tooth (procedure) | start: 1971-09-19 00:00:00 | stop: 1971-09-19 00:00:00
+ • description: Postoperative care for dental procedure (regime/therapy) | start: 1971-09-19 00:00:00 | stop: 1971-09-19 00:00:00
+ • description: Dental fluoride treatment (procedure) | start: 1971-09-19 00:00:00 | stop: 1971-09-19 00:00:00
+ • description: Oral health education (procedure) | start: 1971-09-19 00:00:00 | stop: 1971-09-19 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-10-03 00:00:00 | stop: 1971-10-03 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-10-05 00:00:00 | stop: 1971-10-05 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-10-06 00:00:00 | stop: 1971-10-06 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-10-07 00:00:00 | stop: 1971-10-07 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-10-08 00:00:00 | stop: 1971-10-08 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-10-09 00:00:00 | stop: 1971-10-09 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-10-10 00:00:00 | stop: 1971-10-10 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-10-12 00:00:00 | stop: 1971-10-12 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-10-13 00:00:00 | stop: 1971-10-13 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-10-14 00:00:00 | stop: 1971-10-14 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-10-15 00:00:00 | stop: 1971-10-15 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-10-16 00:00:00 | stop: 1971-10-16 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-10-18 00:00:00 | stop: 1971-10-18 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-10-19 00:00:00 | stop: 1971-10-19 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-10-20 00:00:00 | stop: 1971-10-20 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-10-22 00:00:00 | stop: 1971-10-22 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-10-23 00:00:00 | stop: 1971-10-23 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-10-24 00:00:00 | stop: 1971-10-24 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-10-25 00:00:00 | stop: 1971-10-25 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-10-26 00:00:00 | stop: 1971-10-26 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 1971-10-28 00:00:00 | stop: 1971-10-28 00:00:00
+ • description: Physical examination  complete (procedure) | start: 1972-02-11 00:00:00 | stop: 1972-02-11 00:00:00
+ • description: Certification procedure (procedure) | start: 1972-05-07 00:00:00 | stop: 1972-05-07 00:00:00
+ • description: Notifications (procedure) | start: 1972-05-07 00:00:00 | stop: 1972-05-07 00:00:00
+ • description: Initial patient assessment (procedure) | start: 1972-05-07 00:00:00 | stop: 1972-05-07 00:00:00
+ • description: Development of individualized plan of care (procedure) | start: 1972-05-07 00:00:00 | stop: 1972-05-07 00:00:00
+ • description: Hospice care (regime/therapy) | start: 1972-05-07 00:00:00 | stop: 1972-05-07 00:00:00
+ • description: Hospice care (regime/therapy) | start: 1972-05-08 00:00:00 | stop: 1972-05-08 00:00:00
+ • description: Hospice care (regime/therapy) | start: 1972-05-09 00:00:00 | stop: 1972-05-09 00:00:00
+ • description: Hospice care (regime/therapy) | start: 1972-05-10 00:00:00 | stop: 1972-05-10 00:00:00
+ • description: Hospice care (regime/therapy) | start: 1972-05-11 00:00:00 | stop: 1972-05-11 00:00:00
+ • description: Hospice care (regime/therapy) | start: 1972-05-12 00:00:00 | stop: 1972-05-12 00:00:00
+ • description: Hospice care (regime/therapy) | start: 1972-05-13 00:00:00 | stop: 1972-05-13 00:00:00
+ • description: Hospice care (regime/therapy) | start: 1972-05-14 00:00:00 | stop: 1972-05-14 00:00:00
+ • description: Hospice care (regime/therapy) | start: 1972-05-15 00:00:00 | stop: 1972-05-15 00:00:00
+ • description: Hospice care (regime/therapy) | start: 1972-05-16 00:00:00 | stop: 1972-05-16 00:00:00
+ • description: Hospice care (regime/therapy) | start: 1972-05-17 00:00:00 | stop: 1972-05-17 00:00:00
+ • description: Hospice care (regime/therapy) | start: 1972-05-18 00:00:00 | stop: 1972-05-18 00:00:00
+ • description: Hospice care (regime/therapy) | start: 1972-05-19 00:00:00 | stop: 1972-05-19 00:00:00
+ • description: Hospice care (regime/therapy) | start: 1972-05-20 00:00:00 | stop: 1972-05-20 00:00:00
+ • description: Hospice care (regime/therapy) | start: 1972-05-21 00:00:00 | stop: 1972-05-21 00:00:00
+ • description: Hospice care (regime/therapy) | start: 1972-05-22 00:00:00 | stop: 1972-05-22 00:00:00
+ • description: Hospice care (regime/therapy) | start: 1972-05-23 00:00:00 | stop: 1972-05-23 00:00:00
+ • description: Hospice care (regime/therapy) | start: 1972-05-24 00:00:00 | stop: 1972-05-24 00:00:00
+ • description: Hospice care (regime/therapy) | start: 1972-05-25 00:00:00 | stop: 1972-05-25 00:00:00
+ • description: Hospice care (regime/therapy) | start: 1972-05-26 00:00:00 | stop: 1972-05-26 00:00:00
+ • description: Hospice care (regime/therapy) | start: 1972-05-27 00:00:00 | stop: 1972-05-27 00:00:00
+ • description: Hospice care (regime/therapy) | start: 1972-05-28 00:00:00 | stop: 1972-05-28 00:00:00
+
+OBSERVATIONS
+----------------------------------------
+ • description: Body Height | value: 54.1 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 0.0 | units: {score}
+ • description: Body Weight | value: 4.2 | units: kg
+ • description: Weight-for-length Per age and sex | value: 26.7 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 85.5 | units: %
+ • description: Head Occipital-frontal circumference | value: 36.5 | units: cm
+ • description: Diastolic Blood Pressure | value: 77.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 149.0 | units: mm[Hg]
+ • description: Heart rate | value: 80.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Leukocytes [#/volume] in Blood by Automated count | value: 9.5 | units: 10*3/uL
+ • description: Erythrocytes [#/volume] in Blood by Automated count | value: 5.0 | units: 10*6/uL
+ • description: Hemoglobin [Mass/volume] in Blood | value: 13.6 | units: g/dL
+ • description: Hematocrit [Volume Fraction] of Blood by Automated count | value: 49.6 | units: %
+ • description: MCV [Entitic volume] by Automated count | value: 93.3 | units: fL
+ • description: MCH [Entitic mass] by Automated count | value: 32.1 | units: pg
+ • description: MCHC [Mass/volume] by Automated count | value: 33.5 | units: g/dL
+ • description: Erythrocyte distribution width [Entitic volume] by Automated count | value: 44.9 | units: fL
+ • description: Platelets [#/volume] in Blood by Automated count | value: 366.1 | units: 10*3/uL
+ • description: Platelet distribution width [Entitic volume] in Blood by Automated count | value: 288.5 | units: fL
+ • description: Platelet mean volume [Entitic volume] in Blood by Automated count | value: 10.6 | units: fL
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 57.6 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 0.0 | units: {score}
+ • description: Body Weight | value: 5.0 | units: kg
+ • description: Weight-for-length Per age and sex | value: 16.0 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 85.5 | units: %
+ • description: Head Occipital-frontal circumference | value: 39.6 | units: cm
+ • description: Diastolic Blood Pressure | value: 81.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 143.0 | units: mm[Hg]
+ • description: Heart rate | value: 85.0 | units: /min
+ • description: Respiratory rate | value: 16.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 62.8 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 1.0 | units: {score}
+ • description: Body Weight | value: 6.4 | units: kg
+ • description: Weight-for-length Per age and sex | value: 29.7 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 85.5 | units: %
+ • description: Head Occipital-frontal circumference | value: 42.0 | units: cm
+ • description: Diastolic Blood Pressure | value: 79.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 140.0 | units: mm[Hg]
+ • description: Heart rate | value: 73.0 | units: /min
+ • description: Respiratory rate | value: 16.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 66.8 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 2.0 | units: {score}
+ • description: Body Weight | value: 7.6 | units: kg
+ • description: Weight-for-length Per age and sex | value: 44.9 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 85.5 | units: %
+ • description: Head Occipital-frontal circumference | value: 43.5 | units: cm
+ • description: Diastolic Blood Pressure | value: 82.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 147.0 | units: mm[Hg]
+ • description: Heart rate | value: 65.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 71.8 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 0.0 | units: {score}
+ • description: Body Weight | value: 9.0 | units: kg
+ • description: Weight-for-length Per age and sex | value: 56.4 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 85.5 | units: %
+ • description: Head Occipital-frontal circumference | value: 45.1 | units: cm
+ • description: Diastolic Blood Pressure | value: 77.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 148.0 | units: mm[Hg]
+ • description: Heart rate | value: 71.0 | units: /min
+ • description: Respiratory rate | value: 13.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 75.9 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 2.0 | units: {score}
+ • description: Body Weight | value: 10.1 | units: kg
+ • description: Weight-for-length Per age and sex | value: 64.3 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 85.5 | units: %
+ • description: Head Occipital-frontal circumference | value: 46.3 | units: cm
+ • description: Diastolic Blood Pressure | value: 82.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 144.0 | units: mm[Hg]
+ • description: Heart rate | value: 63.0 | units: /min
+ • description: Respiratory rate | value: 16.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 79.5 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 0.0 | units: {score}
+ • description: Body Weight | value: 11.0 | units: kg
+ • description: Weight-for-length Per age and sex | value: 63.8 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 85.5 | units: %
+ • description: Head Occipital-frontal circumference | value: 47.1 | units: cm
+ • description: Diastolic Blood Pressure | value: 81.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 143.0 | units: mm[Hg]
+ • description: Heart rate | value: 65.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 82.8 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 0.0 | units: {score}
+ • description: Body Weight | value: 11.8 | units: kg
+ • description: Weight-for-length Per age and sex | value: 68.5 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 85.5 | units: %
+ • description: Head Occipital-frontal circumference | value: 47.8 | units: cm
+ • description: Diastolic Blood Pressure | value: 83.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 140.0 | units: mm[Hg]
+ • description: Heart rate | value: 92.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 88.7 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 3.0 | units: {score}
+ • description: Body Weight | value: 13.0 | units: kg
+ • description: Weight-for-length Per age and sex | value: 62.0 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 85.5 | units: %
+ • description: Head Occipital-frontal circumference | value: 48.9 | units: cm
+ • description: Diastolic Blood Pressure | value: 78.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 141.0 | units: mm[Hg]
+ • description: Heart rate | value: 73.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 93.2 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 0.0 | units: {score}
+ • description: Body Weight | value: 14.1 | units: kg
+ • description: Weight-for-length Per age and sex | value: 66.8 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 85.5 | units: %
+ • description: Head Occipital-frontal circumference | value: 49.6 | units: cm
+ • description: Body mass index (BMI) [Ratio] | value: 16.2 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 53.9 | units: %
+ • description: Diastolic Blood Pressure | value: 91.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 139.0 | units: mm[Hg]
+ • description: Heart rate | value: 72.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 97.4 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 2.0 | units: {score}
+ • description: Body Weight | value: 15.3 | units: kg
+ • description: Weight-for-length Per age and sex | value: 71.2 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 85.5 | units: %
+ • description: Head Occipital-frontal circumference | value: 50.2 | units: cm
+ • description: Body mass index (BMI) [Ratio] | value: 16.2 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 63.0 | units: %
+ • description: Diastolic Blood Pressure | value: 78.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 139.0 | units: mm[Hg]
+ • description: Heart rate | value: 93.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 101.1 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 4.0 | units: {score}
+ • description: Body Weight | value: 17.0 | units: kg
+ • description: Weight-for-length Per age and sex | value: 71.7 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 85.5 | units: %
+ • description: Head Occipital-frontal circumference | value: 50.2 | units: cm
+ • description: Body mass index (BMI) [Ratio] | value: 16.6 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 79.0 | units: %
+ • description: Diastolic Blood Pressure | value: 82.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 140.0 | units: mm[Hg]
+ • description: Heart rate | value: 86.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 104.7 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 3.0 | units: {score}
+ • description: Body Weight | value: 18.4 | units: kg
+ • description: Weight-for-length Per age and sex | value: 71.7 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 85.5 | units: %
+ • description: Head Occipital-frontal circumference | value: 50.2 | units: cm
+ • description: Body mass index (BMI) [Ratio] | value: 16.8 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 85.1 | units: %
+ • description: Diastolic Blood Pressure | value: 78.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 150.0 | units: mm[Hg]
+ • description: Heart rate | value: 78.0 | units: /min
+ • description: Respiratory rate | value: 13.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 112.0 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 1.0 | units: {score}
+ • description: Body Weight | value: 22.3 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 17.8 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 93.1 | units: %
+ • description: Diastolic Blood Pressure | value: 79.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 140.0 | units: mm[Hg]
+ • description: Heart rate | value: 80.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 119.5 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 2.0 | units: {score}
+ • description: Body Weight | value: 30.8 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 21.6 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 98.8 | units: %
+ • description: Diastolic Blood Pressure | value: 83.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 139.0 | units: mm[Hg]
+ • description: Heart rate | value: 85.0 | units: /min
+ • description: Respiratory rate | value: 16.0 | units: /min
+ • description: Leukocytes [#/volume] in Blood by Automated count | value: 7.1 | units: 10*3/uL
+ • description: Erythrocytes [#/volume] in Blood by Automated count | value: 5.5 | units: 10*6/uL
+ • description: Hemoglobin [Mass/volume] in Blood | value: 16.2 | units: g/dL
+ • description: Hematocrit [Volume Fraction] of Blood by Automated count | value: 46.6 | units: %
+ • description: MCV [Entitic volume] by Automated count | value: 93.8 | units: fL
+ • description: MCH [Entitic mass] by Automated count | value: 32.1 | units: pg
+ • description: MCHC [Mass/volume] by Automated count | value: 34.8 | units: g/dL
+ • description: Erythrocyte distribution width [Entitic volume] by Automated count | value: 40.9 | units: fL
+ • description: Platelets [#/volume] in Blood by Automated count | value: 332.4 | units: 10*3/uL
+ • description: Platelet distribution width [Entitic volume] in Blood by Automated count | value: 225.5 | units: fL
+ • description: Platelet mean volume [Entitic volume] in Blood by Automated count | value: 11.5 | units: fL
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 126.6 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 3.0 | units: {score}
+ • description: Body Weight | value: 36.5 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 22.8 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 98.7 | units: %
+ • description: Diastolic Blood Pressure | value: 81.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 145.0 | units: mm[Hg]
+ • description: Heart rate | value: 79.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 133.1 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 3.0 | units: {score}
+ • description: Body Weight | value: 42.6 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 24.1 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 98.6 | units: %
+ • description: Diastolic Blood Pressure | value: 66.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 136.0 | units: mm[Hg]
+ • description: Heart rate | value: 72.0 | units: /min
+ • description: Respiratory rate | value: 13.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Site of distant metastasis in Breast tumor | value: None (qualifier value) | units: N/A
+ • description: Distant metastases.clinical [Class] Cancer | value: M0 category (finding) | units: N/A
+ • description: Size.maximum dimension in Tumor | value: 5.0 | units: cm
+ • description: Primary tumor.clinical [Class] Cancer | value: T2 category (finding) | units: N/A
+ • description: Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy | value: 26.1 | units: {#}
+ • description: Regional lymph nodes.clinical [Class] Cancer | value: N3 category (finding) | units: N/A
+ • description: HER2 [Presence] in Breast cancer specimen by Immune stain | value: Positive (qualifier value) | units: N/A
+ • description: HER2 [Presence] in Breast cancer specimen by FISH | value: greater than 2.2 | units: ratio
+ • description: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain | value: Positive (qualifier value) | units: N/A
+ • description: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain | value: Positive (qualifier value) | units: N/A
+ • description: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain | value: Positive (qualifier value) | units: N/A
+ • description: Stage group.clinical Cancer | value: Stage 3C (qualifier value) | units: N/A
+ • description: Stage group.clinical Cancer | value: Stage 3 (qualifier value) | units: N/A
+ • description: Response to cancer treatment | value: Improving (qualifier value) | units: N/A
+ • description: Body Height | value: 139.2 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 4.0 | units: {score}
+ • description: Body Weight | value: 49.4 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 25.5 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 98.4 | units: %
+ • description: Diastolic Blood Pressure | value: 70.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 129.0 | units: mm[Hg]
+ • description: Heart rate | value: 96.0 | units: /min
+ • description: Respiratory rate | value: 12.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Treatment status Cancer | value: Treatment changed (situation) | units: N/A
+ • description: Response to cancer treatment | value: Worsening (qualifier value) | units: N/A
+ • description: Cause of Death [US Standard Certificate of Death] | value: Malignant neoplasm of breast (disorder) | units: N/A
+
+IMMUNIZATIONS
+----------------------------------------
+ • description: IPV | date: 1962-12-09 00:00:00
+ • description: IPV | date: 1963-02-10 00:00:00
+ • description: IPV | date: 1963-05-12 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 1963-05-12 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 1964-08-09 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 1965-08-08 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 1966-08-07 00:00:00
+ • description: IPV | date: 1967-08-13 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 1967-08-13 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 1968-08-18 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 1969-08-24 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 1970-08-30 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 1971-09-05 00:00:00
+
+DEVICES
+----------------------------------------
+ • description: Dental x-ray system (physical object) | start: 1967-08-20 00:00:00 | stop: 1967-08-20 00:00:00
+ • description: Operating room (environment) | start: 1971-09-19 00:00:00 | stop: N/A
+ • description: Hospital bed  device (physical object) | start: 1972-05-07 00:00:00 | stop: N/A
+ • description: Patient lifting system (physical object) | start: 1972-05-07 00:00:00 | stop: N/A
+
+IMAGING
+----------------------------------------
+ • bodysitedescription: Structure of region of internal part of mouth (body structure) | modalitydescription: Digital Radiography | date: 1967-08-20 00:00:00
+
+SUPPLIES
+----------------------------------------
+ • description: Dental equipment (physical object) | quantity: 1 | date: 1965-08-15 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 1965-08-15 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 1965-08-15 00:00:00
+ • description: Dental equipment (physical object) | quantity: 1 | date: 1966-08-14 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 1966-08-14 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 1966-08-14 00:00:00
+ • description: Dental equipment (physical object) | quantity: 1 | date: 1967-08-20 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 1967-08-20 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 1967-08-20 00:00:00
+ • description: Dental equipment (physical object) | quantity: 1 | date: 1971-09-19 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 1971-09-19 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 1971-09-19 00:00:00

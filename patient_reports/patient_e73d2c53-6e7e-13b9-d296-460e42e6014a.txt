@@ -1,0 +1,607 @@
+PATIENT RECORD
+========================================
+Name: Lauralee67 Sauer652
+ID: e73d2c53-6e7e-13b9-d296-460e42e6014a
+Birthdate: 1968-01-22 00:00:00
+Gender: F
+
+
+ENCOUNTERS
+----------------------------------------
+ • start: 1986-03-17 00:00:00 | stop: 1986-03-17 00:00:00 | description: General examination of patient (procedure)
+ • start: 1987-03-23 00:00:00 | stop: 1987-03-23 00:00:00 | description: General examination of patient (procedure)
+ • start: 1990-03-26 00:00:00 | stop: 1990-03-26 00:00:00 | description: General examination of patient (procedure)
+ • start: 2002-04-15 00:00:00 | stop: 2002-04-15 00:00:00 | description: General examination of patient (procedure)
+ • start: 2003-04-15 00:00:00 | stop: 2003-04-16 00:00:00 | description: Admission to surgical department (procedure)
+ • start: 2013-02-04 00:00:00 | stop: 2013-02-04 00:00:00 | description: Encounter for check up (procedure)
+ • start: 2014-02-10 00:00:00 | stop: 2014-02-10 00:00:00 | description: General examination of patient (procedure)
+ • start: 2014-02-17 00:00:00 | stop: 2014-02-17 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2015-07-17 00:00:00 | stop: 2015-07-17 00:00:00 | description: Emergency room admission (procedure)
+ • start: 2016-02-15 00:00:00 | stop: 2016-02-15 00:00:00 | description: General examination of patient (procedure)
+ • start: 2016-02-29 00:00:00 | stop: 2016-02-29 00:00:00 | description: Encounter for check up (procedure)
+ • start: 2018-01-22 00:00:00 | stop: 2018-01-22 00:00:00 | description: General examination of patient (procedure)
+ • start: 2018-02-05 00:00:00 | stop: 2018-02-05 00:00:00 | description: Encounter for check up (procedure)
+ • start: 2019-01-28 00:00:00 | stop: 2019-01-28 00:00:00 | description: General examination of patient (procedure)
+ • start: 2020-02-03 00:00:00 | stop: 2020-02-03 00:00:00 | description: General examination of patient (procedure)
+ • start: 2021-02-08 00:00:00 | stop: 2021-02-08 00:00:00 | description: General examination of patient (procedure)
+ • start: 2021-02-22 00:00:00 | stop: 2021-02-22 00:00:00 | description: Encounter for check up (procedure)
+ • start: 2021-06-28 00:00:00 | stop: 2021-06-28 00:00:00 | description: Administration of vaccine to produce active immunity (procedure)
+ • start: 2022-02-04 00:00:00 | stop: 2022-02-04 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 2022-02-14 00:00:00 | stop: 2022-02-14 00:00:00 | description: General examination of patient (procedure)
+ • start: 2023-02-20 00:00:00 | stop: 2023-02-20 00:00:00 | description: General examination of patient (procedure)
+ • start: 2024-02-26 00:00:00 | stop: 2024-02-26 00:00:00 | description: General examination of patient (procedure)
+ • start: 2024-03-27 00:00:00 | stop: 2024-03-27 00:00:00 | description: Follow-up encounter (procedure)
+ • start: 2024-05-26 00:00:00 | stop: 2024-05-26 00:00:00 | description: Follow-up encounter (procedure)
+ • start: 2024-07-25 00:00:00 | stop: 2024-07-25 00:00:00 | description: Follow-up encounter (procedure)
+
+CONDITIONS
+----------------------------------------
+ • description: Housing unsatisfactory (finding)
+ • description: Only received primary school education (finding)
+ • description: Transport problem (finding)
+ • description: Lack of access to transportation (finding)
+ • description: Body mass index 30+ - obesity (finding)
+ • description: Prediabetes (finding)
+ • description: History of tubal ligation (situation)
+ • description: Stress (finding)
+ • description: Unemployed (finding)
+ • description: Limited social contact (finding)
+ • description: Chronic pain (finding)
+ • description: Chronic low back pain (finding)
+ • description: Chronic neck pain (finding)
+ • description: Sprain (morphologic abnormality)
+ • description: Sprain of wrist (disorder)
+ • description: Medication review due (situation)
+ • description: Full-time employment (finding)
+ • description: Unemployed (finding)
+ • description: Gingivitis (disorder)
+ • description: Full-time employment (finding)
+ • description: Stress (finding)
+ • description: Gingivitis (disorder)
+ • description: Gingival disease (disorder)
+ • description: Primary dental caries (disorder)
+ • description: Acute viral pharyngitis (disorder)
+ • description: Stress (finding)
+ • description: Medication review due (situation)
+ • description: Essential hypertension (disorder)
+ • description: Medication review due (situation)
+ • description: Stress (finding)
+
+MEDICATIONS
+----------------------------------------
+ • description: Ibuprofen 200 MG Oral Tablet | start: 2015-07-17 00:00:00 | stop: 2015-08-21 00:00:00
+ • description: sodium fluoride 0.0272 MG/MG Oral Gel | start: 2016-02-29 00:00:00 | stop: 2016-02-29 00:00:00
+ • description: sodium fluoride 0.0272 MG/MG Oral Gel | start: 2018-02-05 00:00:00 | stop: 2018-02-05 00:00:00
+ • description: sodium fluoride 0.0272 MG/MG Oral Gel | start: 2021-02-22 00:00:00 | stop: 2021-02-22 00:00:00
+ • description: amLODIPine 2.5 MG Oral Tablet | start: 2024-02-26 00:00:00 | stop: 2024-02-26 00:00:00
+ • description: amLODIPine 2.5 MG Oral Tablet | start: 2024-02-26 00:00:00 | stop: N/A
+ • description: Hydrochlorothiazide 25 MG Oral Tablet | start: 2024-03-27 00:00:00 | stop: N/A
+ • description: lisinopril 10 MG Oral Tablet | start: 2024-05-26 00:00:00 | stop: N/A
+
+PROCEDURES
+----------------------------------------
+ • description: Assessment of health and social care needs (procedure) | start: 2016-02-15 00:00:00 | stop: 2016-02-15 00:00:00
+ • description: Depression screening (procedure) | start: 2016-02-15 00:00:00 | stop: 2016-02-15 00:00:00
+ • description: Depression screening (procedure) | start: 2016-02-15 00:00:00 | stop: 2016-02-15 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2016-02-15 00:00:00 | stop: 2016-02-15 00:00:00
+ • description: Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) | start: 2016-02-15 00:00:00 | stop: 2016-02-15 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 2016-02-15 00:00:00 | stop: 2016-02-15 00:00:00
+ • description: Dental consultation and report (procedure) | start: 2016-02-29 00:00:00 | stop: 2016-02-29 00:00:00
+ • description: Dental care (regime/therapy) | start: 2016-02-29 00:00:00 | stop: 2016-02-29 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2016-02-29 00:00:00 | stop: 2016-02-29 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2016-02-29 00:00:00 | stop: 2016-02-29 00:00:00
+ • description: Examination of gingivae (procedure) | start: 2016-02-29 00:00:00 | stop: 2016-02-29 00:00:00
+ • description: Dental fluoride treatment (procedure) | start: 2016-02-29 00:00:00 | stop: 2016-02-29 00:00:00
+ • description: Oral health education (procedure) | start: 2016-02-29 00:00:00 | stop: 2016-02-29 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2018-01-22 00:00:00 | stop: 2018-01-22 00:00:00
+ • description: Depression screening (procedure) | start: 2018-01-22 00:00:00 | stop: 2018-01-22 00:00:00
+ • description: Depression screening (procedure) | start: 2018-01-22 00:00:00 | stop: 2018-01-22 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 2018-01-22 00:00:00 | stop: 2018-01-22 00:00:00
+ • description: Dental consultation and report (procedure) | start: 2018-02-05 00:00:00 | stop: 2018-02-05 00:00:00
+ • description: Dental care (regime/therapy) | start: 2018-02-05 00:00:00 | stop: 2018-02-05 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2018-02-05 00:00:00 | stop: 2018-02-05 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2018-02-05 00:00:00 | stop: 2018-02-05 00:00:00
+ • description: Examination of gingivae (procedure) | start: 2018-02-05 00:00:00 | stop: 2018-02-05 00:00:00
+ • description: Dental fluoride treatment (procedure) | start: 2018-02-05 00:00:00 | stop: 2018-02-05 00:00:00
+ • description: Oral health education (procedure) | start: 2018-02-05 00:00:00 | stop: 2018-02-05 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2019-01-28 00:00:00 | stop: 2019-01-28 00:00:00
+ • description: Depression screening (procedure) | start: 2019-01-28 00:00:00 | stop: 2019-01-28 00:00:00
+ • description: Depression screening (procedure) | start: 2019-01-28 00:00:00 | stop: 2019-01-28 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2019-01-28 00:00:00 | stop: 2019-01-28 00:00:00
+ • description: Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) | start: 2019-01-28 00:00:00 | stop: 2019-01-28 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2020-02-03 00:00:00 | stop: 2020-02-03 00:00:00
+ • description: Assessment of anxiety (procedure) | start: 2020-02-03 00:00:00 | stop: 2020-02-03 00:00:00
+ • description: Screening for domestic abuse (procedure) | start: 2020-02-03 00:00:00 | stop: 2020-02-03 00:00:00
+ • description: Depression screening (procedure) | start: 2020-02-03 00:00:00 | stop: 2020-02-03 00:00:00
+ • description: Depression screening (procedure) | start: 2020-02-03 00:00:00 | stop: 2020-02-03 00:00:00
+ • description: Depression screening using Patient Health Questionnaire Nine Item score (procedure) | start: 2020-02-03 00:00:00 | stop: 2020-02-03 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2020-02-03 00:00:00 | stop: 2020-02-03 00:00:00
+ • description: Screening for drug abuse (procedure) | start: 2020-02-03 00:00:00 | stop: 2020-02-03 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2021-02-08 00:00:00 | stop: 2021-02-08 00:00:00
+ • description: Assessment of anxiety (procedure) | start: 2021-02-08 00:00:00 | stop: 2021-02-08 00:00:00
+ • description: Depression screening (procedure) | start: 2021-02-08 00:00:00 | stop: 2021-02-08 00:00:00
+ • description: Depression screening (procedure) | start: 2021-02-08 00:00:00 | stop: 2021-02-08 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 2021-02-08 00:00:00 | stop: 2021-02-08 00:00:00
+ • description: Dental consultation and report (procedure) | start: 2021-02-22 00:00:00 | stop: 2021-02-22 00:00:00
+ • description: Dental care (regime/therapy) | start: 2021-02-22 00:00:00 | stop: 2021-02-22 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2021-02-22 00:00:00 | stop: 2021-02-22 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2021-02-22 00:00:00 | stop: 2021-02-22 00:00:00
+ • description: Examination of gingivae (procedure) | start: 2021-02-22 00:00:00 | stop: 2021-02-22 00:00:00
+ • description: Dental surgical procedure (procedure) | start: 2021-02-22 00:00:00 | stop: 2021-02-22 00:00:00
+ • description: Dental application of desensitizing medicament (procedure) | start: 2021-02-22 00:00:00 | stop: 2021-02-22 00:00:00
+ • description: Gingivectomy or gingivoplasty  per tooth (procedure) | start: 2021-02-22 00:00:00 | stop: 2021-02-22 00:00:00
+ • description: Postoperative care for dental procedure (regime/therapy) | start: 2021-02-22 00:00:00 | stop: 2021-02-22 00:00:00
+ • description: Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure) | start: 2021-02-22 00:00:00 | stop: 2021-02-22 00:00:00
+ • description: Dental fluoride treatment (procedure) | start: 2021-02-22 00:00:00 | stop: 2021-02-22 00:00:00
+ • description: Oral health education (procedure) | start: 2021-02-22 00:00:00 | stop: 2021-02-22 00:00:00
+ • description: Medication reconciliation (procedure) | start: 2022-02-14 00:00:00 | stop: 2022-02-14 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2022-02-14 00:00:00 | stop: 2022-02-14 00:00:00
+ • description: Assessment of anxiety (procedure) | start: 2022-02-14 00:00:00 | stop: 2022-02-14 00:00:00
+ • description: Depression screening (procedure) | start: 2022-02-14 00:00:00 | stop: 2022-02-14 00:00:00
+ • description: Depression screening (procedure) | start: 2022-02-14 00:00:00 | stop: 2022-02-14 00:00:00
+ • description: Medication reconciliation (procedure) | start: 2023-02-20 00:00:00 | stop: 2023-02-20 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2023-02-20 00:00:00 | stop: 2023-02-20 00:00:00
+ • description: Assessment of anxiety (procedure) | start: 2023-02-20 00:00:00 | stop: 2023-02-20 00:00:00
+ • description: Depression screening (procedure) | start: 2023-02-20 00:00:00 | stop: 2023-02-20 00:00:00
+ • description: Depression screening (procedure) | start: 2023-02-20 00:00:00 | stop: 2023-02-20 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2024-02-26 00:00:00 | stop: 2024-02-26 00:00:00
+ • description: Screening for domestic abuse (procedure) | start: 2024-02-26 00:00:00 | stop: 2024-02-26 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2024-02-26 00:00:00 | stop: 2024-02-26 00:00:00
+ • description: Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) | start: 2024-02-26 00:00:00 | stop: 2024-02-26 00:00:00
+
+OBSERVATIONS
+----------------------------------------
+ • description: Hemoglobin A1c/Hemoglobin.total in Blood | value: 6.1 | units: %
+ • description: Body Height | value: 154.2 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 1.0 | units: {score}
+ • description: Body Weight | value: 68.0 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 28.6 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 70.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 131.0 | units: mm[Hg]
+ • description: Heart rate | value: 90.0 | units: /min
+ • description: Respiratory rate | value: 13.0 | units: /min
+ • description: Glucose [Mass/volume] in Blood | value: 99.9 | units: mg/dL
+ • description: Urea nitrogen [Mass/volume] in Blood | value: 15.8 | units: mg/dL
+ • description: Creatinine [Mass/volume] in Blood | value: 1.0 | units: mg/dL
+ • description: Calcium [Mass/volume] in Blood | value: 9.9 | units: mg/dL
+ • description: Sodium [Moles/volume] in Blood | value: 143.9 | units: mmol/L
+ • description: Potassium [Moles/volume] in Blood | value: 4.2 | units: mmol/L
+ • description: Chloride [Moles/volume] in Blood | value: 109.0 | units: mmol/L
+ • description: Carbon dioxide  total [Moles/volume] in Blood | value: 23.9 | units: mmol/L
+ • description: Cholesterol [Mass/volume] in Serum or Plasma | value: 163.4 | units: mg/dL
+ • description: Triglycerides | value: 110.7 | units: mg/dL
+ • description: Low Density Lipoprotein Cholesterol | value: 88.1 | units: mg/dL
+ • description: Cholesterol in HDL [Mass/volume] in Serum or Plasma | value: 53.2 | units: mg/dL
+ • description: Tobacco smoking status | value: Ex-smoker (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: A little bit | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 5 or more times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: Yes  it has kept me from medical appointments or from getting my medications | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 110873 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: Less than high school degree | units: N/A
+ • description: Address | value: 727 Moore Trafficway | units: N/A
+ • description: Are you worried about losing your housing? | value: Yes | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 7.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 1.0 | units: {score}
+ • description: Total score [AUDIT-C] | value: 2.0 | units: {score}
+ • description: Hemoglobin A1c/Hemoglobin.total in Blood | value: 6.4 | units: %
+ • description: Body Height | value: 154.2 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 3.0 | units: {score}
+ • description: Body Weight | value: 69.4 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 29.2 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 68.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 127.0 | units: mm[Hg]
+ • description: Heart rate | value: 93.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Glucose [Mass/volume] in Blood | value: 82.3 | units: mg/dL
+ • description: Urea nitrogen [Mass/volume] in Blood | value: 12.5 | units: mg/dL
+ • description: Creatinine [Mass/volume] in Blood | value: 0.9 | units: mg/dL
+ • description: Calcium [Mass/volume] in Blood | value: 8.6 | units: mg/dL
+ • description: Sodium [Moles/volume] in Blood | value: 143.4 | units: mmol/L
+ • description: Potassium [Moles/volume] in Blood | value: 4.0 | units: mmol/L
+ • description: Chloride [Moles/volume] in Blood | value: 103.8 | units: mmol/L
+ • description: Carbon dioxide  total [Moles/volume] in Blood | value: 23.1 | units: mmol/L
+ • description: Tobacco smoking status | value: Ex-smoker (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: Somewhat | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 3 to 5 times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: Yes  it has kept me from medical appointments or from getting my medications | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 110873 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Unemployed | units: N/A
+ • description: Highest level of education | value: Less than high school degree | units: N/A
+ • description: Address | value: 727 Moore Trafficway | units: N/A
+ • description: Are you worried about losing your housing? | value: Yes | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 7.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 1.0 | units: {score}
+ • description: Hemoglobin A1c/Hemoglobin.total in Blood | value: 6.3 | units: %
+ • description: Body Height | value: 154.2 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 0.0 | units: {score}
+ • description: Body Weight | value: 70.8 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 29.8 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 74.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 133.0 | units: mm[Hg]
+ • description: Heart rate | value: 97.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Glucose [Mass/volume] in Blood | value: 72.1 | units: mg/dL
+ • description: Urea nitrogen [Mass/volume] in Blood | value: 13.6 | units: mg/dL
+ • description: Creatinine [Mass/volume] in Blood | value: 0.7 | units: mg/dL
+ • description: Calcium [Mass/volume] in Blood | value: 10.1 | units: mg/dL
+ • description: Sodium [Moles/volume] in Blood | value: 139.4 | units: mmol/L
+ • description: Potassium [Moles/volume] in Blood | value: 4.5 | units: mmol/L
+ • description: Chloride [Moles/volume] in Blood | value: 107.5 | units: mmol/L
+ • description: Carbon dioxide  total [Moles/volume] in Blood | value: 25.2 | units: mmol/L
+ • description: Leukocytes [#/volume] in Blood by Automated count | value: 10.5 | units: 10*3/uL
+ • description: Erythrocytes [#/volume] in Blood by Automated count | value: 3.9 | units: 10*6/uL
+ • description: Hemoglobin [Mass/volume] in Blood | value: 13.5 | units: g/dL
+ • description: Hematocrit [Volume Fraction] of Blood by Automated count | value: 36.2 | units: %
+ • description: MCV [Entitic volume] by Automated count | value: 81.4 | units: fL
+ • description: MCH [Entitic mass] by Automated count | value: 30.4 | units: pg
+ • description: MCHC [Mass/volume] by Automated count | value: 35.0 | units: g/dL
+ • description: Erythrocyte distribution width [Entitic volume] by Automated count | value: 40.8 | units: fL
+ • description: Platelets [#/volume] in Blood by Automated count | value: 227.7 | units: 10*3/uL
+ • description: Platelet distribution width [Entitic volume] in Blood by Automated count | value: 180.2 | units: fL
+ • description: Platelet mean volume [Entitic volume] in Blood by Automated count | value: 10.8 | units: fL
+ • description: Tobacco smoking status | value: Ex-smoker (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: Not at all | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 5 or more times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 110873 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: Less than high school degree | units: N/A
+ • description: Address | value: 727 Moore Trafficway | units: N/A
+ • description: Are you worried about losing your housing? | value: Yes | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 7.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 0.0 | units: {score}
+ • description: Total score [AUDIT-C] | value: 1.0 | units: {score}
+ • description: Hemoglobin A1c/Hemoglobin.total in Blood | value: 6.3 | units: %
+ • description: Body Height | value: 154.2 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 0.0 | units: {score}
+ • description: Body Weight | value: 72.2 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 30.4 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 72.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 132.0 | units: mm[Hg]
+ • description: Heart rate | value: 80.0 | units: /min
+ • description: Respiratory rate | value: 13.0 | units: /min
+ • description: Glucose [Mass/volume] in Blood | value: 88.6 | units: mg/dL
+ • description: Urea nitrogen [Mass/volume] in Blood | value: 18.5 | units: mg/dL
+ • description: Creatinine [Mass/volume] in Blood | value: 0.9 | units: mg/dL
+ • description: Calcium [Mass/volume] in Blood | value: 8.8 | units: mg/dL
+ • description: Sodium [Moles/volume] in Blood | value: 136.4 | units: mmol/L
+ • description: Potassium [Moles/volume] in Blood | value: 4.1 | units: mmol/L
+ • description: Chloride [Moles/volume] in Blood | value: 103.8 | units: mmol/L
+ • description: Carbon dioxide  total [Moles/volume] in Blood | value: 26.2 | units: mmol/L
+ • description: Cholesterol [Mass/volume] in Serum or Plasma | value: 161.3 | units: mg/dL
+ • description: Triglycerides | value: 136.4 | units: mg/dL
+ • description: Low Density Lipoprotein Cholesterol | value: 77.9 | units: mg/dL
+ • description: Cholesterol in HDL [Mass/volume] in Serum or Plasma | value: 56.1 | units: mg/dL
+ • description: Tobacco smoking status | value: Ex-smoker (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: A little bit | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: I choose not to answer this question | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 110873 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: Less than high school degree | units: N/A
+ • description: Address | value: 727 Moore Trafficway | units: N/A
+ • description: Are you worried about losing your housing? | value: Yes | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 7.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] | value: 3.0 | units: {score}
+ • description: Total score [HARK] | value: 0.0 | units: {score}
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 6.0 | units: {score}
+ • description: Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] | value: 11.0 | units: {score}
+ • description: Total score [DAST-10] | value: 0.0 | units: {score}
+ • description: Hemoglobin A1c/Hemoglobin.total in Blood | value: 6.4 | units: %
+ • description: Body Height | value: 154.2 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 4.0 | units: {score}
+ • description: Body Weight | value: 68.3 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 28.7 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 72.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 130.0 | units: mm[Hg]
+ • description: Heart rate | value: 67.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Glucose [Mass/volume] in Blood | value: 94.9 | units: mg/dL
+ • description: Urea nitrogen [Mass/volume] in Blood | value: 18.6 | units: mg/dL
+ • description: Creatinine [Mass/volume] in Blood | value: 0.7 | units: mg/dL
+ • description: Calcium [Mass/volume] in Blood | value: 9.8 | units: mg/dL
+ • description: Sodium [Moles/volume] in Blood | value: 136.8 | units: mmol/L
+ • description: Potassium [Moles/volume] in Blood | value: 4.6 | units: mmol/L
+ • description: Chloride [Moles/volume] in Blood | value: 102.8 | units: mmol/L
+ • description: Carbon dioxide  total [Moles/volume] in Blood | value: 21.3 | units: mmol/L
+ • description: Tobacco smoking status | value: Ex-smoker (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: Not at all | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 3 to 5 times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 110873 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: Less than high school degree | units: N/A
+ • description: Address | value: 727 Moore Trafficway | units: N/A
+ • description: Are you worried about losing your housing? | value: Yes | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 7.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] | value: 3.0 | units: {score}
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 2.0 | units: {score}
+ • description: Body temperature | value: 37.7 | units: Cel
+ • description: Hemoglobin A1c/Hemoglobin.total in Blood | value: 6.3 | units: %
+ • description: Body Height | value: 154.2 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 1.0 | units: {score}
+ • description: Body Weight | value: 67.5 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 28.4 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 66.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 128.0 | units: mm[Hg]
+ • description: Heart rate | value: 63.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Glucose [Mass/volume] in Blood | value: 68.6 | units: mg/dL
+ • description: Urea nitrogen [Mass/volume] in Blood | value: 14.2 | units: mg/dL
+ • description: Creatinine [Mass/volume] in Blood | value: 0.7 | units: mg/dL
+ • description: Calcium [Mass/volume] in Blood | value: 9.3 | units: mg/dL
+ • description: Sodium [Moles/volume] in Blood | value: 141.1 | units: mmol/L
+ • description: Potassium [Moles/volume] in Blood | value: 3.8 | units: mmol/L
+ • description: Chloride [Moles/volume] in Blood | value: 107.1 | units: mmol/L
+ • description: Carbon dioxide  total [Moles/volume] in Blood | value: 21.9 | units: mmol/L
+ • description: Tobacco smoking status | value: Ex-smoker (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: Somewhat | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 3 to 5 times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: Yes  it has kept me from medical appointments or from getting my medications | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 110873 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: Less than high school degree | units: N/A
+ • description: Address | value: 727 Moore Trafficway | units: N/A
+ • description: Are you worried about losing your housing? | value: Yes | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 7.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] | value: 1.0 | units: {score}
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 1.0 | units: {score}
+ • description: Hemoglobin A1c/Hemoglobin.total in Blood | value: 6.4 | units: %
+ • description: Body Height | value: 154.2 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 3.0 | units: {score}
+ • description: Body Weight | value: 69.1 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 29.1 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 74.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 128.0 | units: mm[Hg]
+ • description: Heart rate | value: 84.0 | units: /min
+ • description: Respiratory rate | value: 13.0 | units: /min
+ • description: Glucose [Mass/volume] in Blood | value: 97.5 | units: mg/dL
+ • description: Urea nitrogen [Mass/volume] in Blood | value: 14.0 | units: mg/dL
+ • description: Creatinine [Mass/volume] in Blood | value: 0.7 | units: mg/dL
+ • description: Calcium [Mass/volume] in Blood | value: 9.4 | units: mg/dL
+ • description: Sodium [Moles/volume] in Blood | value: 143.7 | units: mmol/L
+ • description: Potassium [Moles/volume] in Blood | value: 4.0 | units: mmol/L
+ • description: Chloride [Moles/volume] in Blood | value: 109.7 | units: mmol/L
+ • description: Carbon dioxide  total [Moles/volume] in Blood | value: 25.3 | units: mmol/L
+ • description: Cholesterol [Mass/volume] in Serum or Plasma | value: 192.9 | units: mg/dL
+ • description: Triglycerides | value: 131.8 | units: mg/dL
+ • description: Low Density Lipoprotein Cholesterol | value: 110.9 | units: mg/dL
+ • description: Cholesterol in HDL [Mass/volume] in Serum or Plasma | value: 55.6 | units: mg/dL
+ • description: Tobacco smoking status | value: Ex-smoker (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: Not at all | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 5 or more times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 110873 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: Less than high school degree | units: N/A
+ • description: Address | value: 727 Moore Trafficway | units: N/A
+ • description: Are you worried about losing your housing? | value: Yes | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 7.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] | value: 2.0 | units: {score}
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 0.0 | units: {score}
+ • description: Hemoglobin A1c/Hemoglobin.total in Blood | value: 5.9 | units: %
+ • description: Body Height | value: 154.2 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 3.0 | units: {score}
+ • description: Body Weight | value: 70.6 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 29.7 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 104.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 152.0 | units: mm[Hg]
+ • description: Heart rate | value: 93.0 | units: /min
+ • description: Respiratory rate | value: 12.0 | units: /min
+ • description: Glucose [Mass/volume] in Blood | value: 78.4 | units: mg/dL
+ • description: Urea nitrogen [Mass/volume] in Blood | value: 9.8 | units: mg/dL
+ • description: Creatinine [Mass/volume] in Blood | value: 0.7 | units: mg/dL
+ • description: Calcium [Mass/volume] in Blood | value: 9.8 | units: mg/dL
+ • description: Sodium [Moles/volume] in Blood | value: 143.3 | units: mmol/L
+ • description: Potassium [Moles/volume] in Blood | value: 4.0 | units: mmol/L
+ • description: Chloride [Moles/volume] in Blood | value: 102.0 | units: mmol/L
+ • description: Carbon dioxide  total [Moles/volume] in Blood | value: 23.6 | units: mmol/L
+ • description: Leukocytes [#/volume] in Blood by Automated count | value: 7.6 | units: 10*3/uL
+ • description: Erythrocytes [#/volume] in Blood by Automated count | value: 4.2 | units: 10*6/uL
+ • description: Hemoglobin [Mass/volume] in Blood | value: 17.1 | units: g/dL
+ • description: Hematocrit [Volume Fraction] of Blood by Automated count | value: 35.5 | units: %
+ • description: MCV [Entitic volume] by Automated count | value: 92.9 | units: fL
+ • description: MCH [Entitic mass] by Automated count | value: 28.9 | units: pg
+ • description: MCHC [Mass/volume] by Automated count | value: 35.7 | units: g/dL
+ • description: Erythrocyte distribution width [Entitic volume] by Automated count | value: 41.4 | units: fL
+ • description: Platelets [#/volume] in Blood by Automated count | value: 212.4 | units: 10*3/uL
+ • description: Platelet distribution width [Entitic volume] in Blood by Automated count | value: 159.8 | units: fL
+ • description: Platelet mean volume [Entitic volume] in Blood by Automated count | value: 10.3 | units: fL
+ • description: Tobacco smoking status | value: Ex-smoker (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: A little bit | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 3 to 5 times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: Yes  it has kept me from medical appointments or from getting my medications | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: Utilities | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 110873 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: Less than high school degree | units: N/A
+ • description: Address | value: 727 Moore Trafficway | units: N/A
+ • description: Are you worried about losing your housing? | value: Yes | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 7.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Total score [HARK] | value: 0.0 | units: {score}
+ • description: Total score [AUDIT-C] | value: 0.0 | units: {score}
+ • description: Diastolic Blood Pressure | value: 99.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 132.0 | units: mm[Hg]
+ • description: Diastolic Blood Pressure | value: 82.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 123.0 | units: mm[Hg]
+ • description: Diastolic Blood Pressure | value: 75.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 105.0 | units: mm[Hg]
+ • description: QALY | value: 45.0 | units: a
+ • description: QALY | value: 46.0 | units: a
+ • description: QALY | value: 46.9 | units: a
+ • description: QALY | value: 47.9 | units: a
+ • description: QALY | value: 48.9 | units: a
+ • description: QALY | value: 49.9 | units: a
+ • description: QALY | value: 50.9 | units: a
+ • description: QALY | value: 51.8 | units: a
+ • description: QALY | value: 52.8 | units: a
+ • description: QALY | value: 53.8 | units: a
+ • description: QALY | value: 54.8 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.1 | units: a
+ • description: DALY | value: 0.1 | units: a
+ • description: DALY | value: 0.1 | units: a
+ • description: DALY | value: 0.1 | units: a
+ • description: DALY | value: 0.1 | units: a
+ • description: DALY | value: 0.2 | units: a
+ • description: DALY | value: 0.2 | units: a
+ • description: DALY | value: 0.2 | units: a
+ • description: DALY | value: 0.2 | units: a
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+
+IMMUNIZATIONS
+----------------------------------------
+ • description: Influenza  seasonal  injectable  preservative free | date: 2016-02-15 00:00:00
+ • description: zoster vaccine  live | date: 2018-01-22 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2018-01-22 00:00:00
+ • description: zoster vaccine  live | date: 2019-01-28 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2019-01-28 00:00:00
+ • description: Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed | date: 2019-01-28 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2020-02-03 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2021-02-08 00:00:00
+ • description: COVID-19 vaccine  vector-nr  rS-Ad26  PF  0.5 mL | date: 2021-06-28 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2022-02-14 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2023-02-20 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2024-02-26 00:00:00
+
+DEVICES
+----------------------------------------
+ • description: Blood glucose meter (physical object) | start: 2002-04-15 00:00:00 | stop: N/A
+ • description: Operating room (environment) | start: 2021-02-22 00:00:00 | stop: N/A
+
+CAREPLANS
+----------------------------------------
+ • description: Diabetes self management plan (record artifact) | start: 2002-04-15 00:00:00 | stop: N/A
+ • description: Physiotherapy care plan (record artifact) | start: 2015-07-17 00:00:00 | stop: 2015-08-21 00:00:00
+ • description: Lifestyle education regarding hypertension (procedure) | start: 2024-02-26 00:00:00 | stop: N/A
+
+SUPPLIES
+----------------------------------------
+ • description: Blood glucose testing strips (physical object) | quantity: 50 | date: 2002-04-15 00:00:00
+ • description: Blood glucose testing strips (physical object) | quantity: 50 | date: 2016-02-15 00:00:00
+ • description: Blood lancet (physical object) | quantity: 100 | date: 2016-02-15 00:00:00
+ • description: Dental equipment (physical object) | quantity: 1 | date: 2016-02-29 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 2016-02-29 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 2016-02-29 00:00:00
+ • description: Blood glucose testing strips (physical object) | quantity: 50 | date: 2018-01-22 00:00:00
+ • description: Dental equipment (physical object) | quantity: 1 | date: 2018-02-05 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 2018-02-05 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 2018-02-05 00:00:00
+ • description: Blood glucose testing strips (physical object) | quantity: 50 | date: 2019-01-28 00:00:00
+ • description: Blood glucose testing strips (physical object) | quantity: 50 | date: 2020-02-03 00:00:00
+ • description: Blood glucose testing strips (physical object) | quantity: 50 | date: 2020-02-03 00:00:00
+ • description: Blood lancet (physical object) | quantity: 100 | date: 2021-02-08 00:00:00
+ • description: Dental equipment (physical object) | quantity: 1 | date: 2021-02-22 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 2021-02-22 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 2021-02-22 00:00:00
+ • description: Blood glucose testing strips (physical object) | quantity: 50 | date: 2022-02-14 00:00:00
+ • description: Blood glucose testing strips (physical object) | quantity: 50 | date: 2023-02-20 00:00:00
+ • description: Blood lancet (physical object) | quantity: 100 | date: 2023-02-20 00:00:00
+ • description: Blood glucose testing strips (physical object) | quantity: 50 | date: 2024-02-26 00:00:00

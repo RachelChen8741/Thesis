@@ -1,0 +1,662 @@
+PATIENT RECORD
+========================================
+Name: Laurie826 Bechtelar572
+ID: 17e0bdef-4558-cc1d-2d44-90868cad827b
+Birthdate: 1983-11-14 00:00:00
+Gender: F
+
+
+ENCOUNTERS
+----------------------------------------
+ • start: 2002-01-07 00:00:00 | stop: 2002-01-07 00:00:00 | description: General examination of patient (procedure)
+ • start: 2005-03-12 00:00:00 | stop: 2005-03-12 00:00:00 | description: Prenatal visit (regime/therapy)
+ • start: 2009-01-19 00:00:00 | stop: 2009-01-19 00:00:00 | description: General examination of patient (procedure)
+ • start: 2014-07-21 00:00:00 | stop: 2014-07-21 00:00:00 | description: Prenatal initial visit (regime/therapy)
+ • start: 2014-12-08 00:00:00 | stop: 2014-12-08 00:00:00 | description: Prenatal visit (regime/therapy)
+ • start: 2015-01-05 00:00:00 | stop: 2015-01-05 00:00:00 | description: Prenatal visit (regime/therapy)
+ • start: 2015-01-26 00:00:00 | stop: 2015-01-26 00:00:00 | description: General examination of patient (procedure)
+ • start: 2015-02-02 00:00:00 | stop: 2015-02-02 00:00:00 | description: Prenatal visit (regime/therapy)
+ • start: 2015-02-09 00:00:00 | stop: 2015-02-09 00:00:00 | description: Encounter for check up (procedure)
+ • start: 2015-02-16 00:00:00 | stop: 2015-02-16 00:00:00 | description: Obstetric emergency hospital admission (procedure)
+ • start: 2015-03-30 00:00:00 | stop: 2015-03-30 00:00:00 | description: Postnatal visit (regime/therapy)
+ • start: 2016-02-01 00:00:00 | stop: 2016-02-01 00:00:00 | description: Prenatal initial visit (regime/therapy)
+ • start: 2016-02-29 00:00:00 | stop: 2016-02-29 00:00:00 | description: Prenatal visit (regime/therapy)
+ • start: 2016-03-28 00:00:00 | stop: 2016-03-28 00:00:00 | description: Prenatal visit (regime/therapy)
+ • start: 2016-04-25 00:00:00 | stop: 2016-04-25 00:00:00 | description: Prenatal visit (regime/therapy)
+ • start: 2016-05-23 00:00:00 | stop: 2016-05-23 00:00:00 | description: Prenatal visit (regime/therapy)
+ • start: 2016-06-20 00:00:00 | stop: 2016-06-20 00:00:00 | description: Prenatal visit (regime/therapy)
+ • start: 2016-07-18 00:00:00 | stop: 2016-07-18 00:00:00 | description: Prenatal visit (regime/therapy)
+ • start: 2016-08-15 00:00:00 | stop: 2016-08-15 00:00:00 | description: Prenatal visit (regime/therapy)
+ • start: 2016-08-29 00:00:00 | stop: 2016-08-29 00:00:00 | description: Prenatal visit (regime/therapy)
+ • start: 2016-09-05 00:00:00 | stop: 2016-09-05 00:00:00 | description: Obstetric emergency hospital admission (procedure)
+ • start: 2016-10-17 00:00:00 | stop: 2016-10-17 00:00:00 | description: Postnatal visit (regime/therapy)
+ • start: 2016-10-24 00:00:00 | stop: 2016-10-24 00:00:00 | description: Consultation for treatment (procedure)
+ • start: 2017-01-30 00:00:00 | stop: 2017-01-30 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2017-05-01 00:00:00 | stop: 2017-05-01 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2017-07-31 00:00:00 | stop: 2017-07-31 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2017-10-19 00:00:00 | stop: 2017-10-19 00:00:00 | description: Consultation for treatment (procedure)
+ • start: 2017-10-30 00:00:00 | stop: 2017-10-30 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2018-01-29 00:00:00 | stop: 2018-01-29 00:00:00 | description: General examination of patient (procedure)
+ • start: 2018-02-05 00:00:00 | stop: 2018-02-05 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2018-05-07 00:00:00 | stop: 2018-05-07 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2018-08-06 00:00:00 | stop: 2018-08-06 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2018-10-14 00:00:00 | stop: 2018-10-14 00:00:00 | description: Consultation for treatment (procedure)
+ • start: 2018-11-05 00:00:00 | stop: 2018-11-05 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2019-02-04 00:00:00 | stop: 2019-02-04 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2019-05-06 00:00:00 | stop: 2019-05-06 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2019-08-05 00:00:00 | stop: 2019-08-05 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2019-10-09 00:00:00 | stop: 2019-10-09 00:00:00 | description: Consultation for treatment (procedure)
+ • start: 2019-10-19 00:00:00 | stop: 2019-10-20 00:00:00 | description: Admission to surgical department (procedure)
+ • start: 2019-11-04 00:00:00 | stop: 2019-11-04 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2020-02-03 00:00:00 | stop: 2020-02-03 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2020-03-15 00:00:00 | stop: 2020-03-15 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 2020-05-04 00:00:00 | stop: 2020-05-04 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2020-08-03 00:00:00 | stop: 2020-08-03 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2020-11-02 00:00:00 | stop: 2020-11-02 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2021-01-21 00:00:00 | stop: 2021-01-21 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 2021-02-01 00:00:00 | stop: 2021-02-01 00:00:00 | description: General examination of patient (procedure)
+ • start: 2021-02-08 00:00:00 | stop: 2021-02-08 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2021-02-15 00:00:00 | stop: 2021-02-15 00:00:00 | description: Encounter for check up (procedure)
+ • start: 2021-05-10 00:00:00 | stop: 2021-05-10 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2021-08-09 00:00:00 | stop: 2021-08-09 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2021-11-08 00:00:00 | stop: 2021-11-08 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2021-11-16 00:00:00 | stop: 2021-11-16 00:00:00 | description: Emergency room admission (procedure)
+ • start: 2022-02-07 00:00:00 | stop: 2022-02-07 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2022-05-09 00:00:00 | stop: 2022-05-09 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2022-08-08 00:00:00 | stop: 2022-08-08 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2022-11-07 00:00:00 | stop: 2022-11-07 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2023-02-06 00:00:00 | stop: 2023-02-06 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2023-02-27 00:00:00 | stop: 2023-02-28 00:00:00 | description: Periodic reevaluation and management of healthy individual (procedure)
+ • start: 2023-03-03 00:00:00 | stop: 2023-03-03 00:00:00 | description: Discussion about treatment (procedure)
+ • start: 2023-03-09 00:00:00 | stop: 2023-03-11 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-03-16 00:00:00 | stop: 2023-03-16 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-03-18 00:00:00 | stop: 2023-03-18 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-03-19 00:00:00 | stop: 2023-03-19 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-03-20 00:00:00 | stop: 2023-03-20 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-03-21 00:00:00 | stop: 2023-03-21 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-03-23 00:00:00 | stop: 2023-03-23 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-03-24 00:00:00 | stop: 2023-03-24 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-03-25 00:00:00 | stop: 2023-03-25 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-03-27 00:00:00 | stop: 2023-03-27 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-03-28 00:00:00 | stop: 2023-03-28 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-03-29 00:00:00 | stop: 2023-03-29 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-03-30 00:00:00 | stop: 2023-03-30 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-03-31 00:00:00 | stop: 2023-03-31 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-04-02 00:00:00 | stop: 2023-04-02 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-04-03 00:00:00 | stop: 2023-04-03 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-04-04 00:00:00 | stop: 2023-04-04 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-04-06 00:00:00 | stop: 2023-04-06 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-04-07 00:00:00 | stop: 2023-04-07 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-04-08 00:00:00 | stop: 2023-04-08 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-04-10 00:00:00 | stop: 2023-04-10 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-04-11 00:00:00 | stop: 2023-04-11 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-04-12 00:00:00 | stop: 2023-04-12 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-04-14 00:00:00 | stop: 2023-04-14 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-04-15 00:00:00 | stop: 2023-04-15 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-04-16 00:00:00 | stop: 2023-04-16 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-04-17 00:00:00 | stop: 2023-04-17 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-04-18 00:00:00 | stop: 2023-04-18 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-04-19 00:00:00 | stop: 2023-04-19 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-04-21 00:00:00 | stop: 2023-04-21 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-04-22 00:00:00 | stop: 2023-04-22 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-04-23 00:00:00 | stop: 2023-04-23 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-04-24 00:00:00 | stop: 2023-04-24 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-04-26 00:00:00 | stop: 2023-04-26 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-04-27 00:00:00 | stop: 2023-04-27 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-05-02 00:00:00 | stop: 2023-05-02 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2023-05-08 00:00:00 | stop: 2023-05-08 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2023-08-07 00:00:00 | stop: 2023-08-07 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2023-08-22 00:00:00 | stop: 2023-08-22 00:00:00 | description: Postoperative follow-up visit (procedure)
+ • start: 2023-09-15 00:00:00 | stop: 2023-09-15 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 2023-09-25 00:00:00 | stop: 2023-09-25 00:00:00 | description: Urgent care clinic (environment)
+ • start: 2023-10-09 00:00:00 | stop: 2023-10-09 00:00:00 | description: Encounter for check up (procedure)
+ • start: 2023-11-06 00:00:00 | stop: 2023-11-06 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2023-11-20 00:00:00 | stop: 2023-11-20 00:00:00 | description: General examination of patient (procedure)
+ • start: 2023-11-30 00:00:00 | stop: 2023-11-30 00:00:00 | description: Postoperative follow-up visit (procedure)
+ • start: 2023-12-04 00:00:00 | stop: 2023-12-04 00:00:00 | description: Encounter for check up (procedure)
+ • start: 2024-02-05 00:00:00 | stop: 2024-02-05 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2024-03-11 00:00:00 | stop: 2024-03-11 00:00:00 | description: Postoperative follow-up visit (procedure)
+ • start: 2024-03-11 00:00:00 | stop: 2024-03-11 00:00:00 | description: Screening surveillance (regime/therapy)
+ • start: 2024-03-11 00:00:00 | stop: 2024-03-11 00:00:00 | description: Gynecology service (qualifier value)
+ • start: 2024-05-06 00:00:00 | stop: 2024-05-06 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2024-06-21 00:00:00 | stop: 2024-06-21 00:00:00 | description: Postoperative follow-up visit (procedure)
+ • start: 2024-08-05 00:00:00 | stop: 2024-08-05 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2024-09-30 00:00:00 | stop: 2024-09-30 00:00:00 | description: Postoperative follow-up visit (procedure)
+ • start: 2024-11-04 00:00:00 | stop: 2024-11-04 00:00:00 | description: Patient encounter procedure (procedure)
+
+CONDITIONS
+----------------------------------------
+ • description: Received higher education (finding)
+ • description: Past pregnancy history of miscarriage (situation)
+ • description: Full-time employment (finding)
+ • description: Social isolation (finding)
+ • description: Normal pregnancy (finding)
+ • description: Medication review due (situation)
+ • description: Gingivitis (disorder)
+ • description: Normal pregnancy (finding)
+ • description: Part-time employment (finding)
+ • description: Limited social contact (finding)
+ • description: Sterilization requested (situation)
+ • description: History of tubal ligation (situation)
+ • description: Acute viral pharyngitis (disorder)
+ • description: Streptococcal sore throat (disorder)
+ • description: Body mass index 30+ - obesity (finding)
+ • description: Full-time employment (finding)
+ • description: Stress (finding)
+ • description: Sprain (morphologic abnormality)
+ • description: Sprain of ankle (disorder)
+ • description: Malignant neoplasm of breast (disorder)
+ • description: Acute bronchitis (disorder)
+ • description: Fractured dental filling (finding)
+ • description: Social isolation (finding)
+ • description: Gingivitis (disorder)
+ • description: Gingival disease (disorder)
+
+MEDICATIONS
+----------------------------------------
+ • description: 1 ML medroxyprogesterone acetate 150 MG/ML Injection | start: 2016-10-24 00:00:00 | stop: 2017-10-19 00:00:00
+ • description: Etonogestrel 68 MG Drug Implant | start: 2017-10-19 00:00:00 | stop: 2018-10-14 00:00:00
+ • description: 1 ML medroxyprogesterone acetate 150 MG/ML Injection | start: 2018-10-14 00:00:00 | stop: 2019-10-09 00:00:00
+ • description: Penicillin V Potassium 500 MG Oral Tablet | start: 2021-01-21 00:00:00 | stop: 2021-01-30 00:00:00
+ • description: sodium fluoride 0.0272 MG/MG Oral Gel | start: 2021-02-15 00:00:00 | stop: 2021-02-15 00:00:00
+ • description: Naproxen sodium 220 MG Oral Tablet | start: 2021-11-16 00:00:00 | stop: 2021-12-16 00:00:00
+ • description: Tamoxifen 10 MG Oral Tablet | start: 2023-05-02 00:00:00 | stop: 2023-05-02 00:00:00
+ • description: 5 ML hyaluronidase-oysk 2000 UNT/ML / trastuzumab 120 MG/ML Injection | start: 2023-05-02 00:00:00 | stop: 2023-05-02 00:00:00
+ • description: Acetaminophen 325 MG Oral Tablet | start: 2023-09-15 00:00:00 | stop: 2023-09-23 00:00:00
+ • description: sodium fluoride 0.0272 MG/MG Oral Gel | start: 2023-12-04 00:00:00 | stop: 2023-12-04 00:00:00
+
+PROCEDURES
+----------------------------------------
+ • description: Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential (procedure) | start: 2014-12-08 00:00:00 | stop: 2014-12-08 00:00:00
+ • description: Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure) | start: 2014-12-08 00:00:00 | stop: 2014-12-08 00:00:00
+ • description: Urine screening for glucose (procedure) | start: 2014-12-08 00:00:00 | stop: 2014-12-08 00:00:00
+ • description: Evaluation of uterine fundal height (procedure) | start: 2014-12-08 00:00:00 | stop: 2014-12-08 00:00:00
+ • description: Auscultation of the fetal heart (procedure) | start: 2014-12-08 00:00:00 | stop: 2014-12-08 00:00:00
+ • description: Evaluation of uterine fundal height (procedure) | start: 2015-01-05 00:00:00 | stop: 2015-01-05 00:00:00
+ • description: Auscultation of the fetal heart (procedure) | start: 2015-01-05 00:00:00 | stop: 2015-01-05 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2015-01-26 00:00:00 | stop: 2015-01-26 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 2015-01-26 00:00:00 | stop: 2015-01-26 00:00:00
+ • description: Streptococcus pneumoniae group B antigen assay (procedure) | start: 2015-02-02 00:00:00 | stop: 2015-02-02 00:00:00
+ • description: Evaluation of uterine fundal height (procedure) | start: 2015-02-02 00:00:00 | stop: 2015-02-02 00:00:00
+ • description: Auscultation of the fetal heart (procedure) | start: 2015-02-02 00:00:00 | stop: 2015-02-02 00:00:00
+ • description: Dental consultation and report (procedure) | start: 2015-02-09 00:00:00 | stop: 2015-02-09 00:00:00
+ • description: Dental care (regime/therapy) | start: 2015-02-09 00:00:00 | stop: 2015-02-09 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2015-02-09 00:00:00 | stop: 2015-02-09 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2015-02-09 00:00:00 | stop: 2015-02-09 00:00:00
+ • description: Examination of gingivae (procedure) | start: 2015-02-09 00:00:00 | stop: 2015-02-09 00:00:00
+ • description: Oral health education (procedure) | start: 2015-02-09 00:00:00 | stop: 2015-02-09 00:00:00
+ • description: Epidural anesthesia (procedure) | start: 2015-02-16 00:00:00 | stop: 2015-02-16 00:00:00
+ • description: Childbirth | start: 2015-02-16 00:00:00 | stop: 2015-02-16 00:00:00
+ • description: Physical examination procedure (procedure) | start: 2015-03-30 00:00:00 | stop: 2015-03-30 00:00:00
+ • description: Depression screening (procedure) | start: 2015-03-30 00:00:00 | stop: 2015-03-30 00:00:00
+ • description: Standard pregnancy test (procedure) | start: 2016-02-01 00:00:00 | stop: 2016-02-01 00:00:00
+ • description: Ultrasound scan for fetal viability (procedure) | start: 2016-02-01 00:00:00 | stop: 2016-02-01 00:00:00
+ • description: Evaluation of uterine fundal height (procedure) | start: 2016-02-01 00:00:00 | stop: 2016-02-01 00:00:00
+ • description: Auscultation of the fetal heart (procedure) | start: 2016-02-01 00:00:00 | stop: 2016-02-01 00:00:00
+ • description: Blood group typing (procedure) | start: 2016-02-01 00:00:00 | stop: 2016-02-01 00:00:00
+ • description: Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential (procedure) | start: 2016-02-01 00:00:00 | stop: 2016-02-01 00:00:00
+ • description: Hepatitis B surface antigen measurement (procedure) | start: 2016-02-01 00:00:00 | stop: 2016-02-01 00:00:00
+ • description: Human immunodeficiency virus antigen test (procedure) | start: 2016-02-01 00:00:00 | stop: 2016-02-01 00:00:00
+ • description: Chlamydia antigen test (procedure) | start: 2016-02-01 00:00:00 | stop: 2016-02-01 00:00:00
+ • description: Gonorrhea infection titer test (procedure) | start: 2016-02-01 00:00:00 | stop: 2016-02-01 00:00:00
+ • description: Syphilis infectious titer test (procedure) | start: 2016-02-01 00:00:00 | stop: 2016-02-01 00:00:00
+ • description: Urine culture (procedure) | start: 2016-02-01 00:00:00 | stop: 2016-02-01 00:00:00
+ • description: Cytopathology procedure  preparation of smear  genital source (procedure) | start: 2016-02-01 00:00:00 | stop: 2016-02-01 00:00:00
+ • description: Urine screening test for diabetes (procedure) | start: 2016-02-01 00:00:00 | stop: 2016-02-01 00:00:00
+ • description: Hepatitis C antibody  confirmatory test (procedure) | start: 2016-02-01 00:00:00 | stop: 2016-02-01 00:00:00
+ • description: Rubella screening test (procedure) | start: 2016-02-01 00:00:00 | stop: 2016-02-01 00:00:00
+ • description: Measurement of Varicella-zoster virus antibody (procedure) | start: 2016-02-01 00:00:00 | stop: 2016-02-01 00:00:00
+ • description: Skin test for tuberculosis  Tine test (procedure) | start: 2016-02-01 00:00:00 | stop: 2016-02-01 00:00:00
+ • description: Urine protein test | start: 2016-02-01 00:00:00 | stop: 2016-02-01 00:00:00
+ • description: Physical examination procedure (procedure) | start: 2016-02-01 00:00:00 | stop: 2016-02-01 00:00:00
+ • description: Evaluation of uterine fundal height (procedure) | start: 2016-02-29 00:00:00 | stop: 2016-02-29 00:00:00
+ • description: Auscultation of the fetal heart (procedure) | start: 2016-02-29 00:00:00 | stop: 2016-02-29 00:00:00
+ • description: Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure) | start: 2016-02-29 00:00:00 | stop: 2016-02-29 00:00:00
+ • description: Fetal anatomy study (procedure) | start: 2016-03-28 00:00:00 | stop: 2016-03-28 00:00:00
+ • description: Alpha-fetoprotein test - antenatal (procedure) | start: 2016-03-28 00:00:00 | stop: 2016-03-28 00:00:00
+ • description: Evaluation of uterine fundal height (procedure) | start: 2016-03-28 00:00:00 | stop: 2016-03-28 00:00:00
+ • description: Auscultation of the fetal heart (procedure) | start: 2016-03-28 00:00:00 | stop: 2016-03-28 00:00:00
+ • description: Evaluation of uterine fundal height (procedure) | start: 2016-04-25 00:00:00 | stop: 2016-04-25 00:00:00
+ • description: Auscultation of the fetal heart (procedure) | start: 2016-04-25 00:00:00 | stop: 2016-04-25 00:00:00
+ • description: Evaluation of uterine fundal height (procedure) | start: 2016-05-23 00:00:00 | stop: 2016-05-23 00:00:00
+ • description: Auscultation of the fetal heart (procedure) | start: 2016-05-23 00:00:00 | stop: 2016-05-23 00:00:00
+ • description: Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential (procedure) | start: 2016-06-20 00:00:00 | stop: 2016-06-20 00:00:00
+ • description: Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure) | start: 2016-06-20 00:00:00 | stop: 2016-06-20 00:00:00
+ • description: Urine screening for glucose (procedure) | start: 2016-06-20 00:00:00 | stop: 2016-06-20 00:00:00
+ • description: Evaluation of uterine fundal height (procedure) | start: 2016-06-20 00:00:00 | stop: 2016-06-20 00:00:00
+ • description: Auscultation of the fetal heart (procedure) | start: 2016-06-20 00:00:00 | stop: 2016-06-20 00:00:00
+ • description: Evaluation of uterine fundal height (procedure) | start: 2016-07-18 00:00:00 | stop: 2016-07-18 00:00:00
+ • description: Auscultation of the fetal heart (procedure) | start: 2016-07-18 00:00:00 | stop: 2016-07-18 00:00:00
+ • description: Streptococcus pneumoniae group B antigen assay (procedure) | start: 2016-08-15 00:00:00 | stop: 2016-08-15 00:00:00
+ • description: Evaluation of uterine fundal height (procedure) | start: 2016-08-15 00:00:00 | stop: 2016-08-15 00:00:00
+ • description: Auscultation of the fetal heart (procedure) | start: 2016-08-15 00:00:00 | stop: 2016-08-15 00:00:00
+ • description: Evaluation of uterine fundal height (procedure) | start: 2016-08-29 00:00:00 | stop: 2016-08-29 00:00:00
+ • description: Auscultation of the fetal heart (procedure) | start: 2016-08-29 00:00:00 | stop: 2016-08-29 00:00:00
+ • description: Instrumental delivery (procedure) | start: 2016-09-05 00:00:00 | stop: 2016-09-05 00:00:00
+ • description: Childbirth | start: 2016-09-05 00:00:00 | stop: 2016-09-05 00:00:00
+ • description: Physical examination procedure (procedure) | start: 2016-10-17 00:00:00 | stop: 2016-10-17 00:00:00
+ • description: Depression screening (procedure) | start: 2016-10-17 00:00:00 | stop: 2016-10-17 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2016-10-24 00:00:00 | stop: 2016-10-24 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2017-01-30 00:00:00 | stop: 2017-01-30 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2017-05-01 00:00:00 | stop: 2017-05-01 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2017-07-31 00:00:00 | stop: 2017-07-31 00:00:00
+ • description: Insertion of subcutaneous contraceptive (procedure) | start: 2017-10-19 00:00:00 | stop: 2017-10-19 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2017-10-30 00:00:00 | stop: 2017-10-30 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2018-01-29 00:00:00 | stop: 2018-01-29 00:00:00
+ • description: Assessment of anxiety (procedure) | start: 2018-01-29 00:00:00 | stop: 2018-01-29 00:00:00
+ • description: Depression screening (procedure) | start: 2018-01-29 00:00:00 | stop: 2018-01-29 00:00:00
+ • description: Depression screening (procedure) | start: 2018-01-29 00:00:00 | stop: 2018-01-29 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2018-02-05 00:00:00 | stop: 2018-02-05 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2018-05-07 00:00:00 | stop: 2018-05-07 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2018-08-06 00:00:00 | stop: 2018-08-06 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2018-10-14 00:00:00 | stop: 2018-10-14 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2018-11-05 00:00:00 | stop: 2018-11-05 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2019-02-04 00:00:00 | stop: 2019-02-04 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2019-05-06 00:00:00 | stop: 2019-05-06 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2019-08-05 00:00:00 | stop: 2019-08-05 00:00:00
+ • description: Sterilization education (procedure) | start: 2019-10-09 00:00:00 | stop: 2019-10-09 00:00:00
+ • description: Ligation of bilateral fallopian tubes (procedure) | start: 2019-10-19 00:00:00 | stop: 2019-10-19 00:00:00
+ • description: Postoperative care (regime/therapy) | start: 2019-10-19 00:00:00 | stop: 2019-10-19 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2019-11-04 00:00:00 | stop: 2019-11-04 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2020-02-03 00:00:00 | stop: 2020-02-03 00:00:00
+ • description: Throat culture (procedure) | start: 2020-03-15 00:00:00 | stop: 2020-03-15 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2020-05-04 00:00:00 | stop: 2020-05-04 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2020-08-03 00:00:00 | stop: 2020-08-03 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2020-11-02 00:00:00 | stop: 2020-11-02 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2021-02-01 00:00:00 | stop: 2021-02-01 00:00:00
+ • description: Assessment of anxiety (procedure) | start: 2021-02-01 00:00:00 | stop: 2021-02-01 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2021-02-01 00:00:00 | stop: 2021-02-01 00:00:00
+ • description: Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) | start: 2021-02-01 00:00:00 | stop: 2021-02-01 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 2021-02-01 00:00:00 | stop: 2021-02-01 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2021-02-08 00:00:00 | stop: 2021-02-08 00:00:00
+ • description: Dental consultation and report (procedure) | start: 2021-02-15 00:00:00 | stop: 2021-02-15 00:00:00
+ • description: Dental care (regime/therapy) | start: 2021-02-15 00:00:00 | stop: 2021-02-15 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2021-02-15 00:00:00 | stop: 2021-02-15 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2021-02-15 00:00:00 | stop: 2021-02-15 00:00:00
+ • description: Examination of gingivae (procedure) | start: 2021-02-15 00:00:00 | stop: 2021-02-15 00:00:00
+ • description: Dental fluoride treatment (procedure) | start: 2021-02-15 00:00:00 | stop: 2021-02-15 00:00:00
+ • description: Oral health education (procedure) | start: 2021-02-15 00:00:00 | stop: 2021-02-15 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2021-05-10 00:00:00 | stop: 2021-05-10 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2021-08-09 00:00:00 | stop: 2021-08-09 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2021-11-08 00:00:00 | stop: 2021-11-08 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2022-02-07 00:00:00 | stop: 2022-02-07 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2022-05-09 00:00:00 | stop: 2022-05-09 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2022-08-08 00:00:00 | stop: 2022-08-08 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2022-11-07 00:00:00 | stop: 2022-11-07 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2023-02-06 00:00:00 | stop: 2023-02-06 00:00:00
+ • description: Screening mammography (procedure) | start: 2023-02-27 00:00:00 | stop: 2023-02-27 00:00:00
+ • description: Ultrasonography of bilateral breasts (procedure) | start: 2023-02-27 00:00:00 | stop: 2023-02-27 00:00:00
+ • description: Biopsy of breast (procedure) | start: 2023-02-27 00:00:00 | stop: 2023-02-27 00:00:00
+ • description: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure) | start: 2023-02-27 00:00:00 | stop: 2023-02-28 00:00:00
+ • description: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure) | start: 2023-02-28 00:00:00 | stop: 2023-02-28 00:00:00
+ • description: Discussion about options (procedure) | start: 2023-03-03 00:00:00 | stop: 2023-03-03 00:00:00
+ • description: Excision of breast tissue (procedure) | start: 2023-03-09 00:00:00 | stop: 2023-03-09 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-03-16 00:00:00 | stop: 2023-03-16 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-03-18 00:00:00 | stop: 2023-03-18 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-03-19 00:00:00 | stop: 2023-03-19 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-03-20 00:00:00 | stop: 2023-03-20 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-03-21 00:00:00 | stop: 2023-03-21 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-03-23 00:00:00 | stop: 2023-03-23 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-03-24 00:00:00 | stop: 2023-03-24 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-03-25 00:00:00 | stop: 2023-03-25 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-03-27 00:00:00 | stop: 2023-03-27 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-03-28 00:00:00 | stop: 2023-03-28 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-03-29 00:00:00 | stop: 2023-03-29 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-03-30 00:00:00 | stop: 2023-03-30 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-03-31 00:00:00 | stop: 2023-03-31 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-04-02 00:00:00 | stop: 2023-04-02 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-04-03 00:00:00 | stop: 2023-04-03 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-04-04 00:00:00 | stop: 2023-04-04 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-04-06 00:00:00 | stop: 2023-04-06 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-04-07 00:00:00 | stop: 2023-04-07 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-04-08 00:00:00 | stop: 2023-04-08 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-04-10 00:00:00 | stop: 2023-04-10 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-04-11 00:00:00 | stop: 2023-04-11 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-04-12 00:00:00 | stop: 2023-04-12 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-04-14 00:00:00 | stop: 2023-04-14 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-04-15 00:00:00 | stop: 2023-04-15 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-04-16 00:00:00 | stop: 2023-04-16 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-04-17 00:00:00 | stop: 2023-04-17 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-04-18 00:00:00 | stop: 2023-04-18 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-04-19 00:00:00 | stop: 2023-04-19 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-04-21 00:00:00 | stop: 2023-04-21 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-04-22 00:00:00 | stop: 2023-04-22 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-04-23 00:00:00 | stop: 2023-04-23 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-04-24 00:00:00 | stop: 2023-04-24 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-04-26 00:00:00 | stop: 2023-04-26 00:00:00
+ • description: External beam radiation therapy procedure (procedure) | start: 2023-04-27 00:00:00 | stop: 2023-04-27 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2023-05-08 00:00:00 | stop: 2023-05-08 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2023-08-07 00:00:00 | stop: 2023-08-07 00:00:00
+ • description: Physical examination  complete (procedure) | start: 2023-08-22 00:00:00 | stop: 2023-08-22 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2023-09-25 00:00:00 | stop: 2023-09-25 00:00:00
+ • description: Assessment of anxiety (procedure) | start: 2023-09-25 00:00:00 | stop: 2023-09-25 00:00:00
+ • description: Depression screening (procedure) | start: 2023-09-25 00:00:00 | stop: 2023-09-25 00:00:00
+ • description: Depression screening (procedure) | start: 2023-09-25 00:00:00 | stop: 2023-09-25 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2023-09-25 00:00:00 | stop: 2023-09-25 00:00:00
+ • description: Screening for drug abuse (procedure) | start: 2023-09-25 00:00:00 | stop: 2023-09-25 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 2023-09-25 00:00:00 | stop: 2023-09-25 00:00:00
+ • description: Dental consultation and report (procedure) | start: 2023-10-09 00:00:00 | stop: 2023-10-09 00:00:00
+ • description: Dental care (regime/therapy) | start: 2023-10-09 00:00:00 | stop: 2023-10-09 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2023-10-09 00:00:00 | stop: 2023-10-09 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2023-10-09 00:00:00 | stop: 2023-10-09 00:00:00
+ • description: Dental plain X-ray bitewing (procedure) | start: 2023-10-09 00:00:00 | stop: 2023-10-09 00:00:00
+ • description: Examination of gingivae (procedure) | start: 2023-10-09 00:00:00 | stop: 2023-10-09 00:00:00
+ • description: Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure) | start: 2023-10-09 00:00:00 | stop: 2023-10-09 00:00:00
+ • description: Oral health education (procedure) | start: 2023-10-09 00:00:00 | stop: 2023-10-09 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2023-11-06 00:00:00 | stop: 2023-11-06 00:00:00
+ • description: Medication reconciliation (procedure) | start: 2023-11-20 00:00:00 | stop: 2023-11-20 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2023-11-20 00:00:00 | stop: 2023-11-20 00:00:00
+ • description: Screening for domestic abuse (procedure) | start: 2023-11-20 00:00:00 | stop: 2023-11-20 00:00:00
+ • description: Depression screening (procedure) | start: 2023-11-20 00:00:00 | stop: 2023-11-20 00:00:00
+ • description: Depression screening (procedure) | start: 2023-11-20 00:00:00 | stop: 2023-11-20 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 2023-11-20 00:00:00 | stop: 2023-11-20 00:00:00
+ • description: Physical examination  complete (procedure) | start: 2023-11-30 00:00:00 | stop: 2023-11-30 00:00:00
+ • description: Dental consultation and report (procedure) | start: 2023-12-04 00:00:00 | stop: 2023-12-04 00:00:00
+ • description: Dental care (regime/therapy) | start: 2023-12-04 00:00:00 | stop: 2023-12-04 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2023-12-04 00:00:00 | stop: 2023-12-04 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2023-12-04 00:00:00 | stop: 2023-12-04 00:00:00
+ • description: Dental plain X-ray bitewing (procedure) | start: 2023-12-04 00:00:00 | stop: 2023-12-04 00:00:00
+ • description: Examination of gingivae (procedure) | start: 2023-12-04 00:00:00 | stop: 2023-12-04 00:00:00
+ • description: Dental surgical procedure (procedure) | start: 2023-12-04 00:00:00 | stop: 2023-12-04 00:00:00
+ • description: Dental application of desensitizing medicament (procedure) | start: 2023-12-04 00:00:00 | stop: 2023-12-04 00:00:00
+ • description: Gingivectomy or gingivoplasty  per tooth (procedure) | start: 2023-12-04 00:00:00 | stop: 2023-12-04 00:00:00
+ • description: Postoperative care for dental procedure (regime/therapy) | start: 2023-12-04 00:00:00 | stop: 2023-12-04 00:00:00
+ • description: Dental fluoride treatment (procedure) | start: 2023-12-04 00:00:00 | stop: 2023-12-04 00:00:00
+ • description: Oral health education (procedure) | start: 2023-12-04 00:00:00 | stop: 2023-12-04 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2024-02-05 00:00:00 | stop: 2024-02-05 00:00:00
+ • description: Physical examination  complete (procedure) | start: 2024-03-11 00:00:00 | stop: 2024-03-11 00:00:00
+ • description: Mammography (procedure) | start: 2024-03-11 00:00:00 | stop: 2024-03-11 00:00:00
+ • description: Manual pelvic examination (procedure) | start: 2024-03-11 00:00:00 | stop: 2024-03-11 00:00:00
+ • description: Cytopathology procedure  preparation of smear  genital source (procedure) | start: 2024-03-11 00:00:00 | stop: 2024-03-11 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2024-05-06 00:00:00 | stop: 2024-05-06 00:00:00
+ • description: Physical examination  complete (procedure) | start: 2024-06-21 00:00:00 | stop: 2024-06-21 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2024-08-05 00:00:00 | stop: 2024-08-05 00:00:00
+ • description: Physical examination  complete (procedure) | start: 2024-09-30 00:00:00 | stop: 2024-09-30 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2024-11-04 00:00:00 | stop: 2024-11-04 00:00:00
+
+OBSERVATIONS
+----------------------------------------
+ • description: Body Height | value: 165.7 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 2.0 | units: {score}
+ • description: Body Weight | value: 77.7 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 28.3 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 81.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 131.0 | units: mm[Hg]
+ • description: Heart rate | value: 64.0 | units: /min
+ • description: Respiratory rate | value: 16.0 | units: /min
+ • description: Cholesterol [Mass/volume] in Serum or Plasma | value: 112.6 | units: mg/dL
+ • description: Triglycerides | value: 113.9 | units: mg/dL
+ • description: Low Density Lipoprotein Cholesterol | value: 31.3 | units: mg/dL
+ • description: Cholesterol in HDL [Mass/volume] in Serum or Plasma | value: 58.6 | units: mg/dL
+ • description: Tobacco smoking status | value: Ex-smoker (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: Not at all | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 3 to 5 times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 742063 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: More than high school | units: N/A
+ • description: Address | value: 370 Cremin Course | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 2.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Body Height | value: 165.7 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 3.0 | units: {score}
+ • description: Body Weight | value: 81.4 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 29.7 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 81.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 136.0 | units: mm[Hg]
+ • description: Heart rate | value: 61.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Cholesterol [Mass/volume] in Serum or Plasma | value: 178.2 | units: mg/dL
+ • description: Triglycerides | value: 117.2 | units: mg/dL
+ • description: Low Density Lipoprotein Cholesterol | value: 96.6 | units: mg/dL
+ • description: Cholesterol in HDL [Mass/volume] in Serum or Plasma | value: 58.2 | units: mg/dL
+ • description: Leukocytes [#/volume] in Blood by Automated count | value: 7.8 | units: 10*3/uL
+ • description: Erythrocytes [#/volume] in Blood by Automated count | value: 5.0 | units: 10*6/uL
+ • description: Hemoglobin [Mass/volume] in Blood | value: 13.0 | units: g/dL
+ • description: Hematocrit [Volume Fraction] of Blood by Automated count | value: 39.9 | units: %
+ • description: MCV [Entitic volume] by Automated count | value: 86.5 | units: fL
+ • description: MCH [Entitic mass] by Automated count | value: 27.4 | units: pg
+ • description: MCHC [Mass/volume] by Automated count | value: 33.6 | units: g/dL
+ • description: Erythrocyte distribution width [Entitic volume] by Automated count | value: 40.3 | units: fL
+ • description: Platelets [#/volume] in Blood by Automated count | value: 169.0 | units: 10*3/uL
+ • description: Platelet distribution width [Entitic volume] in Blood by Automated count | value: 470.0 | units: fL
+ • description: Platelet mean volume [Entitic volume] in Blood by Automated count | value: 11.6 | units: fL
+ • description: Tobacco smoking status | value: Ex-smoker (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: Not at all | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 1 or 2 times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 742063 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Part-time or temporary work | units: N/A
+ • description: Highest level of education | value: More than high school | units: N/A
+ • description: Address | value: 370 Cremin Course | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 2.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] | value: 3.0 | units: {score}
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 0.0 | units: {score}
+ • description: Body temperature | value: 37.4 | units: Cel
+ • description: Body temperature | value: 39.0 | units: Cel
+ • description: Body Height | value: 165.7 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 1.0 | units: {score}
+ • description: Body Weight | value: 83.2 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 30.3 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 79.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 137.0 | units: mm[Hg]
+ • description: Heart rate | value: 70.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Cholesterol [Mass/volume] in Serum or Plasma | value: 146.5 | units: mg/dL
+ • description: Triglycerides | value: 127.1 | units: mg/dL
+ • description: Low Density Lipoprotein Cholesterol | value: 59.1 | units: mg/dL
+ • description: Cholesterol in HDL [Mass/volume] in Serum or Plasma | value: 62.0 | units: mg/dL
+ • description: Tobacco smoking status | value: Ex-smoker (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: Somewhat | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 3 to 5 times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 742063 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: More than high school | units: N/A
+ • description: Address | value: 370 Cremin Course | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 2.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] | value: 1.0 | units: {score}
+ • description: Total score [AUDIT-C] | value: 1.0 | units: {score}
+ • description: Site of distant metastasis in Breast tumor | value: None (qualifier value) | units: N/A
+ • description: Distant metastases.clinical [Class] Cancer | value: M0 category (finding) | units: N/A
+ • description: Size.maximum dimension in Tumor | value: 3.2 | units: cm
+ • description: Primary tumor.clinical [Class] Cancer | value: T2 category (finding) | units: N/A
+ • description: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy | value: 0.0 | units: {#}
+ • description: Regional lymph nodes.clinical [Class] Cancer | value: N0 category (finding) | units: N/A
+ • description: HER2 [Presence] in Breast cancer specimen by Immune stain | value: Positive (qualifier value) | units: N/A
+ • description: HER2 [Presence] in Breast cancer specimen by FISH | value: greater than 2.2 | units: ratio
+ • description: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain | value: Positive (qualifier value) | units: N/A
+ • description: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain | value: Negative (qualifier value) | units: N/A
+ • description: Stage group.clinical Cancer | value: Stage 2A (qualifier value) | units: N/A
+ • description: Stage group.clinical Cancer | value: Stage 2 (qualifier value) | units: N/A
+ • description: Treatment status Cancer | value: Treatment changed (situation) | units: N/A
+ • description: Response to cancer treatment | value: Improving (qualifier value) | units: N/A
+ • description: Body Height | value: 165.7 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 0.0 | units: {score}
+ • description: Body Weight | value: 83.2 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 30.3 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 80.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 131.0 | units: mm[Hg]
+ • description: Heart rate | value: 67.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Leukocytes [#/volume] in Blood by Automated count | value: 7.0 | units: 10*3/uL
+ • description: Erythrocytes [#/volume] in Blood by Automated count | value: 4.8 | units: 10*6/uL
+ • description: Hemoglobin [Mass/volume] in Blood | value: 17.4 | units: g/dL
+ • description: Hematocrit [Volume Fraction] of Blood by Automated count | value: 45.2 | units: %
+ • description: MCV [Entitic volume] by Automated count | value: 87.5 | units: fL
+ • description: MCH [Entitic mass] by Automated count | value: 27.4 | units: pg
+ • description: MCHC [Mass/volume] by Automated count | value: 34.5 | units: g/dL
+ • description: Erythrocyte distribution width [Entitic volume] by Automated count | value: 42.0 | units: fL
+ • description: Platelets [#/volume] in Blood by Automated count | value: 329.5 | units: 10*3/uL
+ • description: Platelet distribution width [Entitic volume] in Blood by Automated count | value: 342.3 | units: fL
+ • description: Platelet mean volume [Entitic volume] in Blood by Automated count | value: 9.7 | units: fL
+ • description: Tobacco smoking status | value: Ex-smoker (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: Not at all | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 5 or more times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 742063 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: More than high school | units: N/A
+ • description: Address | value: 370 Cremin Course | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 2.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] | value: 3.0 | units: {score}
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 1.0 | units: {score}
+ • description: Total score [DAST-10] | value: 2.0 | units: {score}
+ • description: Body Height | value: 165.7 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 4.0 | units: {score}
+ • description: Body Weight | value: 83.2 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 30.3 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 77.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 134.0 | units: mm[Hg]
+ • description: Heart rate | value: 69.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Tobacco smoking status | value: Ex-smoker (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: Not at all | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: Less than once a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 742063 | units: /a
+ • description: Primary insurance | value: Medicare | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: More than high school | units: N/A
+ • description: Address | value: 370 Cremin Course | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 2.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Total score [HARK] | value: 0.0 | units: {score}
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 0.0 | units: {score}
+ • description: Response to cancer treatment | value: Improving (qualifier value) | units: N/A
+ • description: QALY | value: 30.0 | units: a
+ • description: QALY | value: 31.0 | units: a
+ • description: QALY | value: 32.0 | units: a
+ • description: QALY | value: 33.0 | units: a
+ • description: QALY | value: 34.0 | units: a
+ • description: QALY | value: 35.0 | units: a
+ • description: QALY | value: 36.0 | units: a
+ • description: QALY | value: 37.0 | units: a
+ • description: QALY | value: 38.0 | units: a
+ • description: QALY | value: 39.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+
+IMMUNIZATIONS
+----------------------------------------
+ • description: Influenza  seasonal  injectable  preservative free | date: 2015-01-26 00:00:00
+ • description: Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed | date: 2015-01-26 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2018-01-29 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2021-02-01 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2023-09-25 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2023-11-20 00:00:00
+ • description: Hep A  adult | date: 2023-11-20 00:00:00
+
+DEVICES
+----------------------------------------
+ • description: Dental x-ray system (physical object) | start: 2023-10-09 00:00:00 | stop: 2023-10-09 00:00:00
+ • description: Dental x-ray system (physical object) | start: 2023-12-04 00:00:00 | stop: 2023-12-04 00:00:00
+ • description: Operating room (environment) | start: 2023-12-04 00:00:00 | stop: N/A
+
+CAREPLANS
+----------------------------------------
+ • description: Routine antenatal care (regime/therapy) | start: 2014-07-21 00:00:00 | stop: 2015-02-16 00:00:00
+ • description: Routine antenatal care (regime/therapy) | start: 2016-02-01 00:00:00 | stop: 2016-09-05 00:00:00
+ • description: Minor surgery care management (procedure) | start: 2019-10-19 00:00:00 | stop: 2019-11-08 00:00:00
+ • description: Physiotherapy care plan (record artifact) | start: 2021-11-16 00:00:00 | stop: 2021-12-16 00:00:00
+ • description: Respiratory therapy (procedure) | start: 2023-09-15 00:00:00 | stop: 2023-09-23 00:00:00
+
+IMAGING
+----------------------------------------
+ • bodysitedescription: Structure of region of internal part of mouth (body structure) | modalitydescription: Digital Radiography | date: 2023-10-09 00:00:00
+ • bodysitedescription: Structure of region of internal part of mouth (body structure) | modalitydescription: Digital Radiography | date: 2023-12-04 00:00:00
+
+SUPPLIES
+----------------------------------------
+ • description: Dental equipment (physical object) | quantity: 1 | date: 2015-02-09 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 2015-02-09 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 2015-02-09 00:00:00
+ • description: Dental equipment (physical object) | quantity: 1 | date: 2021-02-15 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 2021-02-15 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 2021-02-15 00:00:00
+ • description: Dental equipment (physical object) | quantity: 1 | date: 2023-10-09 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 2023-10-09 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 2023-10-09 00:00:00
+ • description: Dental equipment (physical object) | quantity: 1 | date: 2023-12-04 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 2023-12-04 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 2023-12-04 00:00:00

@@ -1,0 +1,399 @@
+PATIENT RECORD
+========================================
+Name: Gilbert263 Marvin195
+ID: 8656f713-282f-e5f6-cc7e-346a573ef3b5
+Birthdate: 2003-12-02 00:00:00
+Gender: M
+
+
+ENCOUNTERS
+----------------------------------------
+ • start: 2011-12-23 00:00:00 | stop: 2011-12-23 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 2014-12-16 00:00:00 | stop: 2014-12-16 00:00:00 | description: Well child visit (procedure)
+ • start: 2014-12-23 00:00:00 | stop: 2014-12-23 00:00:00 | description: Encounter for check up (procedure)
+ • start: 2015-12-22 00:00:00 | stop: 2015-12-22 00:00:00 | description: Well child visit (procedure)
+ • start: 2016-12-27 00:00:00 | stop: 2016-12-27 00:00:00 | description: Well child visit (procedure)
+ • start: 2017-01-10 00:00:00 | stop: 2017-01-10 00:00:00 | description: Encounter for check up (procedure)
+ • start: 2017-11-04 00:00:00 | stop: 2017-11-04 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 2018-01-02 00:00:00 | stop: 2018-01-02 00:00:00 | description: Well child visit (procedure)
+ • start: 2019-01-08 00:00:00 | stop: 2019-01-08 00:00:00 | description: Well child visit (procedure)
+ • start: 2020-01-14 00:00:00 | stop: 2020-01-14 00:00:00 | description: Well child visit (procedure)
+ • start: 2021-01-19 00:00:00 | stop: 2021-01-19 00:00:00 | description: Well child visit (procedure)
+ • start: 2021-10-12 00:00:00 | stop: 2021-10-12 00:00:00 | description: Administration of vaccine to produce active immunity (procedure)
+ • start: 2021-11-09 00:00:00 | stop: 2021-11-09 00:00:00 | description: Administration of vaccine to produce active immunity (procedure)
+ • start: 2022-01-25 00:00:00 | stop: 2022-01-25 00:00:00 | description: General examination of patient (procedure)
+ • start: 2022-02-08 00:00:00 | stop: 2022-02-08 00:00:00 | description: Encounter for check up (procedure)
+ • start: 2023-01-31 00:00:00 | stop: 2023-01-31 00:00:00 | description: General examination of patient (procedure)
+ • start: 2023-06-07 00:00:00 | stop: 2023-06-07 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 2023-09-26 00:00:00 | stop: 2023-09-26 00:00:00 | description: Urgent care clinic (environment)
+ • start: 2023-10-03 00:00:00 | stop: 2023-10-03 00:00:00 | description: Encounter for symptom (procedure)
+
+CONDITIONS
+----------------------------------------
+ • description: Chronic sinusitis (disorder)
+ • description: Medication review due (situation)
+ • description: Viral sinusitis (disorder)
+ • description: Medication review due (situation)
+ • description: Medication review due (situation)
+ • description: Educated to high school level (finding)
+ • description: Full-time employment (finding)
+ • description: Medication review due (situation)
+ • description: Limited social contact (finding)
+ • description: Stress (finding)
+ • description: Otitis media (disorder)
+ • description: Medication review due (situation)
+ • description: Acute bronchitis (disorder)
+
+MEDICATIONS
+----------------------------------------
+ • description: sodium fluoride 0.0272 MG/MG Oral Gel | start: 2014-12-23 00:00:00 | stop: 2014-12-23 00:00:00
+ • description: Amoxicillin 250 MG Oral Capsule | start: 2023-06-07 00:00:00 | stop: 2023-06-21 00:00:00
+ • description: Acetaminophen 325 MG Oral Tablet | start: 2023-06-07 00:00:00 | stop: 2023-06-21 00:00:00
+ • description: Acetaminophen 325 MG Oral Tablet | start: 2023-10-03 00:00:00 | stop: 2023-10-11 00:00:00
+
+PROCEDURES
+----------------------------------------
+ • description: Patient referral for dental care (procedure) | start: 2014-12-16 00:00:00 | stop: 2014-12-16 00:00:00
+ • description: Dental consultation and report (procedure) | start: 2014-12-23 00:00:00 | stop: 2014-12-23 00:00:00
+ • description: Dental care (regime/therapy) | start: 2014-12-23 00:00:00 | stop: 2014-12-23 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2014-12-23 00:00:00 | stop: 2014-12-23 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2014-12-23 00:00:00 | stop: 2014-12-23 00:00:00
+ • description: Dental plain X-ray bitewing (procedure) | start: 2014-12-23 00:00:00 | stop: 2014-12-23 00:00:00
+ • description: Examination of gingivae (procedure) | start: 2014-12-23 00:00:00 | stop: 2014-12-23 00:00:00
+ • description: Dental fluoride treatment (procedure) | start: 2014-12-23 00:00:00 | stop: 2014-12-23 00:00:00
+ • description: Oral health education (procedure) | start: 2014-12-23 00:00:00 | stop: 2014-12-23 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2015-12-22 00:00:00 | stop: 2015-12-22 00:00:00
+ • description: Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) | start: 2015-12-22 00:00:00 | stop: 2015-12-22 00:00:00
+ • description: Anticipatory guidance (procedure) | start: 2015-12-22 00:00:00 | stop: 2015-12-22 00:00:00
+ • description: Depression screening (procedure) | start: 2016-12-27 00:00:00 | stop: 2016-12-27 00:00:00
+ • description: Depression screening using Patient Health Questionnaire Nine Item score (procedure) | start: 2016-12-27 00:00:00 | stop: 2016-12-27 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 2016-12-27 00:00:00 | stop: 2016-12-27 00:00:00
+ • description: Dental consultation and report (procedure) | start: 2017-01-10 00:00:00 | stop: 2017-01-10 00:00:00
+ • description: Dental care (regime/therapy) | start: 2017-01-10 00:00:00 | stop: 2017-01-10 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2017-01-10 00:00:00 | stop: 2017-01-10 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2017-01-10 00:00:00 | stop: 2017-01-10 00:00:00
+ • description: Dental plain X-ray bitewing (procedure) | start: 2017-01-10 00:00:00 | stop: 2017-01-10 00:00:00
+ • description: Examination of gingivae (procedure) | start: 2017-01-10 00:00:00 | stop: 2017-01-10 00:00:00
+ • description: Oral health education (procedure) | start: 2017-01-10 00:00:00 | stop: 2017-01-10 00:00:00
+ • description: Medication reconciliation (procedure) | start: 2018-01-02 00:00:00 | stop: 2018-01-02 00:00:00
+ • description: Depression screening (procedure) | start: 2018-01-02 00:00:00 | stop: 2018-01-02 00:00:00
+ • description: Depression screening using Patient Health Questionnaire Nine Item score (procedure) | start: 2018-01-02 00:00:00 | stop: 2018-01-02 00:00:00
+ • description: Assessment of anxiety (procedure) | start: 2019-01-08 00:00:00 | stop: 2019-01-08 00:00:00
+ • description: Depression screening (procedure) | start: 2019-01-08 00:00:00 | stop: 2019-01-08 00:00:00
+ • description: Depression screening using Patient Health Questionnaire Nine Item score (procedure) | start: 2019-01-08 00:00:00 | stop: 2019-01-08 00:00:00
+ • description: Assessment of anxiety (procedure) | start: 2020-01-14 00:00:00 | stop: 2020-01-14 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2020-01-14 00:00:00 | stop: 2020-01-14 00:00:00
+ • description: Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) | start: 2020-01-14 00:00:00 | stop: 2020-01-14 00:00:00
+ • description: Anticipatory guidance (procedure) | start: 2020-01-14 00:00:00 | stop: 2020-01-14 00:00:00
+ • description: Medication reconciliation (procedure) | start: 2021-01-19 00:00:00 | stop: 2021-01-19 00:00:00
+ • description: Assessment of anxiety (procedure) | start: 2021-01-19 00:00:00 | stop: 2021-01-19 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2021-01-19 00:00:00 | stop: 2021-01-19 00:00:00
+ • description: Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) | start: 2021-01-19 00:00:00 | stop: 2021-01-19 00:00:00
+ • description: Anticipatory guidance (procedure) | start: 2021-01-19 00:00:00 | stop: 2021-01-19 00:00:00
+ • description: Medication reconciliation (procedure) | start: 2022-01-25 00:00:00 | stop: 2022-01-25 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2022-01-25 00:00:00 | stop: 2022-01-25 00:00:00
+ • description: Assessment of anxiety (procedure) | start: 2022-01-25 00:00:00 | stop: 2022-01-25 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2022-01-25 00:00:00 | stop: 2022-01-25 00:00:00
+ • description: Screening for drug abuse (procedure) | start: 2022-01-25 00:00:00 | stop: 2022-01-25 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 2022-01-25 00:00:00 | stop: 2022-01-25 00:00:00
+ • description: Dental consultation and report (procedure) | start: 2022-02-08 00:00:00 | stop: 2022-02-08 00:00:00
+ • description: Dental care (regime/therapy) | start: 2022-02-08 00:00:00 | stop: 2022-02-08 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2022-02-08 00:00:00 | stop: 2022-02-08 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2022-02-08 00:00:00 | stop: 2022-02-08 00:00:00
+ • description: Dental plain X-ray bitewing (procedure) | start: 2022-02-08 00:00:00 | stop: 2022-02-08 00:00:00
+ • description: Examination of gingivae (procedure) | start: 2022-02-08 00:00:00 | stop: 2022-02-08 00:00:00
+ • description: Oral health education (procedure) | start: 2022-02-08 00:00:00 | stop: 2022-02-08 00:00:00
+ • description: Medication reconciliation (procedure) | start: 2023-01-31 00:00:00 | stop: 2023-01-31 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2023-01-31 00:00:00 | stop: 2023-01-31 00:00:00
+ • description: Depression screening (procedure) | start: 2023-01-31 00:00:00 | stop: 2023-01-31 00:00:00
+ • description: Depression screening (procedure) | start: 2023-01-31 00:00:00 | stop: 2023-01-31 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2023-01-31 00:00:00 | stop: 2023-01-31 00:00:00
+ • description: Screening for drug abuse (procedure) | start: 2023-01-31 00:00:00 | stop: 2023-01-31 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2023-09-26 00:00:00 | stop: 2023-09-26 00:00:00
+ • description: Assessment of anxiety (procedure) | start: 2023-09-26 00:00:00 | stop: 2023-09-26 00:00:00
+ • description: Depression screening (procedure) | start: 2023-09-26 00:00:00 | stop: 2023-09-26 00:00:00
+ • description: Depression screening (procedure) | start: 2023-09-26 00:00:00 | stop: 2023-09-26 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2023-09-26 00:00:00 | stop: 2023-09-26 00:00:00
+ • description: Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) | start: 2023-09-26 00:00:00 | stop: 2023-09-26 00:00:00
+ • description: Sputum examination (procedure) | start: 2023-10-03 00:00:00 | stop: 2023-10-03 00:00:00
+
+OBSERVATIONS
+----------------------------------------
+ • description: Body Height | value: 134.0 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 1.0 | units: {score}
+ • description: Body Weight | value: 33.1 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 18.4 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 69.2 | units: %
+ • description: Diastolic Blood Pressure | value: 69.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 106.0 | units: mm[Hg]
+ • description: Heart rate | value: 72.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Leukocytes [#/volume] in Blood by Automated count | value: 5.5 | units: 10*3/uL
+ • description: Erythrocytes [#/volume] in Blood by Automated count | value: 4.4 | units: 10*6/uL
+ • description: Hemoglobin [Mass/volume] in Blood | value: 13.6 | units: g/dL
+ • description: Hematocrit [Volume Fraction] of Blood by Automated count | value: 41.9 | units: %
+ • description: MCV [Entitic volume] by Automated count | value: 91.1 | units: fL
+ • description: MCH [Entitic mass] by Automated count | value: 31.7 | units: pg
+ • description: MCHC [Mass/volume] by Automated count | value: 33.5 | units: g/dL
+ • description: Erythrocyte distribution width [Entitic volume] by Automated count | value: 43.8 | units: fL
+ • description: Platelets [#/volume] in Blood by Automated count | value: 428.2 | units: 10*3/uL
+ • description: Platelet distribution width [Entitic volume] in Blood by Automated count | value: 426.5 | units: fL
+ • description: Platelet mean volume [Entitic volume] in Blood by Automated count | value: 11.2 | units: fL
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 139.0 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 3.0 | units: {score}
+ • description: Body Weight | value: 35.9 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 18.6 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 61.6 | units: %
+ • description: Diastolic Blood Pressure | value: 70.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 104.0 | units: mm[Hg]
+ • description: Heart rate | value: 92.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 145.4 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 1.0 | units: {score}
+ • description: Body Weight | value: 39.5 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 18.7 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 53.2 | units: %
+ • description: Diastolic Blood Pressure | value: 71.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 101.0 | units: mm[Hg]
+ • description: Heart rate | value: 100.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] | value: 2.0 | units: {score}
+ • description: Body Height | value: 153.2 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 3.0 | units: {score}
+ • description: Body Weight | value: 46.9 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 20.0 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 61.3 | units: %
+ • description: Diastolic Blood Pressure | value: 77.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 101.0 | units: mm[Hg]
+ • description: Heart rate | value: 90.0 | units: /min
+ • description: Respiratory rate | value: 16.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] | value: 0.0 | units: {score}
+ • description: Body Height | value: 159.1 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 3.0 | units: {score}
+ • description: Body Weight | value: 50.9 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 20.1 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 52.8 | units: %
+ • description: Diastolic Blood Pressure | value: 75.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 105.0 | units: mm[Hg]
+ • description: Heart rate | value: 62.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] | value: 0.0 | units: {score}
+ • description: Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] | value: 3.0 | units: {score}
+ • description: Body Height | value: 163.0 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 2.0 | units: {score}
+ • description: Body Weight | value: 55.9 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 21.1 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 56.0 | units: %
+ • description: Diastolic Blood Pressure | value: 73.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 107.0 | units: mm[Hg]
+ • description: Heart rate | value: 64.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Leukocytes [#/volume] in Blood by Automated count | value: 9.1 | units: 10*3/uL
+ • description: Erythrocytes [#/volume] in Blood by Automated count | value: 5.2 | units: 10*6/uL
+ • description: Hemoglobin [Mass/volume] in Blood | value: 12.4 | units: g/dL
+ • description: Hematocrit [Volume Fraction] of Blood by Automated count | value: 36.3 | units: %
+ • description: MCV [Entitic volume] by Automated count | value: 90.0 | units: fL
+ • description: MCH [Entitic mass] by Automated count | value: 29.3 | units: pg
+ • description: MCHC [Mass/volume] by Automated count | value: 33.2 | units: g/dL
+ • description: Erythrocyte distribution width [Entitic volume] by Automated count | value: 44.3 | units: fL
+ • description: Platelets [#/volume] in Blood by Automated count | value: 339.0 | units: 10*3/uL
+ • description: Platelet distribution width [Entitic volume] in Blood by Automated count | value: 382.7 | units: fL
+ • description: Platelet mean volume [Entitic volume] in Blood by Automated count | value: 9.8 | units: fL
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] | value: 3.0 | units: {score}
+ • description: Body Height | value: 165.0 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 3.0 | units: {score}
+ • description: Body Weight | value: 60.6 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 22.3 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 62.5 | units: %
+ • description: Diastolic Blood Pressure | value: 78.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 104.0 | units: mm[Hg]
+ • description: Heart rate | value: 80.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] | value: 0.0 | units: {score}
+ • description: Body Height | value: 166.1 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 0.0 | units: {score}
+ • description: Body Weight | value: 61.2 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 22.2 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 53.5 | units: %
+ • description: Diastolic Blood Pressure | value: 74.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 95.0 | units: mm[Hg]
+ • description: Heart rate | value: 71.0 | units: /min
+ • description: Respiratory rate | value: 13.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: Not at all | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 3 to 5 times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: Food | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 67906 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: High school diploma or GED | units: N/A
+ • description: Address | value: 844 Spencer Landing | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 5.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] | value: 0.0 | units: {score}
+ • description: Total score [DAST-10] | value: 1.0 | units: {score}
+ • description: Body Height | value: 166.6 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 2.0 | units: {score}
+ • description: Body Weight | value: 60.6 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 21.8 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 40.2 | units: %
+ • description: Diastolic Blood Pressure | value: 75.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 93.0 | units: mm[Hg]
+ • description: Heart rate | value: 98.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: I choose not to answer this question | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: A little bit | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 1 or 2 times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: Food | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 67906 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: High school diploma or GED | units: N/A
+ • description: Address | value: 844 Spencer Landing | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 5.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 0.0 | units: {score}
+ • description: Total score [DAST-10] | value: 2.0 | units: {score}
+ • description: Body Height | value: 166.7 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 0.0 | units: {score}
+ • description: Body Weight | value: 60.4 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 21.7 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 34.0 | units: %
+ • description: Diastolic Blood Pressure | value: 73.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 103.0 | units: mm[Hg]
+ • description: Heart rate | value: 76.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: Somewhat | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 5 or more times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: Food | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 67906 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: High school diploma or GED | units: N/A
+ • description: Address | value: 844 Spencer Landing | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 5.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] | value: 3.0 | units: {score}
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 2.0 | units: {score}
+ • description: Total score [AUDIT-C] | value: 3.0 | units: {score}
+ • description: QALY | value: 10.0 | units: a
+ • description: QALY | value: 11.0 | units: a
+ • description: QALY | value: 12.0 | units: a
+ • description: QALY | value: 13.0 | units: a
+ • description: QALY | value: 14.0 | units: a
+ • description: QALY | value: 15.0 | units: a
+ • description: QALY | value: 16.0 | units: a
+ • description: QALY | value: 17.0 | units: a
+ • description: QALY | value: 18.0 | units: a
+ • description: QALY | value: 19.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+
+IMMUNIZATIONS
+----------------------------------------
+ • description: Tdap | date: 2014-12-16 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2014-12-16 00:00:00
+ • description: HPV  quadrivalent | date: 2014-12-16 00:00:00
+ • description: meningococcal MCV4P | date: 2014-12-16 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2015-12-22 00:00:00
+ • description: HPV  quadrivalent | date: 2015-12-22 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2016-12-27 00:00:00
+ • description: HPV  quadrivalent | date: 2016-12-27 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2018-01-02 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2019-01-08 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2020-01-14 00:00:00
+ • description: meningococcal MCV4P | date: 2020-01-14 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2021-01-19 00:00:00
+ • description: COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose | date: 2021-10-12 00:00:00
+ • description: COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose | date: 2021-11-09 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2022-01-25 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2023-01-31 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2023-09-26 00:00:00
+
+DEVICES
+----------------------------------------
+ • description: Home nebulizer (physical object) | start: 2011-12-23 00:00:00 | stop: N/A
+ • description: Dental x-ray system (physical object) | start: 2014-12-23 00:00:00 | stop: 2014-12-23 00:00:00
+ • description: Dental x-ray system (physical object) | start: 2017-01-10 00:00:00 | stop: 2017-01-10 00:00:00
+ • description: Dental x-ray system (physical object) | start: 2022-02-08 00:00:00 | stop: 2022-02-08 00:00:00
+
+CAREPLANS
+----------------------------------------
+ • description: Respiratory therapy (procedure) | start: 2023-10-03 00:00:00 | stop: N/A
+
+IMAGING
+----------------------------------------
+ • bodysitedescription: Structure of region of internal part of mouth (body structure) | modalitydescription: Digital Radiography | date: 2014-12-23 00:00:00
+ • bodysitedescription: Structure of region of internal part of mouth (body structure) | modalitydescription: Digital Radiography | date: 2017-01-10 00:00:00
+ • bodysitedescription: Structure of region of internal part of mouth (body structure) | modalitydescription: Digital Radiography | date: 2022-02-08 00:00:00
+
+SUPPLIES
+----------------------------------------
+ • description: Dental equipment (physical object) | quantity: 1 | date: 2014-12-23 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 2014-12-23 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 2014-12-23 00:00:00
+ • description: Dental equipment (physical object) | quantity: 1 | date: 2017-01-10 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 2017-01-10 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 2017-01-10 00:00:00
+ • description: Dental equipment (physical object) | quantity: 1 | date: 2022-02-08 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 2022-02-08 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 2022-02-08 00:00:00

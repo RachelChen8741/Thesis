@@ -1,0 +1,1900 @@
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Dental x-ray system (physical object) (Start: 2007-03-14, Stop: 2007-03-14)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental equipment (physical object) (Quantity: 1, Date: 2007-03-14)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Dental x-ray system (physical object) (Start: 2007-03-14, Stop: 2007-03-14)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Conventional release periodontal gel (dose form) (Quantity: 1, Date: 2007-03-14)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Dental x-ray system (physical object) (Start: 2007-03-14, Stop: 2007-03-14)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental floss (physical object) (Quantity: 1, Date: 2007-03-14)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Dental x-ray system (physical object) (Start: 2007-03-14, Stop: 2007-03-14)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Blood glucose testing strips (physical object) (Quantity: 50, Date: 2009-01-21)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Dental x-ray system (physical object) (Start: 2007-03-14, Stop: 2007-03-14)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Blood lancet (physical object) (Quantity: 100, Date: 2009-01-21)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Dental x-ray system (physical object) (Start: 2007-03-14, Stop: 2007-03-14)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Kidney part (body structure) (Quantity: 1, Date: 2013-07-03)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Dental x-ray system (physical object) (Start: 2007-03-14, Stop: 2007-03-14)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental equipment (physical object) (Quantity: 1, Date: 2019-07-31)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Dental x-ray system (physical object) (Start: 2007-03-14, Stop: 2007-03-14)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Conventional release periodontal gel (dose form) (Quantity: 1, Date: 2019-07-31)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Dental x-ray system (physical object) (Start: 2007-03-14, Stop: 2007-03-14)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental floss (physical object) (Quantity: 1, Date: 2019-07-31)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Dental x-ray system (physical object) (Start: 2007-03-14, Stop: 2007-03-14)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental equipment (physical object) (Quantity: 1, Date: 2021-08-18)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Dental x-ray system (physical object) (Start: 2007-03-14, Stop: 2007-03-14)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Conventional release periodontal gel (dose form) (Quantity: 1, Date: 2021-08-18)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Dental x-ray system (physical object) (Start: 2007-03-14, Stop: 2007-03-14)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental floss (physical object) (Quantity: 1, Date: 2021-08-18)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Dental x-ray system (physical object) (Start: 2007-03-14, Stop: 2007-03-14)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental impression material (physical object) (Quantity: 1, Date: 2021-08-25)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Dental x-ray system (physical object) (Start: 2007-03-14, Stop: 2007-03-14)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental impression tray material (physical object) (Quantity: 1, Date: 2021-08-25)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Dental x-ray system (physical object) (Start: 2007-03-14, Stop: 2007-03-14)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental equipment (physical object) (Quantity: 1, Date: 2022-08-17)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Dental x-ray system (physical object) (Start: 2007-03-14, Stop: 2007-03-14)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Conventional release periodontal gel (dose form) (Quantity: 1, Date: 2022-08-17)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Dental x-ray system (physical object) (Start: 2007-03-14, Stop: 2007-03-14)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental floss (physical object) (Quantity: 1, Date: 2022-08-17)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Dental x-ray system (physical object) (Start: 2007-03-14, Stop: 2007-03-14)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental equipment (physical object) (Quantity: 1, Date: 2023-12-20)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Dental x-ray system (physical object) (Start: 2007-03-14, Stop: 2007-03-14)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Conventional release periodontal gel (dose form) (Quantity: 1, Date: 2023-12-20)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Dental x-ray system (physical object) (Start: 2007-03-14, Stop: 2007-03-14)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental floss (physical object) (Quantity: 1, Date: 2023-12-20)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Dental x-ray system (physical object) (Start: 2007-03-14, Stop: 2007-03-14)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental equipment (physical object) (Quantity: 1, Date: 2024-02-14)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Dental x-ray system (physical object) (Start: 2007-03-14, Stop: 2007-03-14)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Conventional release periodontal gel (dose form) (Quantity: 1, Date: 2024-02-14)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Dental x-ray system (physical object) (Start: 2007-03-14, Stop: 2007-03-14)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental floss (physical object) (Quantity: 1, Date: 2024-02-14)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Blood glucose meter (physical object) (Start: 2009-01-21, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental equipment (physical object) (Quantity: 1, Date: 2007-03-14)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Blood glucose meter (physical object) (Start: 2009-01-21, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Conventional release periodontal gel (dose form) (Quantity: 1, Date: 2007-03-14)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Blood glucose meter (physical object) (Start: 2009-01-21, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental floss (physical object) (Quantity: 1, Date: 2007-03-14)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Blood glucose meter (physical object) (Start: 2009-01-21, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Blood glucose testing strips (physical object) (Quantity: 50, Date: 2009-01-21)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Blood glucose meter (physical object) (Start: 2009-01-21, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Blood lancet (physical object) (Quantity: 100, Date: 2009-01-21)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Blood glucose meter (physical object) (Start: 2009-01-21, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Kidney part (body structure) (Quantity: 1, Date: 2013-07-03)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Blood glucose meter (physical object) (Start: 2009-01-21, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental equipment (physical object) (Quantity: 1, Date: 2019-07-31)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Blood glucose meter (physical object) (Start: 2009-01-21, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Conventional release periodontal gel (dose form) (Quantity: 1, Date: 2019-07-31)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Blood glucose meter (physical object) (Start: 2009-01-21, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental floss (physical object) (Quantity: 1, Date: 2019-07-31)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Blood glucose meter (physical object) (Start: 2009-01-21, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental equipment (physical object) (Quantity: 1, Date: 2021-08-18)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Blood glucose meter (physical object) (Start: 2009-01-21, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Conventional release periodontal gel (dose form) (Quantity: 1, Date: 2021-08-18)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Blood glucose meter (physical object) (Start: 2009-01-21, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental floss (physical object) (Quantity: 1, Date: 2021-08-18)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Blood glucose meter (physical object) (Start: 2009-01-21, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental impression material (physical object) (Quantity: 1, Date: 2021-08-25)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Blood glucose meter (physical object) (Start: 2009-01-21, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental impression tray material (physical object) (Quantity: 1, Date: 2021-08-25)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Blood glucose meter (physical object) (Start: 2009-01-21, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental equipment (physical object) (Quantity: 1, Date: 2022-08-17)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Blood glucose meter (physical object) (Start: 2009-01-21, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Conventional release periodontal gel (dose form) (Quantity: 1, Date: 2022-08-17)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Blood glucose meter (physical object) (Start: 2009-01-21, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental floss (physical object) (Quantity: 1, Date: 2022-08-17)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Blood glucose meter (physical object) (Start: 2009-01-21, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental equipment (physical object) (Quantity: 1, Date: 2023-12-20)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Blood glucose meter (physical object) (Start: 2009-01-21, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Conventional release periodontal gel (dose form) (Quantity: 1, Date: 2023-12-20)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Blood glucose meter (physical object) (Start: 2009-01-21, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental floss (physical object) (Quantity: 1, Date: 2023-12-20)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Blood glucose meter (physical object) (Start: 2009-01-21, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental equipment (physical object) (Quantity: 1, Date: 2024-02-14)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Blood glucose meter (physical object) (Start: 2009-01-21, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Conventional release periodontal gel (dose form) (Quantity: 1, Date: 2024-02-14)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Blood glucose meter (physical object) (Start: 2009-01-21, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental floss (physical object) (Quantity: 1, Date: 2024-02-14)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Manual wheelchair (physical object) (Start: 2018-01-31, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental equipment (physical object) (Quantity: 1, Date: 2007-03-14)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Manual wheelchair (physical object) (Start: 2018-01-31, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Conventional release periodontal gel (dose form) (Quantity: 1, Date: 2007-03-14)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Manual wheelchair (physical object) (Start: 2018-01-31, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Dental floss (physical object) (Quantity: 1, Date: 2007-03-14)
+        
+
+        Patient: Antonia30 Schuster709 (ID: 00732e11-5e4d-37b7-01f8-929a25536862)
+        - Birthdate: 1975-12-24
+        - Gender: M
+        
+        Encounter:
+        - ID: de5b1622-f5dc-e06f-e14f-48c809a42722
+        - Start: 1993-02-10
+        - Stop: 1993-02-10
+        - Description: Well child visit (procedure)
+        
+        Conditions:
+        - Risk activity involvement (finding)
+        
+        Medications:
+        - insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] (Start: 2014-06-18, Stop: 2015-06-24)
+        
+        Procedures:
+        - Assessment of health and social care needs (procedure) (Start: 2015-06-24, Stop: 2015-06-24)
+        
+        Observations:
+        - Heart rate: 90.0 /min
+        
+        Allergies:
+        - None (Reaction: None, Severity: None)
+        
+        Immunizations:
+        - Influenza  seasonal  injectable  preservative free (Date: 2015-06-24)
+        
+        Devices:
+        - Manual wheelchair (physical object) (Start: 2018-01-31, Stop: None)
+        
+        Imaging:
+        - Digital Radiography (Body Site: Structure of region of internal part of mouth (body structure), Date: 2007-03-14)
+        
+        Supplies:
+        - Blood glucose testing strips (physical object) (Quantity: 50, Date: 2009-01-21)
+        

@@ -1,0 +1,196 @@
+PATIENT RECORD
+========================================
+Name: Wade235 Emmerich580
+ID: 13cc1678-474c-7932-a719-c64f3a7adc9f
+Birthdate: 2022-09-21 00:00:00
+Gender: M
+
+
+ENCOUNTERS
+----------------------------------------
+ • start: 2022-09-21 00:00:00 | stop: 2022-09-21 00:00:00 | description: Well child visit (procedure)
+ • start: 2022-10-26 00:00:00 | stop: 2022-10-26 00:00:00 | description: Well child visit (procedure)
+ • start: 2022-12-28 00:00:00 | stop: 2022-12-28 00:00:00 | description: Well child visit (procedure)
+ • start: 2023-03-01 00:00:00 | stop: 2023-03-01 00:00:00 | description: Well child visit (procedure)
+ • start: 2023-03-20 00:00:00 | stop: 2023-03-20 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 2023-05-31 00:00:00 | stop: 2023-05-31 00:00:00 | description: Well child visit (procedure)
+ • start: 2023-08-30 00:00:00 | stop: 2023-08-30 00:00:00 | description: Well child visit (procedure)
+ • start: 2023-11-29 00:00:00 | stop: 2023-11-29 00:00:00 | description: Well child visit (procedure)
+ • start: 2024-02-28 00:00:00 | stop: 2024-02-28 00:00:00 | description: Well child visit (procedure)
+ • start: 2024-07-13 00:00:00 | stop: 2024-07-13 00:00:00 | description: Emergency room admission (procedure)
+ • start: 2024-08-28 00:00:00 | stop: 2024-08-28 00:00:00 | description: Well child visit (procedure)
+
+CONDITIONS
+----------------------------------------
+ • description: Medication review due (situation)
+ • description: Otitis media (disorder)
+ • description: Medication review due (situation)
+ • description: Medication review due (situation)
+ • description: Laceration - injury (disorder)
+ • description: Laceration of forearm (disorder)
+
+MEDICATIONS
+----------------------------------------
+ • description: Amoxicillin 500 MG Oral Tablet | start: 2023-03-20 00:00:00 | stop: 2023-04-03 00:00:00
+ • description: Ibuprofen 100 MG Oral Tablet | start: 2023-03-20 00:00:00 | stop: 2023-04-03 00:00:00
+ • description: Acetaminophen 160 MG Chewable Tablet | start: 2024-07-13 00:00:00 | stop: 2024-08-06 00:00:00
+
+PROCEDURES
+----------------------------------------
+ • description: Medication reconciliation (procedure) | start: 2023-03-01 00:00:00 | stop: 2023-03-01 00:00:00
+ • description: Medication reconciliation (procedure) | start: 2023-11-29 00:00:00 | stop: 2023-11-29 00:00:00
+ • description: Suture open wound (procedure) | start: 2024-07-13 00:00:00 | stop: 2024-07-13 00:00:00
+ • description: Medication reconciliation (procedure) | start: 2024-08-28 00:00:00 | stop: 2024-08-28 00:00:00
+
+OBSERVATIONS
+----------------------------------------
+ • description: Body Height | value: 51.8 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 3.0 | units: {score}
+ • description: Body Weight | value: 4.5 | units: kg
+ • description: Weight-for-length Per age and sex | value: 88.2 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 39.7 | units: %
+ • description: Head Occipital-frontal circumference | value: 35.3 | units: cm
+ • description: Diastolic Blood Pressure | value: 75.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 108.0 | units: mm[Hg]
+ • description: Heart rate | value: 77.0 | units: /min
+ • description: Respiratory rate | value: 12.0 | units: /min
+ • description: Leukocytes [#/volume] in Blood by Automated count | value: 5.5 | units: 10*3/uL
+ • description: Erythrocytes [#/volume] in Blood by Automated count | value: 4.3 | units: 10*6/uL
+ • description: Hemoglobin [Mass/volume] in Blood | value: 17.4 | units: g/dL
+ • description: Hematocrit [Volume Fraction] of Blood by Automated count | value: 45.1 | units: %
+ • description: MCV [Entitic volume] by Automated count | value: 80.5 | units: fL
+ • description: MCH [Entitic mass] by Automated count | value: 29.3 | units: pg
+ • description: MCHC [Mass/volume] by Automated count | value: 35.2 | units: g/dL
+ • description: Erythrocyte distribution width [Entitic volume] by Automated count | value: 45.2 | units: fL
+ • description: Platelets [#/volume] in Blood by Automated count | value: 233.0 | units: 10*3/uL
+ • description: Platelet distribution width [Entitic volume] in Blood by Automated count | value: 442.2 | units: fL
+ • description: Platelet mean volume [Entitic volume] in Blood by Automated count | value: 11.5 | units: fL
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 55.8 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 2.0 | units: {score}
+ • description: Body Weight | value: 5.4 | units: kg
+ • description: Weight-for-length Per age and sex | value: 79.9 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 39.7 | units: %
+ • description: Head Occipital-frontal circumference | value: 38.8 | units: cm
+ • description: Diastolic Blood Pressure | value: 72.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 105.0 | units: mm[Hg]
+ • description: Heart rate | value: 92.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 61.3 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 2.0 | units: {score}
+ • description: Body Weight | value: 7.1 | units: kg
+ • description: Weight-for-length Per age and sex | value: 90.6 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 39.7 | units: %
+ • description: Head Occipital-frontal circumference | value: 41.4 | units: cm
+ • description: Diastolic Blood Pressure | value: 75.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 106.0 | units: mm[Hg]
+ • description: Heart rate | value: 63.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 65.3 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 1.0 | units: {score}
+ • description: Body Weight | value: 8.4 | units: kg
+ • description: Weight-for-length Per age and sex | value: 93.8 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 39.7 | units: %
+ • description: Head Occipital-frontal circumference | value: 43.1 | units: cm
+ • description: Diastolic Blood Pressure | value: 70.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 112.0 | units: mm[Hg]
+ • description: Heart rate | value: 68.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 70.1 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 1.0 | units: {score}
+ • description: Body Weight | value: 10.0 | units: kg
+ • description: Weight-for-length Per age and sex | value: 96.2 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 39.7 | units: %
+ • description: Head Occipital-frontal circumference | value: 44.7 | units: cm
+ • description: Diastolic Blood Pressure | value: 81.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 112.0 | units: mm[Hg]
+ • description: Heart rate | value: 89.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 74.0 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 1.0 | units: {score}
+ • description: Body Weight | value: 11.1 | units: kg
+ • description: Weight-for-length Per age and sex | value: 96.6 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 39.7 | units: %
+ • description: Head Occipital-frontal circumference | value: 45.9 | units: cm
+ • description: Diastolic Blood Pressure | value: 79.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 106.0 | units: mm[Hg]
+ • description: Heart rate | value: 70.0 | units: /min
+ • description: Respiratory rate | value: 16.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 77.4 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 2.0 | units: {score}
+ • description: Body Weight | value: 12.0 | units: kg
+ • description: Weight-for-length Per age and sex | value: 97.4 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 39.7 | units: %
+ • description: Head Occipital-frontal circumference | value: 46.7 | units: cm
+ • description: Diastolic Blood Pressure | value: 80.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 116.0 | units: mm[Hg]
+ • description: Heart rate | value: 87.0 | units: /min
+ • description: Respiratory rate | value: 13.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 80.4 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 4.0 | units: {score}
+ • description: Body Weight | value: 12.7 | units: kg
+ • description: Weight-for-length Per age and sex | value: 97.0 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 39.7 | units: %
+ • description: Head Occipital-frontal circumference | value: 47.3 | units: cm
+ • description: Diastolic Blood Pressure | value: 80.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 107.0 | units: mm[Hg]
+ • description: Heart rate | value: 61.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 85.7 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 3.0 | units: {score}
+ • description: Body Weight | value: 13.8 | units: kg
+ • description: Weight-for-length Per age and sex | value: 93.4 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 39.7 | units: %
+ • description: Head Occipital-frontal circumference | value: 48.2 | units: cm
+ • description: Diastolic Blood Pressure | value: 80.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 112.0 | units: mm[Hg]
+ • description: Heart rate | value: 72.0 | units: /min
+ • description: Respiratory rate | value: 13.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: QALY | value: 0.0 | units: a
+ • description: QALY | value: 0.0 | units: a
+ • description: QALY | value: 1.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+
+IMMUNIZATIONS
+----------------------------------------
+ • description: Hep B  adolescent or pediatric | date: 2022-09-21 00:00:00
+ • description: Hep B  adolescent or pediatric | date: 2022-10-26 00:00:00
+ • description: Hib (PRP-OMP) | date: 2022-12-28 00:00:00
+ • description: rotavirus  monovalent | date: 2022-12-28 00:00:00
+ • description: IPV | date: 2022-12-28 00:00:00
+ • description: DTaP | date: 2022-12-28 00:00:00
+ • description: Pneumococcal conjugate PCV 13 | date: 2022-12-28 00:00:00
+ • description: Hib (PRP-OMP) | date: 2023-03-01 00:00:00
+ • description: rotavirus  monovalent | date: 2023-03-01 00:00:00
+ • description: IPV | date: 2023-03-01 00:00:00
+ • description: DTaP | date: 2023-03-01 00:00:00
+ • description: Pneumococcal conjugate PCV 13 | date: 2023-03-01 00:00:00
+ • description: IPV | date: 2023-05-31 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2023-05-31 00:00:00
+ • description: DTaP | date: 2023-05-31 00:00:00
+ • description: Pneumococcal conjugate PCV 13 | date: 2023-05-31 00:00:00
+ • description: Hep B  adolescent or pediatric | date: 2023-05-31 00:00:00
+ • description: Hib (PRP-OMP) | date: 2023-11-29 00:00:00
+ • description: varicella | date: 2023-11-29 00:00:00
+ • description: MMR | date: 2023-11-29 00:00:00
+ • description: Pneumococcal conjugate PCV 13 | date: 2023-11-29 00:00:00
+ • description: Hep A  ped/adol  2 dose | date: 2023-11-29 00:00:00
+ • description: DTaP | date: 2024-02-28 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2024-08-28 00:00:00
+
+CAREPLANS
+----------------------------------------
+ • description: Wound care (regime/therapy) | start: 2024-07-13 00:00:00 | stop: 2024-08-06 00:00:00

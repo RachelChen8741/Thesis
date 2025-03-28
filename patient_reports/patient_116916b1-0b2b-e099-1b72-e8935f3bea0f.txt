@@ -1,0 +1,286 @@
+PATIENT RECORD
+========================================
+Name: Dominick530 Schiller186
+ID: 116916b1-0b2b-e099-1b72-e8935f3bea0f
+Birthdate: 2007-02-24 00:00:00
+Gender: M
+
+
+ENCOUNTERS
+----------------------------------------
+ • start: 2013-12-06 00:00:00 | stop: 2013-12-06 00:00:00 | description: Emergency room admission (procedure)
+ • start: 2015-02-21 00:00:00 | stop: 2015-02-21 00:00:00 | description: Well child visit (procedure)
+ • start: 2016-02-27 00:00:00 | stop: 2016-02-27 00:00:00 | description: Well child visit (procedure)
+ • start: 2016-03-12 00:00:00 | stop: 2016-03-12 00:00:00 | description: Emergency room admission (procedure)
+ • start: 2017-03-04 00:00:00 | stop: 2017-03-04 00:00:00 | description: Well child visit (procedure)
+ • start: 2018-03-10 00:00:00 | stop: 2018-03-10 00:00:00 | description: Well child visit (procedure)
+ • start: 2018-03-17 00:00:00 | stop: 2018-03-17 00:00:00 | description: Encounter for check up (procedure)
+ • start: 2019-03-16 00:00:00 | stop: 2019-03-16 00:00:00 | description: Well child visit (procedure)
+ • start: 2020-03-21 00:00:00 | stop: 2020-03-21 00:00:00 | description: Well child visit (procedure)
+ • start: 2021-03-27 00:00:00 | stop: 2021-03-27 00:00:00 | description: Well child visit (procedure)
+ • start: 2021-06-19 00:00:00 | stop: 2021-06-19 00:00:00 | description: Administration of vaccine to produce active immunity (procedure)
+ • start: 2021-07-17 00:00:00 | stop: 2021-07-17 00:00:00 | description: Administration of vaccine to produce active immunity (procedure)
+ • start: 2022-04-02 00:00:00 | stop: 2022-04-02 00:00:00 | description: Well child visit (procedure)
+ • start: 2023-04-08 00:00:00 | stop: 2023-04-08 00:00:00 | description: Well child visit (procedure)
+ • start: 2024-04-13 00:00:00 | stop: 2024-04-13 00:00:00 | description: Well child visit (procedure)
+ • start: 2024-04-20 00:00:00 | stop: 2024-04-20 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 2024-06-27 00:00:00 | stop: 2024-06-27 00:00:00 | description: Encounter for symptom (procedure)
+
+CONDITIONS
+----------------------------------------
+ • description: Seizure disorder (disorder)
+ • description: History of seizure (situation)
+ • description: Medication review due (situation)
+ • description: Laceration - injury (disorder)
+ • description: Laceration of hand (disorder)
+ • description: Medication review due (situation)
+ • description: Gingivitis (disorder)
+ • description: Risk activity involvement (finding)
+ • description: Viral sinusitis (disorder)
+ • description: Acute viral pharyngitis (disorder)
+
+MEDICATIONS
+----------------------------------------
+ • description: carbamazepine 20 MG/ML Oral Suspension [Tegretol] | start: 2015-02-21 00:00:00 | stop: 2015-09-04 00:00:00
+ • description: Diazepam 5 MG Oral Tablet | start: 2016-02-27 00:00:00 | stop: 2016-08-25 00:00:00
+ • description: Ibuprofen 100 MG Oral Tablet | start: 2016-03-12 00:00:00 | stop: 2016-04-03 00:00:00
+ • description: sodium fluoride 0.0272 MG/MG Oral Gel | start: 2018-03-17 00:00:00 | stop: 2018-03-17 00:00:00
+
+PROCEDURES
+----------------------------------------
+ • description: Medication reconciliation (procedure) | start: 2016-02-27 00:00:00 | stop: 2016-02-27 00:00:00
+ • description: Suture open wound (procedure) | start: 2016-03-12 00:00:00 | stop: 2016-03-12 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 2018-03-10 00:00:00 | stop: 2018-03-10 00:00:00
+ • description: Dental consultation and report (procedure) | start: 2018-03-17 00:00:00 | stop: 2018-03-17 00:00:00
+ • description: Dental care (regime/therapy) | start: 2018-03-17 00:00:00 | stop: 2018-03-17 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2018-03-17 00:00:00 | stop: 2018-03-17 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2018-03-17 00:00:00 | stop: 2018-03-17 00:00:00
+ • description: Dental plain X-ray bitewing (procedure) | start: 2018-03-17 00:00:00 | stop: 2018-03-17 00:00:00
+ • description: Examination of gingivae (procedure) | start: 2018-03-17 00:00:00 | stop: 2018-03-17 00:00:00
+ • description: Dental fluoride treatment (procedure) | start: 2018-03-17 00:00:00 | stop: 2018-03-17 00:00:00
+ • description: Oral health education (procedure) | start: 2018-03-17 00:00:00 | stop: 2018-03-17 00:00:00
+ • description: Assessment of anxiety (procedure) | start: 2019-03-16 00:00:00 | stop: 2019-03-16 00:00:00
+ • description: Depression screening (procedure) | start: 2020-03-21 00:00:00 | stop: 2020-03-21 00:00:00
+ • description: Depression screening using Patient Health Questionnaire Nine Item score (procedure) | start: 2020-03-21 00:00:00 | stop: 2020-03-21 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2020-03-21 00:00:00 | stop: 2020-03-21 00:00:00
+ • description: Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) | start: 2020-03-21 00:00:00 | stop: 2020-03-21 00:00:00
+ • description: Health risks education (procedure) | start: 2020-03-21 00:00:00 | stop: 2020-03-21 00:00:00
+ • description: Assessment of anxiety (procedure) | start: 2021-03-27 00:00:00 | stop: 2021-03-27 00:00:00
+ • description: Depression screening (procedure) | start: 2021-03-27 00:00:00 | stop: 2021-03-27 00:00:00
+ • description: Depression screening using Patient Health Questionnaire Nine Item score (procedure) | start: 2021-03-27 00:00:00 | stop: 2021-03-27 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2022-04-02 00:00:00 | stop: 2022-04-02 00:00:00
+ • description: Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) | start: 2022-04-02 00:00:00 | stop: 2022-04-02 00:00:00
+ • description: Anticipatory guidance (procedure) | start: 2022-04-02 00:00:00 | stop: 2022-04-02 00:00:00
+ • description: Assessment of anxiety (procedure) | start: 2023-04-08 00:00:00 | stop: 2023-04-08 00:00:00
+ • description: Depression screening (procedure) | start: 2023-04-08 00:00:00 | stop: 2023-04-08 00:00:00
+ • description: Depression screening using Patient Health Questionnaire Nine Item score (procedure) | start: 2023-04-08 00:00:00 | stop: 2023-04-08 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2023-04-08 00:00:00 | stop: 2023-04-08 00:00:00
+ • description: Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) | start: 2023-04-08 00:00:00 | stop: 2023-04-08 00:00:00
+ • description: Anticipatory guidance (procedure) | start: 2023-04-08 00:00:00 | stop: 2023-04-08 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2024-04-13 00:00:00 | stop: 2024-04-13 00:00:00
+ • description: Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) | start: 2024-04-13 00:00:00 | stop: 2024-04-13 00:00:00
+ • description: Anticipatory guidance (procedure) | start: 2024-04-13 00:00:00 | stop: 2024-04-13 00:00:00
+
+OBSERVATIONS
+----------------------------------------
+ • description: Body Height | value: 121.2 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 3.0 | units: {score}
+ • description: Body Weight | value: 23.7 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 16.1 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 58.3 | units: %
+ • description: Diastolic Blood Pressure | value: 67.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 92.0 | units: mm[Hg]
+ • description: Heart rate | value: 75.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 126.9 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 4.0 | units: {score}
+ • description: Body Weight | value: 25.8 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 16.0 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 46.3 | units: %
+ • description: Diastolic Blood Pressure | value: 66.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 105.0 | units: mm[Hg]
+ • description: Heart rate | value: 60.0 | units: /min
+ • description: Respiratory rate | value: 13.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 131.5 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 2.0 | units: {score}
+ • description: Body Weight | value: 29.1 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 16.8 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 53.4 | units: %
+ • description: Diastolic Blood Pressure | value: 62.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 101.0 | units: mm[Hg]
+ • description: Heart rate | value: 95.0 | units: /min
+ • description: Respiratory rate | value: 16.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 135.9 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 3.0 | units: {score}
+ • description: Body Weight | value: 32.7 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 17.7 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 58.6 | units: %
+ • description: Diastolic Blood Pressure | value: 71.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 93.0 | units: mm[Hg]
+ • description: Heart rate | value: 71.0 | units: /min
+ • description: Respiratory rate | value: 13.0 | units: /min
+ • description: Leukocytes [#/volume] in Blood by Automated count | value: 6.0 | units: 10*3/uL
+ • description: Erythrocytes [#/volume] in Blood by Automated count | value: 5.3 | units: 10*6/uL
+ • description: Hemoglobin [Mass/volume] in Blood | value: 16.8 | units: g/dL
+ • description: Hematocrit [Volume Fraction] of Blood by Automated count | value: 36.8 | units: %
+ • description: MCV [Entitic volume] by Automated count | value: 88.9 | units: fL
+ • description: MCH [Entitic mass] by Automated count | value: 29.4 | units: pg
+ • description: MCHC [Mass/volume] by Automated count | value: 35.3 | units: g/dL
+ • description: Erythrocyte distribution width [Entitic volume] by Automated count | value: 44.5 | units: fL
+ • description: Platelets [#/volume] in Blood by Automated count | value: 239.1 | units: 10*3/uL
+ • description: Platelet distribution width [Entitic volume] in Blood by Automated count | value: 337.3 | units: fL
+ • description: Platelet mean volume [Entitic volume] in Blood by Automated count | value: 10.2 | units: fL
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 141.0 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 4.0 | units: {score}
+ • description: Body Weight | value: 34.8 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 17.5 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 43.9 | units: %
+ • description: Diastolic Blood Pressure | value: 73.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 96.0 | units: mm[Hg]
+ • description: Heart rate | value: 76.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] | value: 3.0 | units: {score}
+ • description: Body Height | value: 147.6 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 2.0 | units: {score}
+ • description: Body Weight | value: 39.7 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 18.2 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 45.6 | units: %
+ • description: Diastolic Blood Pressure | value: 72.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 98.0 | units: mm[Hg]
+ • description: Heart rate | value: 70.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] | value: 2.0 | units: {score}
+ • description: Body Height | value: 155.5 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 4.0 | units: {score}
+ • description: Body Weight | value: 47.4 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 19.6 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 55.8 | units: %
+ • description: Diastolic Blood Pressure | value: 69.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 105.0 | units: mm[Hg]
+ • description: Heart rate | value: 69.0 | units: /min
+ • description: Respiratory rate | value: 16.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] | value: 1.0 | units: {score}
+ • description: Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] | value: 0.0 | units: {score}
+ • description: Body Height | value: 161.5 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 1.0 | units: {score}
+ • description: Body Weight | value: 56.4 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 21.6 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 71.1 | units: %
+ • description: Diastolic Blood Pressure | value: 67.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 96.0 | units: mm[Hg]
+ • description: Heart rate | value: 71.0 | units: /min
+ • description: Respiratory rate | value: 13.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 165.2 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 2.0 | units: {score}
+ • description: Body Weight | value: 61.7 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 22.6 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 73.6 | units: %
+ • description: Diastolic Blood Pressure | value: 71.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 104.0 | units: mm[Hg]
+ • description: Heart rate | value: 92.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Leukocytes [#/volume] in Blood by Automated count | value: 5.6 | units: 10*3/uL
+ • description: Erythrocytes [#/volume] in Blood by Automated count | value: 5.2 | units: 10*6/uL
+ • description: Hemoglobin [Mass/volume] in Blood | value: 13.9 | units: g/dL
+ • description: Hematocrit [Volume Fraction] of Blood by Automated count | value: 44.9 | units: %
+ • description: MCV [Entitic volume] by Automated count | value: 94.1 | units: fL
+ • description: MCH [Entitic mass] by Automated count | value: 27.8 | units: pg
+ • description: MCHC [Mass/volume] by Automated count | value: 35.4 | units: g/dL
+ • description: Erythrocyte distribution width [Entitic volume] by Automated count | value: 39.8 | units: fL
+ • description: Platelets [#/volume] in Blood by Automated count | value: 300.5 | units: 10*3/uL
+ • description: Platelet distribution width [Entitic volume] in Blood by Automated count | value: 429.0 | units: fL
+ • description: Platelet mean volume [Entitic volume] in Blood by Automated count | value: 11.3 | units: fL
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] | value: 7.0 | units: {score}
+ • description: Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] | value: 1.0 | units: {score}
+ • description: Body Height | value: 167.1 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 1.0 | units: {score}
+ • description: Body Weight | value: 63.9 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 22.9 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 69.1 | units: %
+ • description: Diastolic Blood Pressure | value: 67.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 105.0 | units: mm[Hg]
+ • description: Heart rate | value: 88.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body temperature | value: 37.7 | units: Cel
+ • description: QALY | value: 6.0 | units: a
+ • description: QALY | value: 6.8 | units: a
+ • description: QALY | value: 7.7 | units: a
+ • description: QALY | value: 8.5 | units: a
+ • description: QALY | value: 9.3 | units: a
+ • description: QALY | value: 10.0 | units: a
+ • description: QALY | value: 10.8 | units: a
+ • description: QALY | value: 11.6 | units: a
+ • description: QALY | value: 12.4 | units: a
+ • description: QALY | value: 13.1 | units: a
+ • description: QALY | value: 13.9 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.2 | units: a
+ • description: DALY | value: 0.3 | units: a
+ • description: DALY | value: 0.5 | units: a
+ • description: DALY | value: 0.7 | units: a
+ • description: DALY | value: 1.0 | units: a
+ • description: DALY | value: 1.2 | units: a
+ • description: DALY | value: 1.4 | units: a
+ • description: DALY | value: 1.6 | units: a
+ • description: DALY | value: 1.9 | units: a
+ • description: DALY | value: 2.1 | units: a
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 0.8 | units: {score}
+ • description: QOLS | value: 0.8 | units: {score}
+ • description: QOLS | value: 0.8 | units: {score}
+ • description: QOLS | value: 0.8 | units: {score}
+ • description: QOLS | value: 0.8 | units: {score}
+ • description: QOLS | value: 0.8 | units: {score}
+ • description: QOLS | value: 0.8 | units: {score}
+ • description: QOLS | value: 0.8 | units: {score}
+ • description: QOLS | value: 0.8 | units: {score}
+ • description: QOLS | value: 0.8 | units: {score}
+
+IMMUNIZATIONS
+----------------------------------------
+ • description: Influenza  seasonal  injectable  preservative free | date: 2015-02-21 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2016-02-27 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2017-03-04 00:00:00
+ • description: Tdap | date: 2018-03-10 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2018-03-10 00:00:00
+ • description: HPV  quadrivalent | date: 2018-03-10 00:00:00
+ • description: meningococcal MCV4P | date: 2018-03-10 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2019-03-16 00:00:00
+ • description: HPV  quadrivalent | date: 2019-03-16 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2020-03-21 00:00:00
+ • description: HPV  quadrivalent | date: 2020-03-21 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2021-03-27 00:00:00
+ • description: COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose | date: 2021-06-19 00:00:00
+ • description: COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose | date: 2021-07-17 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2022-04-02 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2023-04-08 00:00:00
+ • description: meningococcal MCV4P | date: 2023-04-08 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2024-04-13 00:00:00
+
+DEVICES
+----------------------------------------
+ • description: Dental x-ray system (physical object) | start: 2018-03-17 00:00:00 | stop: 2018-03-17 00:00:00
+
+CAREPLANS
+----------------------------------------
+ • description: Wound care (regime/therapy) | start: 2016-03-12 00:00:00 | stop: 2016-04-03 00:00:00
+
+IMAGING
+----------------------------------------
+ • bodysitedescription: Structure of region of internal part of mouth (body structure) | modalitydescription: Digital Radiography | date: 2018-03-17 00:00:00
+
+SUPPLIES
+----------------------------------------
+ • description: Dental equipment (physical object) | quantity: 1 | date: 2018-03-17 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 2018-03-17 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 2018-03-17 00:00:00

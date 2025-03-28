@@ -1,0 +1,436 @@
+PATIENT RECORD
+========================================
+Name: Vivien121 Brakus656
+ID: 5279920f-e303-9dca-844d-82ed5485f5da
+Birthdate: 1981-06-24 00:00:00
+Gender: F
+
+
+ENCOUNTERS
+----------------------------------------
+ • start: 1999-08-25 00:00:00 | stop: 1999-08-25 00:00:00 | description: General examination of patient (procedure)
+ • start: 2003-09-03 00:00:00 | stop: 2003-09-03 00:00:00 | description: General examination of patient (procedure)
+ • start: 2009-09-09 00:00:00 | stop: 2009-09-09 00:00:00 | description: General examination of patient (procedure)
+ • start: 2012-05-06 00:00:00 | stop: 2012-05-06 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 2012-09-12 00:00:00 | stop: 2012-09-12 00:00:00 | description: General examination of patient (procedure)
+ • start: 2014-02-26 00:00:00 | stop: 2014-02-26 00:00:00 | description: Consultation for treatment (procedure)
+ • start: 2015-09-16 00:00:00 | stop: 2015-09-16 00:00:00 | description: General examination of patient (procedure)
+ • start: 2015-09-30 00:00:00 | stop: 2015-09-30 00:00:00 | description: Encounter for check up (procedure)
+ • start: 2016-06-01 00:00:00 | stop: 2016-06-01 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2016-07-20 00:00:00 | stop: 2016-07-20 00:00:00 | description: Prenatal initial visit (regime/therapy)
+ • start: 2016-08-07 00:00:00 | stop: 2016-08-07 00:00:00 | description: Prenatal visit (regime/therapy)
+ • start: 2017-02-10 00:00:00 | stop: 2017-02-10 00:00:00 | description: Consultation for treatment (procedure)
+ • start: 2017-07-20 00:00:00 | stop: 2017-07-20 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 2018-09-19 00:00:00 | stop: 2018-09-19 00:00:00 | description: General examination of patient (procedure)
+ • start: 2018-12-26 00:00:00 | stop: 2018-12-26 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2019-02-13 00:00:00 | stop: 2019-02-13 00:00:00 | description: Prenatal initial visit (regime/therapy)
+ • start: 2019-03-13 00:00:00 | stop: 2019-03-13 00:00:00 | description: Prenatal visit (regime/therapy)
+ • start: 2019-04-10 00:00:00 | stop: 2019-04-10 00:00:00 | description: Prenatal visit (regime/therapy)
+ • start: 2019-05-08 00:00:00 | stop: 2019-05-08 00:00:00 | description: Prenatal visit (regime/therapy)
+ • start: 2019-06-05 00:00:00 | stop: 2019-06-05 00:00:00 | description: Prenatal visit (regime/therapy)
+ • start: 2019-07-03 00:00:00 | stop: 2019-07-03 00:00:00 | description: Prenatal visit (regime/therapy)
+ • start: 2019-07-31 00:00:00 | stop: 2019-07-31 00:00:00 | description: Prenatal visit (regime/therapy)
+ • start: 2019-08-28 00:00:00 | stop: 2019-08-28 00:00:00 | description: Prenatal visit (regime/therapy)
+ • start: 2019-09-11 00:00:00 | stop: 2019-09-11 00:00:00 | description: Prenatal visit (regime/therapy)
+ • start: 2019-09-18 00:00:00 | stop: 2019-09-18 00:00:00 | description: Obstetric emergency hospital admission (procedure)
+ • start: 2019-10-30 00:00:00 | stop: 2019-10-30 00:00:00 | description: Postnatal visit (regime/therapy)
+ • start: 2019-11-06 00:00:00 | stop: 2019-11-06 00:00:00 | description: Consultation for treatment (procedure)
+ • start: 2019-11-08 00:00:00 | stop: 2019-11-08 00:00:00 | description: Patient encounter procedure (procedure)
+ • start: 2019-12-02 00:00:00 | stop: 2019-12-02 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 2020-11-02 00:00:00 | stop: 2020-11-02 00:00:00 | description: Consultation for treatment (procedure)
+ • start: 2021-03-31 00:00:00 | stop: 2021-03-31 00:00:00 | description: Administration of vaccine to produce active immunity (procedure)
+ • start: 2021-04-28 00:00:00 | stop: 2021-04-28 00:00:00 | description: Administration of vaccine to produce active immunity (procedure)
+ • start: 2021-06-30 00:00:00 | stop: 2021-06-30 00:00:00 | description: General examination of patient (procedure)
+ • start: 2022-10-23 00:00:00 | stop: 2022-10-23 00:00:00 | description: Consultation for treatment (procedure)
+ • start: 2023-07-05 00:00:00 | stop: 2023-07-05 00:00:00 | description: General examination of patient (procedure)
+
+CONDITIONS
+----------------------------------------
+ • description: Educated to high school level (finding)
+ • description: Full-time employment (finding)
+ • description: Stress (finding)
+ • description: Medication review due (situation)
+ • description: Prediabetes (finding)
+ • description: Anemia (disorder)
+ • description: Chronic sinusitis (disorder)
+ • description: Body mass index 30+ - obesity (finding)
+ • description: Dental filling lost (finding)
+ • description: Normal pregnancy (finding)
+ • description: Miscarriage in first trimester (disorder)
+ • description: Blighted ovum (disorder)
+ • description: Past pregnancy history of miscarriage (situation)
+ • description: Viral sinusitis (disorder)
+ • description: Normal pregnancy (finding)
+ • description: Viral sinusitis (disorder)
+ • description: Medication review due (situation)
+ • description: Stress (finding)
+
+MEDICATIONS
+----------------------------------------
+ • description: Etonogestrel 68 MG Drug Implant | start: 2014-02-26 00:00:00 | stop: 2015-02-21 00:00:00
+ • description: sodium fluoride 0.0272 MG/MG Oral Gel | start: 2015-09-30 00:00:00 | stop: 2015-09-30 00:00:00
+ • description: Etonogestrel 68 MG Drug Implant | start: 2017-02-10 00:00:00 | stop: 2018-02-05 00:00:00
+ • description: Kyleena 19.5 MG Intrauterine System | start: 2019-11-06 00:00:00 | stop: 2020-11-02 00:00:00
+ • description: 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection | start: 2020-11-02 00:00:00 | stop: 2021-10-28 00:00:00
+ • description: NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal System | start: 2022-10-23 00:00:00 | stop: 2023-10-18 00:00:00
+
+PROCEDURES
+----------------------------------------
+ • description: Assessment of health and social care needs (procedure) | start: 2015-09-16 00:00:00 | stop: 2015-09-16 00:00:00
+ • description: Assessment of anxiety (procedure) | start: 2015-09-16 00:00:00 | stop: 2015-09-16 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 2015-09-16 00:00:00 | stop: 2015-09-16 00:00:00
+ • description: Dental consultation and report (procedure) | start: 2015-09-30 00:00:00 | stop: 2015-09-30 00:00:00
+ • description: Dental care (regime/therapy) | start: 2015-09-30 00:00:00 | stop: 2015-09-30 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2015-09-30 00:00:00 | stop: 2015-09-30 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2015-09-30 00:00:00 | stop: 2015-09-30 00:00:00
+ • description: Examination of gingivae (procedure) | start: 2015-09-30 00:00:00 | stop: 2015-09-30 00:00:00
+ • description: Restoration of tooth with coverage of all cusps using dental filling material (procedure) | start: 2015-09-30 00:00:00 | stop: 2015-09-30 00:00:00
+ • description: Dental fluoride treatment (procedure) | start: 2015-09-30 00:00:00 | stop: 2015-09-30 00:00:00
+ • description: Oral health education (procedure) | start: 2015-09-30 00:00:00 | stop: 2015-09-30 00:00:00
+ • description: Removal of subcutaneous contraceptive (procedure) | start: 2016-06-01 00:00:00 | stop: 2016-06-01 00:00:00
+ • description: Standard pregnancy test (procedure) | start: 2016-07-20 00:00:00 | stop: 2016-07-20 00:00:00
+ • description: Ultrasound scan for fetal viability (procedure) | start: 2016-07-20 00:00:00 | stop: 2016-07-20 00:00:00
+ • description: Passive immunization (procedure) | start: 2016-08-07 00:00:00 | stop: 2016-08-07 00:00:00
+ • description: Physical examination procedure (procedure) | start: 2016-08-07 00:00:00 | stop: 2016-08-07 00:00:00
+ • description: Depression screening (procedure) | start: 2016-08-07 00:00:00 | stop: 2016-08-07 00:00:00
+ • description: Insertion of subcutaneous contraceptive (procedure) | start: 2017-02-10 00:00:00 | stop: 2017-02-10 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2018-09-19 00:00:00 | stop: 2018-09-19 00:00:00
+ • description: Assessment of anxiety (procedure) | start: 2018-09-19 00:00:00 | stop: 2018-09-19 00:00:00
+ • description: Depression screening (procedure) | start: 2018-09-19 00:00:00 | stop: 2018-09-19 00:00:00
+ • description: Depression screening (procedure) | start: 2018-09-19 00:00:00 | stop: 2018-09-19 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2018-09-19 00:00:00 | stop: 2018-09-19 00:00:00
+ • description: Screening for drug abuse (procedure) | start: 2018-09-19 00:00:00 | stop: 2018-09-19 00:00:00
+ • description: Removal of subcutaneous contraceptive (procedure) | start: 2018-12-26 00:00:00 | stop: 2018-12-26 00:00:00
+ • description: Standard pregnancy test (procedure) | start: 2019-02-13 00:00:00 | stop: 2019-02-13 00:00:00
+ • description: Ultrasound scan for fetal viability (procedure) | start: 2019-02-13 00:00:00 | stop: 2019-02-13 00:00:00
+ • description: Evaluation of uterine fundal height (procedure) | start: 2019-02-13 00:00:00 | stop: 2019-02-13 00:00:00
+ • description: Auscultation of the fetal heart (procedure) | start: 2019-02-13 00:00:00 | stop: 2019-02-13 00:00:00
+ • description: Blood group typing (procedure) | start: 2019-02-13 00:00:00 | stop: 2019-02-13 00:00:00
+ • description: Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential (procedure) | start: 2019-02-13 00:00:00 | stop: 2019-02-13 00:00:00
+ • description: Hepatitis B surface antigen measurement (procedure) | start: 2019-02-13 00:00:00 | stop: 2019-02-13 00:00:00
+ • description: Human immunodeficiency virus antigen test (procedure) | start: 2019-02-13 00:00:00 | stop: 2019-02-13 00:00:00
+ • description: Chlamydia antigen test (procedure) | start: 2019-02-13 00:00:00 | stop: 2019-02-13 00:00:00
+ • description: Gonorrhea infection titer test (procedure) | start: 2019-02-13 00:00:00 | stop: 2019-02-13 00:00:00
+ • description: Syphilis infectious titer test (procedure) | start: 2019-02-13 00:00:00 | stop: 2019-02-13 00:00:00
+ • description: Urine culture (procedure) | start: 2019-02-13 00:00:00 | stop: 2019-02-13 00:00:00
+ • description: Cytopathology procedure  preparation of smear  genital source (procedure) | start: 2019-02-13 00:00:00 | stop: 2019-02-13 00:00:00
+ • description: Urine screening test for diabetes (procedure) | start: 2019-02-13 00:00:00 | stop: 2019-02-13 00:00:00
+ • description: Hepatitis C antibody  confirmatory test (procedure) | start: 2019-02-13 00:00:00 | stop: 2019-02-13 00:00:00
+ • description: Rubella screening test (procedure) | start: 2019-02-13 00:00:00 | stop: 2019-02-13 00:00:00
+ • description: Measurement of Varicella-zoster virus antibody (procedure) | start: 2019-02-13 00:00:00 | stop: 2019-02-13 00:00:00
+ • description: Skin test for tuberculosis  Tine test (procedure) | start: 2019-02-13 00:00:00 | stop: 2019-02-13 00:00:00
+ • description: Urine protein test | start: 2019-02-13 00:00:00 | stop: 2019-02-13 00:00:00
+ • description: Physical examination procedure (procedure) | start: 2019-02-13 00:00:00 | stop: 2019-02-13 00:00:00
+ • description: Evaluation of uterine fundal height (procedure) | start: 2019-03-13 00:00:00 | stop: 2019-03-13 00:00:00
+ • description: Auscultation of the fetal heart (procedure) | start: 2019-03-13 00:00:00 | stop: 2019-03-13 00:00:00
+ • description: Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure) | start: 2019-03-13 00:00:00 | stop: 2019-03-13 00:00:00
+ • description: Fetal anatomy study (procedure) | start: 2019-04-10 00:00:00 | stop: 2019-04-10 00:00:00
+ • description: Alpha-fetoprotein test - antenatal (procedure) | start: 2019-04-10 00:00:00 | stop: 2019-04-10 00:00:00
+ • description: Evaluation of uterine fundal height (procedure) | start: 2019-04-10 00:00:00 | stop: 2019-04-10 00:00:00
+ • description: Auscultation of the fetal heart (procedure) | start: 2019-04-10 00:00:00 | stop: 2019-04-10 00:00:00
+ • description: Evaluation of uterine fundal height (procedure) | start: 2019-05-08 00:00:00 | stop: 2019-05-08 00:00:00
+ • description: Auscultation of the fetal heart (procedure) | start: 2019-05-08 00:00:00 | stop: 2019-05-08 00:00:00
+ • description: Evaluation of uterine fundal height (procedure) | start: 2019-06-05 00:00:00 | stop: 2019-06-05 00:00:00
+ • description: Auscultation of the fetal heart (procedure) | start: 2019-06-05 00:00:00 | stop: 2019-06-05 00:00:00
+ • description: Antenatal RhD antibody screening (procedure) | start: 2019-07-03 00:00:00 | stop: 2019-07-03 00:00:00
+ • description: Passive immunization (procedure) | start: 2019-07-03 00:00:00 | stop: 2019-07-03 00:00:00
+ • description: Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential (procedure) | start: 2019-07-03 00:00:00 | stop: 2019-07-03 00:00:00
+ • description: Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure) | start: 2019-07-03 00:00:00 | stop: 2019-07-03 00:00:00
+ • description: Urine screening for glucose (procedure) | start: 2019-07-03 00:00:00 | stop: 2019-07-03 00:00:00
+ • description: Evaluation of uterine fundal height (procedure) | start: 2019-07-03 00:00:00 | stop: 2019-07-03 00:00:00
+ • description: Auscultation of the fetal heart (procedure) | start: 2019-07-03 00:00:00 | stop: 2019-07-03 00:00:00
+ • description: Evaluation of uterine fundal height (procedure) | start: 2019-07-31 00:00:00 | stop: 2019-07-31 00:00:00
+ • description: Auscultation of the fetal heart (procedure) | start: 2019-07-31 00:00:00 | stop: 2019-07-31 00:00:00
+ • description: Streptococcus pneumoniae group B antigen assay (procedure) | start: 2019-08-28 00:00:00 | stop: 2019-08-28 00:00:00
+ • description: Evaluation of uterine fundal height (procedure) | start: 2019-08-28 00:00:00 | stop: 2019-08-28 00:00:00
+ • description: Auscultation of the fetal heart (procedure) | start: 2019-08-28 00:00:00 | stop: 2019-08-28 00:00:00
+ • description: Evaluation of uterine fundal height (procedure) | start: 2019-09-11 00:00:00 | stop: 2019-09-11 00:00:00
+ • description: Auscultation of the fetal heart (procedure) | start: 2019-09-11 00:00:00 | stop: 2019-09-11 00:00:00
+ • description: Medical induction of labor (procedure) | start: 2019-09-18 00:00:00 | stop: 2019-09-18 00:00:00
+ • description: Childbirth | start: 2019-09-18 00:00:00 | stop: 2019-09-18 00:00:00
+ • description: Passive immunization (procedure) | start: 2019-10-30 00:00:00 | stop: 2019-10-30 00:00:00
+ • description: Physical examination procedure (procedure) | start: 2019-10-30 00:00:00 | stop: 2019-10-30 00:00:00
+ • description: Depression screening (procedure) | start: 2019-10-30 00:00:00 | stop: 2019-10-30 00:00:00
+ • description: Insertion of intrauterine contraceptive device (procedure) | start: 2019-11-08 00:00:00 | stop: 2019-11-08 00:00:00
+ • description: Intramuscular injection (procedure) | start: 2020-11-02 00:00:00 | stop: 2020-11-02 00:00:00
+ • description: Medication reconciliation (procedure) | start: 2021-06-30 00:00:00 | stop: 2021-06-30 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2021-06-30 00:00:00 | stop: 2021-06-30 00:00:00
+ • description: Assessment of anxiety (procedure) | start: 2021-06-30 00:00:00 | stop: 2021-06-30 00:00:00
+ • description: Depression screening (procedure) | start: 2021-06-30 00:00:00 | stop: 2021-06-30 00:00:00
+ • description: Depression screening (procedure) | start: 2021-06-30 00:00:00 | stop: 2021-06-30 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2021-06-30 00:00:00 | stop: 2021-06-30 00:00:00
+ • description: Screening for drug abuse (procedure) | start: 2021-06-30 00:00:00 | stop: 2021-06-30 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2023-07-05 00:00:00 | stop: 2023-07-05 00:00:00
+ • description: Assessment of anxiety (procedure) | start: 2023-07-05 00:00:00 | stop: 2023-07-05 00:00:00
+ • description: Depression screening (procedure) | start: 2023-07-05 00:00:00 | stop: 2023-07-05 00:00:00
+ • description: Depression screening (procedure) | start: 2023-07-05 00:00:00 | stop: 2023-07-05 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2023-07-05 00:00:00 | stop: 2023-07-05 00:00:00
+ • description: Screening for drug abuse (procedure) | start: 2023-07-05 00:00:00 | stop: 2023-07-05 00:00:00
+
+OBSERVATIONS
+----------------------------------------
+ • description: Hemoglobin A1c/Hemoglobin.total in Blood | value: 6.0 | units: %
+ • description: Body Height | value: 164.3 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 2.0 | units: {score}
+ • description: Body Weight | value: 81.0 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 30.0 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 83.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 123.0 | units: mm[Hg]
+ • description: Heart rate | value: 99.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Glucose [Mass/volume] in Blood | value: 99.6 | units: mg/dL
+ • description: Urea nitrogen [Mass/volume] in Blood | value: 14.3 | units: mg/dL
+ • description: Creatinine [Mass/volume] in Blood | value: 1.0 | units: mg/dL
+ • description: Calcium [Mass/volume] in Blood | value: 9.2 | units: mg/dL
+ • description: Sodium [Moles/volume] in Blood | value: 137.8 | units: mmol/L
+ • description: Potassium [Moles/volume] in Blood | value: 4.2 | units: mmol/L
+ • description: Chloride [Moles/volume] in Blood | value: 101.3 | units: mmol/L
+ • description: Carbon dioxide  total [Moles/volume] in Blood | value: 21.6 | units: mmol/L
+ • description: Cholesterol [Mass/volume] in Serum or Plasma | value: 209.3 | units: mg/dL
+ • description: Triglycerides | value: 112.4 | units: mg/dL
+ • description: Low Density Lipoprotein Cholesterol | value: 125.6 | units: mg/dL
+ • description: Cholesterol in HDL [Mass/volume] in Serum or Plasma | value: 61.2 | units: mg/dL
+ • description: Leukocytes [#/volume] in Blood by Automated count | value: 8.6 | units: 10*3/uL
+ • description: Erythrocytes [#/volume] in Blood by Automated count | value: 5.2 | units: 10*6/uL
+ • description: Hemoglobin [Mass/volume] in Blood | value: 16.7 | units: g/dL
+ • description: Hematocrit [Volume Fraction] of Blood by Automated count | value: 48.7 | units: %
+ • description: MCV [Entitic volume] by Automated count | value: 90.6 | units: fL
+ • description: MCH [Entitic mass] by Automated count | value: 31.4 | units: pg
+ • description: MCHC [Mass/volume] by Automated count | value: 34.7 | units: g/dL
+ • description: Erythrocyte distribution width [Entitic volume] by Automated count | value: 44.6 | units: fL
+ • description: Platelets [#/volume] in Blood by Automated count | value: 409.5 | units: 10*3/uL
+ • description: Platelet distribution width [Entitic volume] in Blood by Automated count | value: 159.2 | units: fL
+ • description: Platelet mean volume [Entitic volume] in Blood by Automated count | value: 10.0 | units: fL
+ • description: Tobacco smoking status | value: Ex-smoker (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: Somewhat | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 3 to 5 times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 92007 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: High school diploma or GED | units: N/A
+ • description: Address | value: 682 Flatley Alley Unit 46 | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 6.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: Asian | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] | value: 3.0 | units: {score}
+ • description: Hemoglobin A1c/Hemoglobin.total in Blood | value: 6.3 | units: %
+ • description: Body Height | value: 164.3 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 3.0 | units: {score}
+ • description: Body Weight | value: 81.0 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 30.0 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 80.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 121.0 | units: mm[Hg]
+ • description: Heart rate | value: 76.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Glucose [Mass/volume] in Blood | value: 71.8 | units: mg/dL
+ • description: Urea nitrogen [Mass/volume] in Blood | value: 13.8 | units: mg/dL
+ • description: Creatinine [Mass/volume] in Blood | value: 1.0 | units: mg/dL
+ • description: Calcium [Mass/volume] in Blood | value: 9.2 | units: mg/dL
+ • description: Sodium [Moles/volume] in Blood | value: 140.9 | units: mmol/L
+ • description: Potassium [Moles/volume] in Blood | value: 3.8 | units: mmol/L
+ • description: Chloride [Moles/volume] in Blood | value: 109.0 | units: mmol/L
+ • description: Carbon dioxide  total [Moles/volume] in Blood | value: 26.3 | units: mmol/L
+ • description: Cholesterol [Mass/volume] in Serum or Plasma | value: 160.7 | units: mg/dL
+ • description: Triglycerides | value: 129.1 | units: mg/dL
+ • description: Low Density Lipoprotein Cholesterol | value: 79.6 | units: mg/dL
+ • description: Cholesterol in HDL [Mass/volume] in Serum or Plasma | value: 55.3 | units: mg/dL
+ • description: Tobacco smoking status | value: Ex-smoker (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: Quite a bit | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 5 or more times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 92007 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: High school diploma or GED | units: N/A
+ • description: Address | value: 682 Flatley Alley Unit 46 | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 6.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: I choose not to answer this question | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: Asian | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] | value: 4.0 | units: {score}
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 0.0 | units: {score}
+ • description: Total score [DAST-10] | value: 2.0 | units: {score}
+ • description: Hemoglobin A1c/Hemoglobin.total in Blood | value: 5.9 | units: %
+ • description: Body Height | value: 164.3 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 0.0 | units: {score}
+ • description: Body Weight | value: 81.0 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 30.0 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 83.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 127.0 | units: mm[Hg]
+ • description: Heart rate | value: 69.0 | units: /min
+ • description: Respiratory rate | value: 16.0 | units: /min
+ • description: Glucose [Mass/volume] in Blood | value: 85.7 | units: mg/dL
+ • description: Urea nitrogen [Mass/volume] in Blood | value: 15.3 | units: mg/dL
+ • description: Creatinine [Mass/volume] in Blood | value: 1.0 | units: mg/dL
+ • description: Calcium [Mass/volume] in Blood | value: 10.1 | units: mg/dL
+ • description: Sodium [Moles/volume] in Blood | value: 142.7 | units: mmol/L
+ • description: Potassium [Moles/volume] in Blood | value: 3.9 | units: mmol/L
+ • description: Chloride [Moles/volume] in Blood | value: 102.2 | units: mmol/L
+ • description: Carbon dioxide  total [Moles/volume] in Blood | value: 22.2 | units: mmol/L
+ • description: Leukocytes [#/volume] in Blood by Automated count | value: 4.8 | units: 10*3/uL
+ • description: Erythrocytes [#/volume] in Blood by Automated count | value: 5.4 | units: 10*6/uL
+ • description: Hemoglobin [Mass/volume] in Blood | value: 14.9 | units: g/dL
+ • description: Hematocrit [Volume Fraction] of Blood by Automated count | value: 47.1 | units: %
+ • description: MCV [Entitic volume] by Automated count | value: 80.5 | units: fL
+ • description: MCH [Entitic mass] by Automated count | value: 28.0 | units: pg
+ • description: MCHC [Mass/volume] by Automated count | value: 35.1 | units: g/dL
+ • description: Erythrocyte distribution width [Entitic volume] by Automated count | value: 45.8 | units: fL
+ • description: Platelets [#/volume] in Blood by Automated count | value: 283.0 | units: 10*3/uL
+ • description: Platelet distribution width [Entitic volume] in Blood by Automated count | value: 459.2 | units: fL
+ • description: Platelet mean volume [Entitic volume] in Blood by Automated count | value: 10.0 | units: fL
+ • description: Tobacco smoking status | value: Ex-smoker (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: Not at all | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 5 or more times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 92007 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: High school diploma or GED | units: N/A
+ • description: Address | value: 682 Flatley Alley Unit 46 | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 6.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: Asian | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] | value: 0.0 | units: {score}
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 2.0 | units: {score}
+ • description: Total score [DAST-10] | value: 2.0 | units: {score}
+ • description: Hemoglobin A1c/Hemoglobin.total in Blood | value: 5.8 | units: %
+ • description: Body Height | value: 164.3 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 2.0 | units: {score}
+ • description: Body Weight | value: 74.0 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 27.4 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 85.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 121.0 | units: mm[Hg]
+ • description: Heart rate | value: 72.0 | units: /min
+ • description: Respiratory rate | value: 13.0 | units: /min
+ • description: Glucose [Mass/volume] in Blood | value: 97.2 | units: mg/dL
+ • description: Urea nitrogen [Mass/volume] in Blood | value: 8.1 | units: mg/dL
+ • description: Creatinine [Mass/volume] in Blood | value: 0.9 | units: mg/dL
+ • description: Calcium [Mass/volume] in Blood | value: 9.0 | units: mg/dL
+ • description: Sodium [Moles/volume] in Blood | value: 139.0 | units: mmol/L
+ • description: Potassium [Moles/volume] in Blood | value: 4.1 | units: mmol/L
+ • description: Chloride [Moles/volume] in Blood | value: 104.7 | units: mmol/L
+ • description: Carbon dioxide  total [Moles/volume] in Blood | value: 20.4 | units: mmol/L
+ • description: Cholesterol [Mass/volume] in Serum or Plasma | value: 169.4 | units: mg/dL
+ • description: Triglycerides | value: 130.8 | units: mg/dL
+ • description: Low Density Lipoprotein Cholesterol | value: 94.4 | units: mg/dL
+ • description: Cholesterol in HDL [Mass/volume] in Serum or Plasma | value: 48.8 | units: mg/dL
+ • description: Tobacco smoking status | value: Ex-smoker (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: Somewhat | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 5 or more times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 92007 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: High school diploma or GED | units: N/A
+ • description: Address | value: 682 Flatley Alley Unit 46 | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 6.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: Asian | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] | value: 8.0 | units: {score}
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 1.0 | units: {score}
+ • description: Total score [DAST-10] | value: 2.0 | units: {score}
+ • description: QALY | value: 31.9 | units: a
+ • description: QALY | value: 32.9 | units: a
+ • description: QALY | value: 33.9 | units: a
+ • description: QALY | value: 34.9 | units: a
+ • description: QALY | value: 35.9 | units: a
+ • description: QALY | value: 36.9 | units: a
+ • description: QALY | value: 37.9 | units: a
+ • description: QALY | value: 38.9 | units: a
+ • description: QALY | value: 39.9 | units: a
+ • description: QALY | value: 40.9 | units: a
+ • description: QALY | value: 41.9 | units: a
+ • description: DALY | value: 0.1 | units: a
+ • description: DALY | value: 0.1 | units: a
+ • description: DALY | value: 0.1 | units: a
+ • description: DALY | value: 0.1 | units: a
+ • description: DALY | value: 0.1 | units: a
+ • description: DALY | value: 0.1 | units: a
+ • description: DALY | value: 0.1 | units: a
+ • description: DALY | value: 0.1 | units: a
+ • description: DALY | value: 0.1 | units: a
+ • description: DALY | value: 0.1 | units: a
+ • description: DALY | value: 0.1 | units: a
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+
+IMMUNIZATIONS
+----------------------------------------
+ • description: Influenza  seasonal  injectable  preservative free | date: 2015-09-16 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2018-09-19 00:00:00
+ • description: COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose | date: 2021-03-31 00:00:00
+ • description: COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose | date: 2021-04-28 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2021-06-30 00:00:00
+ • description: Hep A  adult | date: 2021-06-30 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2023-07-05 00:00:00
+ • description: Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed | date: 2023-07-05 00:00:00
+ • description: Hep A  adult | date: 2023-07-05 00:00:00
+
+DEVICES
+----------------------------------------
+ • description: Blood glucose meter (physical object) | start: 2009-09-09 00:00:00 | stop: N/A
+ • description: Home nebulizer (physical object) | start: 2012-05-06 00:00:00 | stop: N/A
+
+CAREPLANS
+----------------------------------------
+ • description: Diabetes self management plan (record artifact) | start: 2009-09-09 00:00:00 | stop: N/A
+ • description: Routine antenatal care (regime/therapy) | start: 2019-02-13 00:00:00 | stop: 2019-09-18 00:00:00
+
+SUPPLIES
+----------------------------------------
+ • description: Blood glucose testing strips (physical object) | quantity: 50 | date: 2009-09-09 00:00:00
+ • description: Blood glucose testing strips (physical object) | quantity: 50 | date: 2012-09-12 00:00:00
+ • description: Blood lancet (physical object) | quantity: 100 | date: 2012-09-12 00:00:00
+ • description: Blood glucose testing strips (physical object) | quantity: 50 | date: 2015-09-16 00:00:00
+ • description: Dental equipment (physical object) | quantity: 1 | date: 2015-09-30 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 2015-09-30 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 2015-09-30 00:00:00

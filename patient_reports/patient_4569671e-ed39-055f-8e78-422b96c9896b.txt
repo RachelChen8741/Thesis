@@ -1,0 +1,420 @@
+PATIENT RECORD
+========================================
+Name: Caryl47 Kassulke119
+ID: 4569671e-ed39-055f-8e78-422b96c9896b
+Birthdate: 2013-08-10 00:00:00
+Gender: F
+
+
+ENCOUNTERS
+----------------------------------------
+ • start: 2014-05-29 00:00:00 | stop: 2014-05-29 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2014-07-09 00:00:00 | stop: 2014-07-09 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2014-07-19 00:00:00 | stop: 2014-07-19 00:00:00 | description: Well child visit (procedure)
+ • start: 2014-07-26 00:00:00 | stop: 2014-07-26 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2015-01-17 00:00:00 | stop: 2015-01-17 00:00:00 | description: Well child visit (procedure)
+ • start: 2015-07-11 00:00:00 | stop: 2015-07-11 00:00:00 | description: Encounter for check up (procedure)
+ • start: 2015-07-18 00:00:00 | stop: 2015-07-18 00:00:00 | description: Well child visit (procedure)
+ • start: 2015-07-25 00:00:00 | stop: 2015-07-25 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 2016-01-16 00:00:00 | stop: 2016-01-16 00:00:00 | description: Well child visit (procedure)
+ • start: 2016-01-23 00:00:00 | stop: 2016-01-23 00:00:00 | description: Encounter for check up (procedure)
+ • start: 2016-07-16 00:00:00 | stop: 2016-07-16 00:00:00 | description: Well child visit (procedure)
+ • start: 2016-09-14 00:00:00 | stop: 2016-09-14 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 2017-01-14 00:00:00 | stop: 2017-01-14 00:00:00 | description: Well child visit (procedure)
+ • start: 2017-01-21 00:00:00 | stop: 2017-01-21 00:00:00 | description: Encounter for check up (procedure)
+ • start: 2017-07-15 00:00:00 | stop: 2017-07-15 00:00:00 | description: Well child visit (procedure)
+ • start: 2017-08-16 00:00:00 | stop: 2017-08-16 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 2018-07-21 00:00:00 | stop: 2018-07-21 00:00:00 | description: Well child visit (procedure)
+ • start: 2019-07-27 00:00:00 | stop: 2019-07-27 00:00:00 | description: Well child visit (procedure)
+ • start: 2019-08-03 00:00:00 | stop: 2019-08-03 00:00:00 | description: Encounter for check up (procedure)
+ • start: 2020-08-01 00:00:00 | stop: 2020-08-01 00:00:00 | description: Well child visit (procedure)
+ • start: 2021-08-07 00:00:00 | stop: 2021-08-07 00:00:00 | description: Well child visit (procedure)
+ • start: 2021-08-14 00:00:00 | stop: 2021-08-14 00:00:00 | description: Encounter for check up (procedure)
+ • start: 2022-04-02 00:00:00 | stop: 2022-04-02 00:00:00 | description: Encounter for check up (procedure)
+ • start: 2022-04-09 00:00:00 | stop: 2022-04-09 00:00:00 | description: Encounter for check up (procedure)
+ • start: 2022-04-16 00:00:00 | stop: 2022-04-16 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 2022-08-13 00:00:00 | stop: 2022-08-13 00:00:00 | description: Well child visit (procedure)
+ • start: 2023-08-19 00:00:00 | stop: 2023-08-19 00:00:00 | description: Well child visit (procedure)
+ • start: 2023-08-26 00:00:00 | stop: 2023-08-26 00:00:00 | description: Encounter for check up (procedure)
+ • start: 2024-08-24 00:00:00 | stop: 2024-08-24 00:00:00 | description: Well child visit (procedure)
+
+CONDITIONS
+----------------------------------------
+ • description: Atopic dermatitis (disorder)
+ • description: Medication review due (situation)
+ • description: Medication review due (situation)
+ • description: Viral sinusitis (disorder)
+ • description: Perennial allergic rhinitis (disorder)
+ • description: Medication review due (situation)
+ • description: Primary dental caries (disorder)
+ • description: Viral sinusitis (disorder)
+ • description: Medication review due (situation)
+ • description: Gingivitis (disorder)
+ • description: Leaking dental filling (finding)
+ • description: Medication review due (situation)
+ • description: Streptococcal sore throat (disorder)
+ • description: Medication review due (situation)
+ • description: Primary dental caries (disorder)
+
+MEDICATIONS
+----------------------------------------
+ • description: cetirizine hydrochloride 5 MG Oral Tablet | start: 2014-07-26 00:00:00 | stop: N/A
+ • description: NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector | start: 2014-07-26 00:00:00 | stop: N/A
+ • description: Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet | start: 2015-07-25 00:00:00 | stop: 2015-08-19 00:00:00
+ • description: sodium fluoride 0.0272 MG/MG Oral Gel | start: 2017-01-21 00:00:00 | stop: 2017-01-21 00:00:00
+ • description: sodium fluoride 0.0272 MG/MG Oral Gel | start: 2019-08-03 00:00:00 | stop: 2019-08-03 00:00:00
+ • description: Penicillin V Potassium 250 MG Oral Tablet | start: 2022-04-16 00:00:00 | stop: 2022-04-28 00:00:00
+ • description: sodium fluoride 0.0272 MG/MG Oral Gel | start: 2023-08-26 00:00:00 | stop: 2023-08-26 00:00:00
+
+PROCEDURES
+----------------------------------------
+ • description: Medication reconciliation (procedure) | start: 2015-07-11 00:00:00 | stop: 2015-07-11 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 2016-01-16 00:00:00 | stop: 2016-01-16 00:00:00
+ • description: Dental consultation and report (procedure) | start: 2016-01-23 00:00:00 | stop: 2016-01-23 00:00:00
+ • description: Dental care (regime/therapy) | start: 2016-01-23 00:00:00 | stop: 2016-01-23 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2016-01-23 00:00:00 | stop: 2016-01-23 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2016-01-23 00:00:00 | stop: 2016-01-23 00:00:00
+ • description: Dental plain X-ray bitewing (procedure) | start: 2016-01-23 00:00:00 | stop: 2016-01-23 00:00:00
+ • description: Examination of gingivae (procedure) | start: 2016-01-23 00:00:00 | stop: 2016-01-23 00:00:00
+ • description: Oral health education (procedure) | start: 2016-01-23 00:00:00 | stop: 2016-01-23 00:00:00
+ • description: Medication reconciliation (procedure) | start: 2016-07-16 00:00:00 | stop: 2016-07-16 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 2017-01-14 00:00:00 | stop: 2017-01-14 00:00:00
+ • description: Dental consultation and report (procedure) | start: 2017-01-21 00:00:00 | stop: 2017-01-21 00:00:00
+ • description: Dental care (regime/therapy) | start: 2017-01-21 00:00:00 | stop: 2017-01-21 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2017-01-21 00:00:00 | stop: 2017-01-21 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2017-01-21 00:00:00 | stop: 2017-01-21 00:00:00
+ • description: Examination of gingivae (procedure) | start: 2017-01-21 00:00:00 | stop: 2017-01-21 00:00:00
+ • description: Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure) | start: 2017-01-21 00:00:00 | stop: 2017-01-21 00:00:00
+ • description: Dental fluoride treatment (procedure) | start: 2017-01-21 00:00:00 | stop: 2017-01-21 00:00:00
+ • description: Oral health education (procedure) | start: 2017-01-21 00:00:00 | stop: 2017-01-21 00:00:00
+ • description: Medication reconciliation (procedure) | start: 2017-07-15 00:00:00 | stop: 2017-07-15 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 2019-07-27 00:00:00 | stop: 2019-07-27 00:00:00
+ • description: Dental consultation and report (procedure) | start: 2019-08-03 00:00:00 | stop: 2019-08-03 00:00:00
+ • description: Dental care (regime/therapy) | start: 2019-08-03 00:00:00 | stop: 2019-08-03 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2019-08-03 00:00:00 | stop: 2019-08-03 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2019-08-03 00:00:00 | stop: 2019-08-03 00:00:00
+ • description: Dental plain X-ray bitewing (procedure) | start: 2019-08-03 00:00:00 | stop: 2019-08-03 00:00:00
+ • description: Examination of gingivae (procedure) | start: 2019-08-03 00:00:00 | stop: 2019-08-03 00:00:00
+ • description: Dental fluoride treatment (procedure) | start: 2019-08-03 00:00:00 | stop: 2019-08-03 00:00:00
+ • description: Oral health education (procedure) | start: 2019-08-03 00:00:00 | stop: 2019-08-03 00:00:00
+ • description: Medication reconciliation (procedure) | start: 2021-08-07 00:00:00 | stop: 2021-08-07 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 2021-08-07 00:00:00 | stop: 2021-08-07 00:00:00
+ • description: Dental consultation and report (procedure) | start: 2021-08-14 00:00:00 | stop: 2021-08-14 00:00:00
+ • description: Dental care (regime/therapy) | start: 2021-08-14 00:00:00 | stop: 2021-08-14 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2021-08-14 00:00:00 | stop: 2021-08-14 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2021-08-14 00:00:00 | stop: 2021-08-14 00:00:00
+ • description: Examination of gingivae (procedure) | start: 2021-08-14 00:00:00 | stop: 2021-08-14 00:00:00
+ • description: Restoration of tooth with coverage of all cusps using dental filling material (procedure) | start: 2021-08-14 00:00:00 | stop: 2021-08-14 00:00:00
+ • description: Oral health education (procedure) | start: 2021-08-14 00:00:00 | stop: 2021-08-14 00:00:00
+ • description: Medication reconciliation (procedure) | start: 2022-04-02 00:00:00 | stop: 2022-04-02 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 2022-04-02 00:00:00 | stop: 2022-04-02 00:00:00
+ • description: Dental consultation and report (procedure) | start: 2022-04-09 00:00:00 | stop: 2022-04-09 00:00:00
+ • description: Dental care (regime/therapy) | start: 2022-04-09 00:00:00 | stop: 2022-04-09 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2022-04-09 00:00:00 | stop: 2022-04-09 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2022-04-09 00:00:00 | stop: 2022-04-09 00:00:00
+ • description: Examination of gingivae (procedure) | start: 2022-04-09 00:00:00 | stop: 2022-04-09 00:00:00
+ • description: Oral health education (procedure) | start: 2022-04-09 00:00:00 | stop: 2022-04-09 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 2023-08-19 00:00:00 | stop: 2023-08-19 00:00:00
+ • description: Dental consultation and report (procedure) | start: 2023-08-26 00:00:00 | stop: 2023-08-26 00:00:00
+ • description: Dental care (regime/therapy) | start: 2023-08-26 00:00:00 | stop: 2023-08-26 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2023-08-26 00:00:00 | stop: 2023-08-26 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2023-08-26 00:00:00 | stop: 2023-08-26 00:00:00
+ • description: Dental plain X-ray bitewing (procedure) | start: 2023-08-26 00:00:00 | stop: 2023-08-26 00:00:00
+ • description: Examination of gingivae (procedure) | start: 2023-08-26 00:00:00 | stop: 2023-08-26 00:00:00
+ • description: Restoration of tooth with coverage of all cusps using dental filling material (procedure) | start: 2023-08-26 00:00:00 | stop: 2023-08-26 00:00:00
+ • description: Dental fluoride treatment (procedure) | start: 2023-08-26 00:00:00 | stop: 2023-08-26 00:00:00
+ • description: Oral health education (procedure) | start: 2023-08-26 00:00:00 | stop: 2023-08-26 00:00:00
+
+OBSERVATIONS
+----------------------------------------
+ • description: Body Height | value: 83.0 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 4.0 | units: {score}
+ • description: Body Weight | value: 12.7 | units: kg
+ • description: Weight-for-length Per age and sex | value: 91.3 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 86.9 | units: %
+ • description: Head Occipital-frontal circumference | value: 47.9 | units: cm
+ • description: Diastolic Blood Pressure | value: 73.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 108.0 | units: mm[Hg]
+ • description: Heart rate | value: 91.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 88.8 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 2.0 | units: {score}
+ • description: Body Weight | value: 14.0 | units: kg
+ • description: Weight-for-length Per age and sex | value: 88.3 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 86.9 | units: %
+ • description: Head Occipital-frontal circumference | value: 49.0 | units: cm
+ • description: Diastolic Blood Pressure | value: 73.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 106.0 | units: mm[Hg]
+ • description: Heart rate | value: 95.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 88.8 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 3.0 | units: {score}
+ • description: Body Weight | value: 14.0 | units: kg
+ • description: Weight-for-length Per age and sex | value: 88.3 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 86.9 | units: %
+ • description: Head Occipital-frontal circumference | value: 49.0 | units: cm
+ • description: Diastolic Blood Pressure | value: 73.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 102.0 | units: mm[Hg]
+ • description: Heart rate | value: 84.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 93.3 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 0.0 | units: {score}
+ • description: Body Weight | value: 15.3 | units: kg
+ • description: Weight-for-length Per age and sex | value: 91.0 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 86.9 | units: %
+ • description: Head Occipital-frontal circumference | value: 49.7 | units: cm
+ • description: Body mass index (BMI) [Ratio] | value: 17.6 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 84.6 | units: %
+ • description: Diastolic Blood Pressure | value: 74.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 104.0 | units: mm[Hg]
+ • description: Heart rate | value: 93.0 | units: /min
+ • description: Respiratory rate | value: 13.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 97.6 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 2.0 | units: {score}
+ • description: Body Weight | value: 17.6 | units: kg
+ • description: Weight-for-length Per age and sex | value: 95.6 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 86.9 | units: %
+ • description: Head Occipital-frontal circumference | value: 50.3 | units: cm
+ • description: Body mass index (BMI) [Ratio] | value: 18.5 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 96.0 | units: %
+ • description: Diastolic Blood Pressure | value: 75.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 107.0 | units: mm[Hg]
+ • description: Heart rate | value: 81.0 | units: /min
+ • description: Respiratory rate | value: 16.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 101.2 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 3.0 | units: {score}
+ • description: Body Weight | value: 20.0 | units: kg
+ • description: Weight-for-length Per age and sex | value: 97.1 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 86.9 | units: %
+ • description: Head Occipital-frontal circumference | value: 50.3 | units: cm
+ • description: Body mass index (BMI) [Ratio] | value: 19.6 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 98.8 | units: %
+ • description: Diastolic Blood Pressure | value: 77.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 102.0 | units: mm[Hg]
+ • description: Heart rate | value: 62.0 | units: /min
+ • description: Respiratory rate | value: 13.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 104.8 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 3.0 | units: {score}
+ • description: Body Weight | value: 19.9 | units: kg
+ • description: Weight-for-length Per age and sex | value: 97.1 | units: %
+ • description: Head Occipital-frontal circumference Percentile | value: 86.9 | units: %
+ • description: Head Occipital-frontal circumference | value: 50.3 | units: cm
+ • description: Body mass index (BMI) [Ratio] | value: 18.1 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 95.3 | units: %
+ • description: Diastolic Blood Pressure | value: 77.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 107.0 | units: mm[Hg]
+ • description: Heart rate | value: 63.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 112.2 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 3.0 | units: {score}
+ • description: Body Weight | value: 20.2 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 16.0 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 73.0 | units: %
+ • description: Diastolic Blood Pressure | value: 74.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 109.0 | units: mm[Hg]
+ • description: Heart rate | value: 73.0 | units: /min
+ • description: Respiratory rate | value: 13.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 119.7 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 1.0 | units: {score}
+ • description: Body Weight | value: 22.2 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 15.5 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 58.8 | units: %
+ • description: Diastolic Blood Pressure | value: 76.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 100.0 | units: mm[Hg]
+ • description: Heart rate | value: 87.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Leukocytes [#/volume] in Blood by Automated count | value: 8.6 | units: 10*3/uL
+ • description: Erythrocytes [#/volume] in Blood by Automated count | value: 4.4 | units: 10*6/uL
+ • description: Hemoglobin [Mass/volume] in Blood | value: 12.2 | units: g/dL
+ • description: Hematocrit [Volume Fraction] of Blood by Automated count | value: 44.8 | units: %
+ • description: MCV [Entitic volume] by Automated count | value: 94.0 | units: fL
+ • description: MCH [Entitic mass] by Automated count | value: 30.8 | units: pg
+ • description: MCHC [Mass/volume] by Automated count | value: 35.8 | units: g/dL
+ • description: Erythrocyte distribution width [Entitic volume] by Automated count | value: 43.2 | units: fL
+ • description: Platelets [#/volume] in Blood by Automated count | value: 439.8 | units: 10*3/uL
+ • description: Platelet distribution width [Entitic volume] in Blood by Automated count | value: 179.2 | units: fL
+ • description: Platelet mean volume [Entitic volume] in Blood by Automated count | value: 11.9 | units: fL
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 126.9 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 1.0 | units: {score}
+ • description: Body Weight | value: 24.7 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 15.3 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 47.6 | units: %
+ • description: Diastolic Blood Pressure | value: 65.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 108.0 | units: mm[Hg]
+ • description: Heart rate | value: 87.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 133.3 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 1.0 | units: {score}
+ • description: Body Weight | value: 27.1 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 15.3 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 37.7 | units: %
+ • description: Diastolic Blood Pressure | value: 74.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 107.0 | units: mm[Hg]
+ • description: Heart rate | value: 97.0 | units: /min
+ • description: Respiratory rate | value: 13.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 137.2 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 2.0 | units: {score}
+ • description: Body Weight | value: 29.0 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 15.4 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 35.4 | units: %
+ • description: Diastolic Blood Pressure | value: 76.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 109.0 | units: mm[Hg]
+ • description: Heart rate | value: 97.0 | units: /min
+ • description: Respiratory rate | value: 16.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body temperature | value: 38.9 | units: Cel
+ • description: Body Height | value: 139.5 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 1.0 | units: {score}
+ • description: Body Weight | value: 30.9 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 15.9 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 42.1 | units: %
+ • description: Diastolic Blood Pressure | value: 76.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 103.0 | units: mm[Hg]
+ • description: Heart rate | value: 65.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 145.0 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 1.0 | units: {score}
+ • description: Body Weight | value: 34.7 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 16.5 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 43.3 | units: %
+ • description: Diastolic Blood Pressure | value: 74.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 109.0 | units: mm[Hg]
+ • description: Heart rate | value: 97.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Body Height | value: 151.6 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 0.0 | units: {score}
+ • description: Body Weight | value: 39.2 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 17.1 | units: kg/m2
+ • description: Body mass index (BMI) [Percentile] Per age and sex | value: 43.1 | units: %
+ • description: Diastolic Blood Pressure | value: 76.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 110.0 | units: mm[Hg]
+ • description: Heart rate | value: 85.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Leukocytes [#/volume] in Blood by Automated count | value: 8.6 | units: 10*3/uL
+ • description: Erythrocytes [#/volume] in Blood by Automated count | value: 4.5 | units: 10*6/uL
+ • description: Hemoglobin [Mass/volume] in Blood | value: 15.4 | units: g/dL
+ • description: Hematocrit [Volume Fraction] of Blood by Automated count | value: 46.3 | units: %
+ • description: MCV [Entitic volume] by Automated count | value: 81.3 | units: fL
+ • description: MCH [Entitic mass] by Automated count | value: 28.8 | units: pg
+ • description: MCHC [Mass/volume] by Automated count | value: 35.1 | units: g/dL
+ • description: Erythrocyte distribution width [Entitic volume] by Automated count | value: 41.9 | units: fL
+ • description: Platelets [#/volume] in Blood by Automated count | value: 333.0 | units: 10*3/uL
+ • description: Platelet distribution width [Entitic volume] in Blood by Automated count | value: 263.8 | units: fL
+ • description: Platelet mean volume [Entitic volume] in Blood by Automated count | value: 10.4 | units: fL
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: QALY | value: 0.0 | units: a
+ • description: QALY | value: 1.0 | units: a
+ • description: QALY | value: 2.0 | units: a
+ • description: QALY | value: 3.0 | units: a
+ • description: QALY | value: 3.9 | units: a
+ • description: QALY | value: 4.9 | units: a
+ • description: QALY | value: 5.9 | units: a
+ • description: QALY | value: 6.9 | units: a
+ • description: QALY | value: 7.8 | units: a
+ • description: QALY | value: 8.8 | units: a
+ • description: QALY | value: 9.8 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.1 | units: a
+ • description: DALY | value: 0.1 | units: a
+ • description: DALY | value: 0.1 | units: a
+ • description: DALY | value: 0.1 | units: a
+ • description: DALY | value: 0.2 | units: a
+ • description: DALY | value: 0.2 | units: a
+ • description: DALY | value: 0.2 | units: a
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+
+ALLERGIES
+----------------------------------------
+ • description: Allergy to substance (finding) | reaction1: N/A | severity1: N/A
+ • description: Mold (organism) | reaction1: N/A | severity1: N/A
+ • description: Animal dander (substance) | reaction1: 878820003 | severity1: MODERATE
+ • description: Grass pollen (substance) | reaction1: N/A | severity1: N/A
+ • description: Tree pollen (substance) | reaction1: N/A | severity1: N/A
+ • description: Cow's milk (substance) | reaction1: 247472004 | severity1: MILD
+ • description: Tree nut (substance) | reaction1: 39579001 | severity1: SEVERE
+
+IMMUNIZATIONS
+----------------------------------------
+ • description: DTaP | date: 2015-01-17 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2015-07-11 00:00:00
+ • description: Hep A  ped/adol  2 dose | date: 2016-01-16 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2016-07-16 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2017-07-15 00:00:00
+ • description: varicella | date: 2018-07-21 00:00:00
+ • description: IPV | date: 2018-07-21 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2018-07-21 00:00:00
+ • description: DTaP | date: 2018-07-21 00:00:00
+ • description: MMR | date: 2018-07-21 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2019-07-27 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2020-08-01 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2021-08-07 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2022-04-02 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2023-08-19 00:00:00
+ • description: Tdap | date: 2024-08-24 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2024-08-24 00:00:00
+ • description: HPV  quadrivalent | date: 2024-08-24 00:00:00
+ • description: meningococcal MCV4P | date: 2024-08-24 00:00:00
+
+DEVICES
+----------------------------------------
+ • description: Dental x-ray system (physical object) | start: 2016-01-23 00:00:00 | stop: 2016-01-23 00:00:00
+ • description: Dental x-ray system (physical object) | start: 2019-08-03 00:00:00 | stop: 2019-08-03 00:00:00
+ • description: Dental x-ray system (physical object) | start: 2023-08-26 00:00:00 | stop: 2023-08-26 00:00:00
+
+CAREPLANS
+----------------------------------------
+ • description: Skin condition care (regime/therapy) | start: 2014-05-29 00:00:00 | stop: N/A
+ • description: Self-care interventions (procedure) | start: 2014-07-09 00:00:00 | stop: N/A
+
+IMAGING
+----------------------------------------
+ • bodysitedescription: Structure of region of internal part of mouth (body structure) | modalitydescription: Digital Radiography | date: 2016-01-23 00:00:00
+ • bodysitedescription: Structure of region of internal part of mouth (body structure) | modalitydescription: Digital Radiography | date: 2019-08-03 00:00:00
+ • bodysitedescription: Structure of region of internal part of mouth (body structure) | modalitydescription: Digital Radiography | date: 2023-08-26 00:00:00
+
+SUPPLIES
+----------------------------------------
+ • description: Dental equipment (physical object) | quantity: 1 | date: 2016-01-23 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 2016-01-23 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 2016-01-23 00:00:00
+ • description: Dental equipment (physical object) | quantity: 1 | date: 2017-01-21 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 2017-01-21 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 2017-01-21 00:00:00
+ • description: Dental equipment (physical object) | quantity: 1 | date: 2019-08-03 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 2019-08-03 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 2019-08-03 00:00:00
+ • description: Dental equipment (physical object) | quantity: 1 | date: 2021-08-14 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 2021-08-14 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 2021-08-14 00:00:00
+ • description: Dental equipment (physical object) | quantity: 1 | date: 2022-04-09 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 2022-04-09 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 2022-04-09 00:00:00
+ • description: Dental equipment (physical object) | quantity: 1 | date: 2023-08-26 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 2023-08-26 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 2023-08-26 00:00:00

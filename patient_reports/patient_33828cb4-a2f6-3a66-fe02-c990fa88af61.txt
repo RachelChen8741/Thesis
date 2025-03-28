@@ -1,0 +1,634 @@
+PATIENT RECORD
+========================================
+Name: Princess223 Schmeler639
+ID: 33828cb4-a2f6-3a66-fe02-c990fa88af61
+Birthdate: 1974-12-06 00:00:00
+Gender: F
+
+
+ENCOUNTERS
+----------------------------------------
+ • start: 1993-01-29 00:00:00 | stop: 1993-01-29 00:00:00 | description: General examination of patient (procedure)
+ • start: 1994-06-06 00:00:00 | stop: 1994-06-06 00:00:00 | description: Encounter for problem (procedure)
+ • start: 1994-06-19 00:00:00 | stop: 1994-06-19 00:00:00 | description: Encounter for problem (procedure)
+ • start: 2000-02-11 00:00:00 | stop: 2000-02-11 00:00:00 | description: General examination of patient (procedure)
+ • start: 2009-08-08 00:00:00 | stop: 2009-08-08 00:00:00 | description: Prenatal visit (regime/therapy)
+ • start: 2010-04-09 00:00:00 | stop: 2010-04-09 00:00:00 | description: General examination of patient (procedure)
+ • start: 2010-05-30 00:00:00 | stop: 2010-05-31 00:00:00 | description: Admission to surgical department (procedure)
+ • start: 2013-04-26 00:00:00 | stop: 2013-04-26 00:00:00 | description: General examination of patient (procedure)
+ • start: 2014-05-02 00:00:00 | stop: 2014-05-02 00:00:00 | description: General examination of patient (procedure)
+ • start: 2015-05-08 00:00:00 | stop: 2015-05-08 00:00:00 | description: General examination of patient (procedure)
+ • start: 2015-05-22 00:00:00 | stop: 2015-05-23 00:00:00 | description: Encounter for check up (procedure)
+ • start: 2016-05-13 00:00:00 | stop: 2016-05-14 00:00:00 | description: General examination of patient (procedure)
+ • start: 2017-05-19 00:00:00 | stop: 2017-05-19 00:00:00 | description: General examination of patient (procedure)
+ • start: 2018-05-25 00:00:00 | stop: 2018-05-26 00:00:00 | description: General examination of patient (procedure)
+ • start: 2018-07-19 00:00:00 | stop: 2018-07-19 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 2019-05-31 00:00:00 | stop: 2019-05-31 00:00:00 | description: General examination of patient (procedure)
+ • start: 2020-06-05 00:00:00 | stop: 2020-06-05 00:00:00 | description: General examination of patient (procedure)
+ • start: 2020-06-19 00:00:00 | stop: 2020-06-20 00:00:00 | description: Encounter for check up (procedure)
+ • start: 2021-05-28 00:00:00 | stop: 2021-05-28 00:00:00 | description: Administration of vaccine to produce active immunity (procedure)
+ • start: 2021-06-11 00:00:00 | stop: 2021-06-11 00:00:00 | description: General examination of patient (procedure)
+ • start: 2021-06-18 00:00:00 | stop: 2021-06-18 00:00:00 | description: Administration of vaccine to produce active immunity (procedure)
+ • start: 2022-06-17 00:00:00 | stop: 2022-06-17 00:00:00 | description: General examination of patient (procedure)
+ • start: 2022-08-15 00:00:00 | stop: 2022-08-15 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 2023-06-23 00:00:00 | stop: 2023-06-23 00:00:00 | description: General examination of patient (procedure)
+ • start: 2023-07-07 00:00:00 | stop: 2023-07-08 00:00:00 | description: Encounter for check up (procedure)
+ • start: 2023-08-30 00:00:00 | stop: 2023-08-30 00:00:00 | description: Encounter for symptom (procedure)
+ • start: 2024-06-28 00:00:00 | stop: 2024-06-28 00:00:00 | description: General examination of patient (procedure)
+ • start: 2024-07-12 00:00:00 | stop: 2024-07-13 00:00:00 | description: Encounter for check up (procedure)
+
+CONDITIONS
+----------------------------------------
+ • description: Educated to high school level (finding)
+ • description: Victim of intimate partner abuse (finding)
+ • description: Essential hypertension (disorder)
+ • description: Past pregnancy history of miscarriage (situation)
+ • description: Stress (finding)
+ • description: History of tubal ligation (situation)
+ • description: Medication review due (situation)
+ • description: Full-time employment (finding)
+ • description: Part-time employment (finding)
+ • description: Reports of violence in the environment (finding)
+ • description: Gingivitis (disorder)
+ • description: Gingival disease (disorder)
+ • description: Medication review due (situation)
+ • description: Full-time employment (finding)
+ • description: Medication review due (situation)
+ • description: Stress (finding)
+ • description: Not in labor force (finding)
+ • description: Acute viral pharyngitis (disorder)
+ • description: Full-time employment (finding)
+ • description: Medication review due (situation)
+ • description: Medication review due (situation)
+ • description: Stress (finding)
+ • description: Acute viral pharyngitis (disorder)
+ • description: Medication review due (situation)
+ • description: Gingival disease (disorder)
+ • description: Viral sinusitis (disorder)
+ • description: Stress (finding)
+ • description: Gingivitis (disorder)
+ • description: Gingival disease (disorder)
+
+MEDICATIONS
+----------------------------------------
+ • description: Hydrocortisone 10 MG/ML Topical Cream | start: 1994-06-06 00:00:00 | stop: N/A
+ • description: Loratadine 10 MG Oral Tablet | start: 1994-06-19 00:00:00 | stop: N/A
+ • description: NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector | start: 1994-06-19 00:00:00 | stop: N/A
+ • description: amLODIPine 2.5 MG Oral Tablet | start: 2014-05-02 00:00:00 | stop: 2015-05-08 00:00:00
+ • description: amLODIPine 2.5 MG Oral Tablet | start: 2015-05-08 00:00:00 | stop: 2016-05-13 00:00:00
+ • description: amLODIPine 2.5 MG Oral Tablet | start: 2016-05-13 00:00:00 | stop: 2017-05-19 00:00:00
+ • description: amLODIPine 2.5 MG Oral Tablet | start: 2017-05-19 00:00:00 | stop: 2018-05-25 00:00:00
+ • description: amLODIPine 2.5 MG Oral Tablet | start: 2018-05-25 00:00:00 | stop: 2019-05-31 00:00:00
+ • description: amLODIPine 2.5 MG Oral Tablet | start: 2019-05-31 00:00:00 | stop: 2020-06-05 00:00:00
+ • description: amLODIPine 2.5 MG Oral Tablet | start: 2020-06-05 00:00:00 | stop: 2021-06-11 00:00:00
+ • description: sodium fluoride 0.0272 MG/MG Oral Gel | start: 2020-06-20 00:00:00 | stop: 2020-06-20 00:00:00
+ • description: amLODIPine 2.5 MG Oral Tablet | start: 2021-06-11 00:00:00 | stop: 2022-06-17 00:00:00
+ • description: amLODIPine 2.5 MG Oral Tablet | start: 2022-06-17 00:00:00 | stop: 2023-06-23 00:00:00
+ • description: amLODIPine 2.5 MG Oral Tablet | start: 2023-06-23 00:00:00 | stop: 2024-06-28 00:00:00
+ • description: amLODIPine 2.5 MG Oral Tablet | start: 2024-06-28 00:00:00 | stop: N/A
+
+PROCEDURES
+----------------------------------------
+ • description: Medication reconciliation (procedure) | start: 2015-05-08 00:00:00 | stop: 2015-05-08 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2015-05-08 00:00:00 | stop: 2015-05-08 00:00:00
+ • description: Screening for domestic abuse (procedure) | start: 2015-05-08 00:00:00 | stop: 2015-05-09 00:00:00
+ • description: Depression screening (procedure) | start: 2015-05-09 00:00:00 | stop: 2015-05-09 00:00:00
+ • description: Depression screening (procedure) | start: 2015-05-09 00:00:00 | stop: 2015-05-09 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2015-05-09 00:00:00 | stop: 2015-05-09 00:00:00
+ • description: Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) | start: 2015-05-09 00:00:00 | stop: 2015-05-09 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 2015-05-09 00:00:00 | stop: 2015-05-09 00:00:00
+ • description: Dental consultation and report (procedure) | start: 2015-05-22 00:00:00 | stop: 2015-05-22 00:00:00
+ • description: Dental care (regime/therapy) | start: 2015-05-22 00:00:00 | stop: 2015-05-23 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2015-05-23 00:00:00 | stop: 2015-05-23 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2015-05-23 00:00:00 | stop: 2015-05-23 00:00:00
+ • description: Dental plain X-ray bitewing (procedure) | start: 2015-05-23 00:00:00 | stop: 2015-05-23 00:00:00
+ • description: Examination of gingivae (procedure) | start: 2015-05-23 00:00:00 | stop: 2015-05-23 00:00:00
+ • description: Dental surgical procedure (procedure) | start: 2015-05-23 00:00:00 | stop: 2015-05-23 00:00:00
+ • description: Dental application of desensitizing medicament (procedure) | start: 2015-05-23 00:00:00 | stop: 2015-05-23 00:00:00
+ • description: Gingivectomy or gingivoplasty  per tooth (procedure) | start: 2015-05-23 00:00:00 | stop: 2015-05-23 00:00:00
+ • description: Postoperative care for dental procedure (regime/therapy) | start: 2015-05-23 00:00:00 | stop: 2015-05-23 00:00:00
+ • description: Oral health education (procedure) | start: 2015-05-23 00:00:00 | stop: 2015-05-23 00:00:00
+ • description: Medication reconciliation (procedure) | start: 2016-05-13 00:00:00 | stop: 2016-05-13 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2016-05-13 00:00:00 | stop: 2016-05-14 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2017-05-19 00:00:00 | stop: 2017-05-19 00:00:00
+ • description: Assessment of anxiety (procedure) | start: 2017-05-19 00:00:00 | stop: 2017-05-19 00:00:00
+ • description: Depression screening (procedure) | start: 2017-05-19 00:00:00 | stop: 2017-05-20 00:00:00
+ • description: Depression screening (procedure) | start: 2017-05-20 00:00:00 | stop: 2017-05-20 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2018-05-25 00:00:00 | stop: 2018-05-26 00:00:00
+ • description: Assessment of anxiety (procedure) | start: 2018-05-26 00:00:00 | stop: 2018-05-26 00:00:00
+ • description: Depression screening (procedure) | start: 2018-05-26 00:00:00 | stop: 2018-05-26 00:00:00
+ • description: Depression screening (procedure) | start: 2018-05-26 00:00:00 | stop: 2018-05-26 00:00:00
+ • description: Medication reconciliation (procedure) | start: 2019-05-31 00:00:00 | stop: 2019-05-31 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2019-05-31 00:00:00 | stop: 2019-05-31 00:00:00
+ • description: Depression screening (procedure) | start: 2019-05-31 00:00:00 | stop: 2019-05-31 00:00:00
+ • description: Depression screening (procedure) | start: 2019-05-31 00:00:00 | stop: 2019-06-01 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2019-06-01 00:00:00 | stop: 2019-06-01 00:00:00
+ • description: Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) | start: 2019-06-01 00:00:00 | stop: 2019-06-01 00:00:00
+ • description: Medication reconciliation (procedure) | start: 2020-06-05 00:00:00 | stop: 2020-06-05 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2020-06-05 00:00:00 | stop: 2020-06-05 00:00:00
+ • description: Assessment of anxiety (procedure) | start: 2020-06-05 00:00:00 | stop: 2020-06-06 00:00:00
+ • description: Depression screening (procedure) | start: 2020-06-06 00:00:00 | stop: 2020-06-06 00:00:00
+ • description: Depression screening (procedure) | start: 2020-06-06 00:00:00 | stop: 2020-06-06 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2020-06-06 00:00:00 | stop: 2020-06-06 00:00:00
+ • description: Screening for drug abuse (procedure) | start: 2020-06-06 00:00:00 | stop: 2020-06-06 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 2020-06-06 00:00:00 | stop: 2020-06-06 00:00:00
+ • description: Dental consultation and report (procedure) | start: 2020-06-19 00:00:00 | stop: 2020-06-19 00:00:00
+ • description: Dental care (regime/therapy) | start: 2020-06-19 00:00:00 | stop: 2020-06-20 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2020-06-20 00:00:00 | stop: 2020-06-20 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2020-06-20 00:00:00 | stop: 2020-06-20 00:00:00
+ • description: Dental plain X-ray bitewing (procedure) | start: 2020-06-20 00:00:00 | stop: 2020-06-20 00:00:00
+ • description: Examination of gingivae (procedure) | start: 2020-06-20 00:00:00 | stop: 2020-06-20 00:00:00
+ • description: Dental fluoride treatment (procedure) | start: 2020-06-20 00:00:00 | stop: 2020-06-20 00:00:00
+ • description: Oral health education (procedure) | start: 2020-06-20 00:00:00 | stop: 2020-06-20 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2021-06-11 00:00:00 | stop: 2021-06-11 00:00:00
+ • description: Screening for domestic abuse (procedure) | start: 2021-06-11 00:00:00 | stop: 2021-06-12 00:00:00
+ • description: Depression screening (procedure) | start: 2021-06-12 00:00:00 | stop: 2021-06-12 00:00:00
+ • description: Depression screening (procedure) | start: 2021-06-12 00:00:00 | stop: 2021-06-12 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2021-06-12 00:00:00 | stop: 2021-06-12 00:00:00
+ • description: Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) | start: 2021-06-12 00:00:00 | stop: 2021-06-12 00:00:00
+ • description: Medication reconciliation (procedure) | start: 2022-06-17 00:00:00 | stop: 2022-06-17 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2022-06-17 00:00:00 | stop: 2022-06-17 00:00:00
+ • description: Depression screening (procedure) | start: 2022-06-17 00:00:00 | stop: 2022-06-18 00:00:00
+ • description: Depression screening (procedure) | start: 2022-06-18 00:00:00 | stop: 2022-06-18 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2022-06-18 00:00:00 | stop: 2022-06-18 00:00:00
+ • description: Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) | start: 2022-06-18 00:00:00 | stop: 2022-06-18 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2023-06-23 00:00:00 | stop: 2023-06-23 00:00:00
+ • description: Assessment of anxiety (procedure) | start: 2023-06-23 00:00:00 | stop: 2023-06-24 00:00:00
+ • description: Screening for domestic abuse (procedure) | start: 2023-06-24 00:00:00 | stop: 2023-06-24 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 2023-06-24 00:00:00 | stop: 2023-06-24 00:00:00
+ • description: Dental consultation and report (procedure) | start: 2023-07-07 00:00:00 | stop: 2023-07-07 00:00:00
+ • description: Dental care (regime/therapy) | start: 2023-07-07 00:00:00 | stop: 2023-07-08 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2023-07-08 00:00:00 | stop: 2023-07-08 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2023-07-08 00:00:00 | stop: 2023-07-08 00:00:00
+ • description: Examination of gingivae (procedure) | start: 2023-07-08 00:00:00 | stop: 2023-07-08 00:00:00
+ • description: Dental surgical procedure (procedure) | start: 2023-07-08 00:00:00 | stop: 2023-07-08 00:00:00
+ • description: Dental application of desensitizing medicament (procedure) | start: 2023-07-08 00:00:00 | stop: 2023-07-08 00:00:00
+ • description: Gingivectomy or gingivoplasty  per tooth (procedure) | start: 2023-07-08 00:00:00 | stop: 2023-07-08 00:00:00
+ • description: Postoperative care for dental procedure (regime/therapy) | start: 2023-07-08 00:00:00 | stop: 2023-07-08 00:00:00
+ • description: Oral health education (procedure) | start: 2023-07-08 00:00:00 | stop: 2023-07-08 00:00:00
+ • description: Medication reconciliation (procedure) | start: 2024-06-28 00:00:00 | stop: 2024-06-28 00:00:00
+ • description: Assessment of health and social care needs (procedure) | start: 2024-06-28 00:00:00 | stop: 2024-06-28 00:00:00
+ • description: Depression screening (procedure) | start: 2024-06-28 00:00:00 | stop: 2024-06-29 00:00:00
+ • description: Depression screening (procedure) | start: 2024-06-29 00:00:00 | stop: 2024-06-29 00:00:00
+ • description: Assessment of substance use (procedure) | start: 2024-06-29 00:00:00 | stop: 2024-06-29 00:00:00
+ • description: Screening for drug abuse (procedure) | start: 2024-06-29 00:00:00 | stop: 2024-06-29 00:00:00
+ • description: Patient referral for dental care (procedure) | start: 2024-06-29 00:00:00 | stop: 2024-06-29 00:00:00
+ • description: Dental consultation and report (procedure) | start: 2024-07-12 00:00:00 | stop: 2024-07-12 00:00:00
+ • description: Dental care (regime/therapy) | start: 2024-07-12 00:00:00 | stop: 2024-07-13 00:00:00
+ • description: Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2024-07-13 00:00:00 | stop: 2024-07-13 00:00:00
+ • description: Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) | start: 2024-07-13 00:00:00 | stop: 2024-07-13 00:00:00
+ • description: Dental plain X-ray bitewing (procedure) | start: 2024-07-13 00:00:00 | stop: 2024-07-13 00:00:00
+ • description: Examination of gingivae (procedure) | start: 2024-07-13 00:00:00 | stop: 2024-07-13 00:00:00
+ • description: Dental surgical procedure (procedure) | start: 2024-07-13 00:00:00 | stop: 2024-07-13 00:00:00
+ • description: Dental application of desensitizing medicament (procedure) | start: 2024-07-13 00:00:00 | stop: 2024-07-13 00:00:00
+ • description: Gingivectomy or gingivoplasty  per tooth (procedure) | start: 2024-07-13 00:00:00 | stop: 2024-07-13 00:00:00
+ • description: Postoperative care for dental procedure (regime/therapy) | start: 2024-07-13 00:00:00 | stop: 2024-07-13 00:00:00
+ • description: Oral health education (procedure) | start: 2024-07-13 00:00:00 | stop: 2024-07-13 00:00:00
+
+OBSERVATIONS
+----------------------------------------
+ • description: Body Height | value: 164.3 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 3.0 | units: {score}
+ • description: Body Weight | value: 75.5 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 28.0 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 77.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 132.0 | units: mm[Hg]
+ • description: Heart rate | value: 92.0 | units: /min
+ • description: Respiratory rate | value: 12.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: No | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: A little bit | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 5 or more times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 127119 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Part-time or temporary work | units: N/A
+ • description: Highest level of education | value: High school diploma or GED | units: N/A
+ • description: Address | value: 627 Howe Overpass | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 6.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Total score [HARK] | value: 0.0 | units: {score}
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 2.0 | units: {score}
+ • description: Total score [AUDIT-C] | value: 2.0 | units: {score}
+ • description: Body Height | value: 164.3 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 3.0 | units: {score}
+ • description: Body Weight | value: 75.5 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 28.0 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 81.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 136.0 | units: mm[Hg]
+ • description: Heart rate | value: 75.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: No | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: Not at all | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 5 or more times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 127119 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: High school diploma or GED | units: N/A
+ • description: Address | value: 627 Howe Overpass | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 6.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Body Height | value: 164.3 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 0.0 | units: {score}
+ • description: Body Weight | value: 75.5 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 28.0 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 77.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 136.0 | units: mm[Hg]
+ • description: Heart rate | value: 72.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Cholesterol [Mass/volume] in Serum or Plasma | value: 152.5 | units: mg/dL
+ • description: Triglycerides | value: 123.4 | units: mg/dL
+ • description: Low Density Lipoprotein Cholesterol | value: 71.1 | units: mg/dL
+ • description: Cholesterol in HDL [Mass/volume] in Serum or Plasma | value: 56.8 | units: mg/dL
+ • description: Leukocytes [#/volume] in Blood by Automated count | value: 6.2 | units: 10*3/uL
+ • description: Erythrocytes [#/volume] in Blood by Automated count | value: 4.0 | units: 10*6/uL
+ • description: Hemoglobin [Mass/volume] in Blood | value: 14.2 | units: g/dL
+ • description: Hematocrit [Volume Fraction] of Blood by Automated count | value: 40.2 | units: %
+ • description: MCV [Entitic volume] by Automated count | value: 83.0 | units: fL
+ • description: MCH [Entitic mass] by Automated count | value: 32.1 | units: pg
+ • description: MCHC [Mass/volume] by Automated count | value: 35.5 | units: g/dL
+ • description: Erythrocyte distribution width [Entitic volume] by Automated count | value: 43.6 | units: fL
+ • description: Platelets [#/volume] in Blood by Automated count | value: 316.4 | units: 10*3/uL
+ • description: Platelet distribution width [Entitic volume] in Blood by Automated count | value: 325.3 | units: fL
+ • description: Platelet mean volume [Entitic volume] in Blood by Automated count | value: 10.5 | units: fL
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: Somewhat | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 3 to 5 times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 127119 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: High school diploma or GED | units: N/A
+ • description: Address | value: 627 Howe Overpass | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 6.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] | value: 4.0 | units: {score}
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 1.0 | units: {score}
+ • description: Body Height | value: 164.3 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 4.0 | units: {score}
+ • description: Body Weight | value: 75.5 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 28.0 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 81.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 139.0 | units: mm[Hg]
+ • description: Heart rate | value: 75.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: Yes | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: Quite a bit | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 3 to 5 times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 127119 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver) | units: N/A
+ • description: Highest level of education | value: High school diploma or GED | units: N/A
+ • description: Address | value: 627 Howe Overpass | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 6.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] | value: 2.0 | units: {score}
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 0.0 | units: {score}
+ • description: Body temperature | value: 37.7 | units: Cel
+ • description: Body Height | value: 164.3 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 2.0 | units: {score}
+ • description: Body Weight | value: 75.5 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 28.0 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 74.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 134.0 | units: mm[Hg]
+ • description: Heart rate | value: 66.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: Very much | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 3 to 5 times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 127119 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: High school diploma or GED | units: N/A
+ • description: Address | value: 627 Howe Overpass | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 6.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 1.0 | units: {score}
+ • description: Total score [AUDIT-C] | value: 1.0 | units: {score}
+ • description: Body Height | value: 164.3 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 0.0 | units: {score}
+ • description: Body Weight | value: 75.5 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 28.0 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 80.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 137.0 | units: mm[Hg]
+ • description: Heart rate | value: 94.0 | units: /min
+ • description: Respiratory rate | value: 13.0 | units: /min
+ • description: Cholesterol [Mass/volume] in Serum or Plasma | value: 129.3 | units: mg/dL
+ • description: Triglycerides | value: 129.0 | units: mg/dL
+ • description: Low Density Lipoprotein Cholesterol | value: 53.8 | units: mg/dL
+ • description: Cholesterol in HDL [Mass/volume] in Serum or Plasma | value: 49.8 | units: mg/dL
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: Not at all | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 3 to 5 times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 127119 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: High school diploma or GED | units: N/A
+ • description: Address | value: 627 Howe Overpass | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 6.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] | value: 5.0 | units: {score}
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 2.0 | units: {score}
+ • description: Total score [DAST-10] | value: 2.0 | units: {score}
+ • description: Body Height | value: 164.3 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 2.0 | units: {score}
+ • description: Body Weight | value: 75.5 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 28.0 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 79.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 127.0 | units: mm[Hg]
+ • description: Heart rate | value: 85.0 | units: /min
+ • description: Respiratory rate | value: 15.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: A little bit | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 5 or more times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 127119 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: High school diploma or GED | units: N/A
+ • description: Address | value: 627 Howe Overpass | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 6.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Total score [HARK] | value: 0.0 | units: {score}
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 1.0 | units: {score}
+ • description: Total score [AUDIT-C] | value: 2.0 | units: {score}
+ • description: Body Height | value: 164.3 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 3.0 | units: {score}
+ • description: Body Weight | value: 75.5 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 28.0 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 81.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 139.0 | units: mm[Hg]
+ • description: Heart rate | value: 84.0 | units: /min
+ • description: Respiratory rate | value: 16.0 | units: /min
+ • description: Leukocytes [#/volume] in Blood by Automated count | value: 4.3 | units: 10*3/uL
+ • description: Erythrocytes [#/volume] in Blood by Automated count | value: 5.1 | units: 10*6/uL
+ • description: Hemoglobin [Mass/volume] in Blood | value: 14.1 | units: g/dL
+ • description: Hematocrit [Volume Fraction] of Blood by Automated count | value: 45.5 | units: %
+ • description: MCV [Entitic volume] by Automated count | value: 91.5 | units: fL
+ • description: MCH [Entitic mass] by Automated count | value: 32.5 | units: pg
+ • description: MCHC [Mass/volume] by Automated count | value: 34.5 | units: g/dL
+ • description: Erythrocyte distribution width [Entitic volume] by Automated count | value: 44.3 | units: fL
+ • description: Platelets [#/volume] in Blood by Automated count | value: 279.9 | units: 10*3/uL
+ • description: Platelet distribution width [Entitic volume] in Blood by Automated count | value: 209.6 | units: fL
+ • description: Platelet mean volume [Entitic volume] in Blood by Automated count | value: 11.2 | units: fL
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: Somewhat | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 5 or more times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 127119 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: High school diploma or GED | units: N/A
+ • description: Address | value: 627 Howe Overpass | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 6.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 1.0 | units: {score}
+ • description: Total score [AUDIT-C] | value: 1.0 | units: {score}
+ • description: Body temperature | value: 37.1 | units: Cel
+ • description: Body Height | value: 164.3 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 1.0 | units: {score}
+ • description: Body Weight | value: 75.5 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 28.0 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 76.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 133.0 | units: mm[Hg]
+ • description: Heart rate | value: 91.0 | units: /min
+ • description: Respiratory rate | value: 14.0 | units: /min
+ • description: Cholesterol [Mass/volume] in Serum or Plasma | value: 212.5 | units: mg/dL
+ • description: Triglycerides | value: 108.1 | units: mg/dL
+ • description: Low Density Lipoprotein Cholesterol | value: 136.1 | units: mg/dL
+ • description: Cholesterol in HDL [Mass/volume] in Serum or Plasma | value: 54.8 | units: mg/dL
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: Not at all | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 3 to 5 times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: Medicine or Any Health Care (Medical  Dental  Mental Health  Vision) | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 127119 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: High school diploma or GED | units: N/A
+ • description: Address | value: 627 Howe Overpass | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 6.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] | value: 4.0 | units: {score}
+ • description: Total score [HARK] | value: 0.0 | units: {score}
+ • description: Body Height | value: 164.3 | units: cm
+ • description: Pain severity - 0-10 verbal numeric rating [Score] - Reported | value: 2.0 | units: {score}
+ • description: Body Weight | value: 75.5 | units: kg
+ • description: Body mass index (BMI) [Ratio] | value: 28.0 | units: kg/m2
+ • description: Diastolic Blood Pressure | value: 80.0 | units: mm[Hg]
+ • description: Systolic Blood Pressure | value: 138.0 | units: mm[Hg]
+ • description: Heart rate | value: 83.0 | units: /min
+ • description: Respiratory rate | value: 12.0 | units: /min
+ • description: Tobacco smoking status | value: Never smoked tobacco (finding) | units: N/A
+ • description: Within the last year  have you been afraid of your partner or ex-partner? | value: No | units: N/A
+ • description: Do you feel physically and emotionally safe where you currently live? | value: Yes | units: N/A
+ • description: Are you a refugee? | value: No | units: N/A
+ • description: In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? | value: No | units: N/A
+ • description: Stress level | value: Somewhat | units: N/A
+ • description: How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? | value: 3 to 5 times a week | units: N/A
+ • description: Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living | value: No | units: N/A
+ • description: In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? | value: I choose not to answer this question | units: N/A
+ • description: What was your best estimate of the total income of all family members from all sources  before taxes  in last year? | value: 127119 | units: /a
+ • description: Primary insurance | value: Private insurance | units: N/A
+ • description: Employment status - current | value: Full-time work | units: N/A
+ • description: Highest level of education | value: High school diploma or GED | units: N/A
+ • description: Address | value: 627 Howe Overpass | units: N/A
+ • description: Are you worried about losing your housing? | value: No | units: N/A
+ • description: Housing status | value: I have housing | units: N/A
+ • description: How many people are living or staying at this address? | value: 6.0 | units: {#}
+ • description: Preferred language | value: English | units: N/A
+ • description: Have you been discharged from the armed forces of the United States? | value: No | units: N/A
+ • description: At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? | value: No | units: N/A
+ • description: Race | value: White | units: N/A
+ • description: Do you consider yourself Hispanic/Latino? | value: No | units: N/A
+ • description: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] | value: 2.0 | units: {score}
+ • description: Total score [DAST-10] | value: 0.0 | units: {score}
+ • description: QALY | value: 39.0 | units: a
+ • description: QALY | value: 40.0 | units: a
+ • description: QALY | value: 41.0 | units: a
+ • description: QALY | value: 42.0 | units: a
+ • description: QALY | value: 43.0 | units: a
+ • description: QALY | value: 44.0 | units: a
+ • description: QALY | value: 45.0 | units: a
+ • description: QALY | value: 46.0 | units: a
+ • description: QALY | value: 47.0 | units: a
+ • description: QALY | value: 48.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: DALY | value: 0.0 | units: a
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+ • description: QOLS | value: 1.0 | units: {score}
+
+ALLERGIES
+----------------------------------------
+ • description: Allergy to substance (finding) | reaction1: N/A | severity1: N/A
+ • description: Aspirin | reaction1: 402387002 | severity1: MODERATE
+
+IMMUNIZATIONS
+----------------------------------------
+ • description: Influenza  seasonal  injectable  preservative free | date: 2015-05-08 00:00:00
+ • description: Hep A  adult | date: 2015-05-08 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2016-05-13 00:00:00
+ • description: Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed | date: 2016-05-13 00:00:00
+ • description: Hep A  adult | date: 2016-05-13 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2017-05-19 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2018-05-25 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2019-05-31 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2020-06-05 00:00:00
+ • description: COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose | date: 2021-05-28 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2021-06-11 00:00:00
+ • description: COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose | date: 2021-06-18 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2022-06-17 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2023-06-23 00:00:00
+ • description: Influenza  seasonal  injectable  preservative free | date: 2024-06-28 00:00:00
+
+DEVICES
+----------------------------------------
+ • description: Dental x-ray system (physical object) | start: 2015-05-23 00:00:00 | stop: 2015-05-23 00:00:00
+ • description: Operating room (environment) | start: 2015-05-23 00:00:00 | stop: N/A
+ • description: Dental x-ray system (physical object) | start: 2020-06-20 00:00:00 | stop: 2020-06-20 00:00:00
+ • description: Operating room (environment) | start: 2023-07-08 00:00:00 | stop: N/A
+ • description: Dental x-ray system (physical object) | start: 2024-07-13 00:00:00 | stop: 2024-07-13 00:00:00
+ • description: Operating room (environment) | start: 2024-07-13 00:00:00 | stop: N/A
+
+CAREPLANS
+----------------------------------------
+ • description: Self-care interventions (procedure) | start: 1994-06-19 00:00:00 | stop: N/A
+ • description: Lifestyle education regarding hypertension (procedure) | start: 2000-02-11 00:00:00 | stop: N/A
+
+IMAGING
+----------------------------------------
+ • bodysitedescription: Structure of region of internal part of mouth (body structure) | modalitydescription: Digital Radiography | date: 2015-05-23 00:00:00
+ • bodysitedescription: Structure of region of internal part of mouth (body structure) | modalitydescription: Digital Radiography | date: 2020-06-20 00:00:00
+ • bodysitedescription: Structure of region of internal part of mouth (body structure) | modalitydescription: Digital Radiography | date: 2024-07-13 00:00:00
+
+SUPPLIES
+----------------------------------------
+ • description: Dental equipment (physical object) | quantity: 1 | date: 2015-05-23 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 2015-05-23 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 2015-05-23 00:00:00
+ • description: Dental equipment (physical object) | quantity: 1 | date: 2020-06-20 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 2020-06-20 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 2020-06-20 00:00:00
+ • description: Dental equipment (physical object) | quantity: 1 | date: 2023-07-08 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 2023-07-08 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 2023-07-08 00:00:00
+ • description: Dental equipment (physical object) | quantity: 1 | date: 2024-07-13 00:00:00
+ • description: Conventional release periodontal gel (dose form) | quantity: 1 | date: 2024-07-13 00:00:00
+ • description: Dental floss (physical object) | quantity: 1 | date: 2024-07-13 00:00:00
