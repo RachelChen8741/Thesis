@@ -30,7 +30,7 @@ def create_summary_table(conn):
     try:
         cur = conn.cursor()
         cur.execute("""
-            CREATE TABLE IF NOT EXISTS gpt_summaries (
+            CREATE TABLE IF NOT EXISTS claude_summaries (
                 patient_id TEXT PRIMARY KEY,
                 summary TEXT,
                 flesch_kincaid_grade FLOAT,

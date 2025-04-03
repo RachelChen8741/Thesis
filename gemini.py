@@ -50,7 +50,7 @@ model = genai.GenerativeModel('gemini-2.0-flash')
 
 def summarize_with_gemini(data):
     prompt = f"""
-    Summarize and explain this patient's health record to them in simple language to help them better understand their own health as if they were an eighth grader. Avoid using abbreviations if possible. There is no need to include non-relevant medical information such as their age, birthday, or sex.:
+    Summarize and explain this patient's health record to them in simple language to help them better understand their own health as if they were an sixth grader. Avoid using abbreviations if possible. There is no need to include non-relevant medical information such as their age, birthday, or sex.:
       
        {data}
       
@@ -74,7 +74,7 @@ def compute_readability(text):
         }
     except Exception as e:
         print("Readability error:", e)
-        return {"flesch_kincaid_grade": None, "flesch_kincaid_score": None, "flesch_reading_ease": None, "smog_score": None, "smog_grade": None}
+        return { "flesch_kincaid_grade": r.flesch_kincaid().grade_level, "flesch_kincaid_score": r.flesch().score, "flesch_reading_ease": r.flesch().ease, "smog_score": None, "smog_grade": None }
     
 def save_summary_to_db(conn, patient_id, summary, readability_scores):
     try:

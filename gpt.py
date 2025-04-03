@@ -45,6 +45,17 @@ def create_summary_table(conn):
 def load_text_report(file_path):
     with open(file_path, 'r') as f:
         return f.read()
+    
+def order_by_size(conn):
+    try:
+        cur = conn.cursor()
+        cur.execute("SELECT *, pg_column_size(r.*) AS row_size FROM records r ORDER BY row_size ASC;")
+        patient_ids = [row[0] for row in cur.fetchall()]
+        return patient_ids
+    except psycopg2.Error as e:
+        print("Error fetching patient IDs:", e)
+        return []
+
 
 def fetch_patient_health_record(conn, patient_id):
     """Fetch health records for a specific patient from the database."""
@@ -93,7 +104,7 @@ def compute_readability(text):
         }
     except Exception as e:
         print("Readability error:", e)
-        return {"flesch_kincaid_grade": None, "flesch_kincaid_score": None, "flesch_reading_ease": None, "smog_score": None, "smog_grade": None}
+        return { "flesch_kincaid_grade": r.flesch_kincaid().grade_level, "flesch_kincaid_score": r.flesch().score, "flesch_reading_ease": r.flesch().ease, "smog_score": None, "smog_grade": None }
     
 def save_summary_to_db(conn, patient_id, summary, readability_scores):
     try:
@@ -122,15 +133,17 @@ def process_all_patients():
         return
 
     create_summary_table(conn)  
+    
+    patient_ids = order_by_size(conn)
 
-    report_files = glob.glob("patient_reports/patient_*.txt")  
-
-    for file_path in report_files:
-        patient_id = os.path.basename(file_path).split("_")[1].split(".")[0]  
-        
+    for patient_id in patient_ids:
         print(f"Processing Patient {patient_id}...")
 
-        text_data = load_text_report(file_path)
+        text_data = fetch_patient_health_record(conn, patient_id)
+        if not text_data:
+            print(f"Skipping Patient {patient_id} due to missing data.")
+            continue
+
         summary = summarize_with_gpt(text_data)
         readability_scores = compute_readability(summary)
 

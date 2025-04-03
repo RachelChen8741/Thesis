@@ -1,10 +1,16 @@
-import google.generativeai as genai
+from openai import OpenAI
 import os
-import getpass
 import psycopg2
+import getpass
 from readability import Readability
 import glob
-import requests
+from openai import OpenAI, APIError
+
+if "DEEPSEEK_API_KEY" not in os.environ:
+            os.environ["DEEPSEEK_API_KEY"] = getpass.getpass("Enter your DEEPSEEK API key: ")
+
+DEEPSEEK_API_KEY = os.environ["DEEPSEEK_API_KEY"]
+client = OpenAI(api_key=DEEPSEEK_API_KEY, base_url="https://api.deepseek.com")
 
 def get_db_connection():
     try:
@@ -19,13 +25,12 @@ def get_db_connection():
     except psycopg2.Error as e:
         print("Database connection error:", e)
         return None
-
-
+    
 def create_summary_table(conn):
     try:
         cur = conn.cursor()
         cur.execute("""
-            CREATE TABLE IF NOT EXISTS minimax_summaries (
+            CREATE TABLE IF NOT EXISTS deepseek_summaries (
                 patient_id TEXT PRIMARY KEY,
                 summary TEXT,
                 flesch_kincaid_grade FLOAT,
@@ -42,53 +47,58 @@ def create_summary_table(conn):
 def load_text_report(file_path):
     with open(file_path, 'r') as f:
         return f.read()
-
-if "MINIMAX_API_KEY" not in os.environ:
-    os.environ["MINIMAX_API_KEY"] = getpass.getpass("Enter your Minimax AI API key: ")
-
-MINIMAX_API_KEY = os.environ["MINIMAX_API_KEY"]
-MINIMAX_API_URL = "https://api.minimaxi.chat/v1/text/chatcompletion_v2"
-
-
-def summarize_with_minimax(data):
-    headers = {
-        "Authorization": f"Bearer {MINIMAX_API_KEY}",
-        "Content-Type": "application/json"
-    }
     
+def order_by_size(conn):
+    try:
+        cur = conn.cursor()
+        cur.execute("SELECT *, pg_column_size(r.*) AS row_size FROM records r ORDER BY row_size ASC;")
+        patient_ids = [row[0] for row in cur.fetchall()]
+        return patient_ids
+    except psycopg2.Error as e:
+        print("Error fetching patient IDs:", e)
+        return []
+
+def fetch_patient_health_record(conn, patient_id):
+    """Fetch health records for a specific patient from the database."""
+    try:
+        cur = conn.cursor()
+        cur.execute("SELECT records FROM records WHERE patient_id = %s;", (patient_id,))
+        record = cur.fetchone()
+        if record:
+            return record[0]
+        else:
+            print("No health record found for this patient.")
+            return None
+    except psycopg2.Error as e:
+        print("Error fetching patient record:", e)
+        return None
+
+def summarize_with_deepseek(data):
     prompt = f"""
-    Summarize and explain this patient's health record to them in simple language to help them better understand their own health as if they were a sixth grader. Avoid using abbreviations if possible. There is no need to include non-relevant medical information such as their age, birthday, or sex.
-    
-    {data}
-    
+    Summarize and explain this patient's health record to them in simple language to help them better understand their own health as if they were an sixth grader. 
+    Avoid using abbreviations if possible. There is no need to include non-relevant medical information such as their age, birthday, or sex.
+
     Provide an explanation that includes:
     - Their medical conditions.
     - Their current medications and what they do.
     - Any notable observations (e.g., lab results, vitals) and what it means.
-    """
-    
-    payload = {
-        "model": "MiniMax-Text-01",
-        "messages": [{"role": "user", "content": prompt}],
-        "temperature": 0.1
-    }
-    
-    response = requests.post(MINIMAX_API_URL, headers=headers, json=payload)
-    
-    try:
-        response_json = response.json()
-        # print(f"API Response: {response.status_code} - {response_json}")
-        
-        if "choices" in response_json and response_json["choices"]:
-            return response_json["choices"][0].get("message", {}).get("content", "")
-        else:
-            print("Unexpected API response structure:", response_json)
-            return "Error: Unexpected API response format."
-    
-    except requests.exceptions.JSONDecodeError:
-        print("Failed to parse JSON response:", response.text)
-        return "Error: API returned non-JSON response."
 
+    Here is the patient's health record:
+    {data}
+    """
+    try:
+        response = client.chat.completions.create(
+            model="deepseek-chat",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.3,
+        )
+        return response.choices[0].message.content.strip()
+    except APIError as e:
+        if "maximum context length" in str(e) or "tokens exceeded" in str(e):
+            print("Error: The input is too long for Deepseek. Try using a different model.")
+        else:
+            print(f"Unexpected API error: {e}")
+        return None
 
 def compute_readability(text):
     r = Readability(text)
@@ -108,7 +118,7 @@ def save_summary_to_db(conn, patient_id, summary, readability_scores):
     try:
         cur = conn.cursor()
         cur.execute("""
-            INSERT INTO minimax_summaries (patient_id, summary, flesch_kincaid_grade, flesch_kincaid_score, flesch_reading_ease, smog_score, smog_grade)
+            INSERT INTO deepseek_summaries (patient_id, summary, flesch_kincaid_grade, flesch_kincaid_score, flesch_reading_ease, smog_score, smog_grade)
             VALUES (%s, %s, %s, %s, %s, %s, %s)
             ON CONFLICT (patient_id) DO UPDATE 
             SET summary = EXCLUDED.summary,
@@ -131,16 +141,18 @@ def process_all_patients():
         return
 
     create_summary_table(conn)  
+    
+    patient_ids = order_by_size(conn)
 
-    report_files = glob.glob("patient_reports/patient_*.txt")  
-
-    for file_path in report_files:
-        patient_id = os.path.basename(file_path).split("_")[1].split(".")[0]  # Extract patient ID from filename
-        
+    for patient_id in patient_ids:
         print(f"Processing Patient {patient_id}...")
 
-        text_data = load_text_report(file_path)
-        summary = summarize_with_minimax(text_data)
+        text_data = fetch_patient_health_record(conn, patient_id)
+        if not text_data:
+            print(f"Skipping Patient {patient_id} due to missing data.")
+            continue
+
+        summary = summarize_with_deepseek(text_data)
         readability_scores = compute_readability(summary)
 
         save_summary_to_db(conn, patient_id, summary, readability_scores)
@@ -150,6 +162,5 @@ def process_all_patients():
     conn.close()
     print("\nAll patients processed successfully!")
 
-# Run the script
 if __name__ == "__main__":
     process_all_patients()
