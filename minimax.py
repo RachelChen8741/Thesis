@@ -4,6 +4,7 @@ import getpass
 import psycopg2
 from readability import Readability
 import glob
+import requests
 
 def get_db_connection():
     try:
@@ -24,7 +25,7 @@ def create_summary_table(conn):
     try:
         cur = conn.cursor()
         cur.execute("""
-            CREATE TABLE IF NOT EXISTS summaries (
+            CREATE TABLE IF NOT EXISTS minimax_summaries (
                 patient_id TEXT PRIMARY KEY,
                 summary TEXT,
                 flesch_kincaid_grade FLOAT,
@@ -42,25 +43,52 @@ def load_text_report(file_path):
     with open(file_path, 'r') as f:
         return f.read()
 
-if "GEMINI_API_KEY" not in os.environ:
-    os.environ["GEMINI_API_KEY"] = getpass.getpass("Enter your Google AI API key: ")
-genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-model = genai.GenerativeModel('gemini-2.0-flash')
+if "MINIMAX_API_KEY" not in os.environ:
+    os.environ["MINIMAX_API_KEY"] = getpass.getpass("Enter your Minimax AI API key: ")
+
+MINIMAX_API_KEY = os.environ["MINIMAX_API_KEY"]
+MINIMAX_API_URL = "https://api.minimaxi.chat/v1/text/chatcompletion_v2"
 
 
-def summarize_with_gemini(data):
+def summarize_with_minimax(data):
+    headers = {
+        "Authorization": f"Bearer {MINIMAX_API_KEY}",
+        "Content-Type": "application/json"
+    }
+    
     prompt = f"""
-    Summarize and explain this patient's health record to them in simple language to help them better understand their own health as if they were an eighth grader. Avoid using abbreviations if possible. There is no need to include non-relevant medical information such as their age, birthday, or sex.:
-      
-       {data}
-      
-       Provide an explanation that includes:
-       - Their medical conditions.
-       - Their current medications and what they do.
-       - Any notable observations (e.g., lab results, vitals) and what it means.
+    Summarize and explain this patient's health record to them in simple language to help them better understand their own health as if they were a sixth grader. Avoid using abbreviations if possible. There is no need to include non-relevant medical information such as their age, birthday, or sex.
+    
+    {data}
+    
+    Provide an explanation that includes:
+    - Their medical conditions.
+    - Their current medications and what they do.
+    - Any notable observations (e.g., lab results, vitals) and what it means.
     """
-    response = model.generate_content(prompt)
-    return response.text
+    
+    payload = {
+        "model": "MiniMax-Text-01",
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": 0.1
+    }
+    
+    response = requests.post(MINIMAX_API_URL, headers=headers, json=payload)
+    
+    try:
+        response_json = response.json()
+        # print(f"API Response: {response.status_code} - {response_json}")
+        
+        if "choices" in response_json and response_json["choices"]:
+            return response_json["choices"][0].get("message", {}).get("content", "")
+        else:
+            print("Unexpected API response structure:", response_json)
+            return "Error: Unexpected API response format."
+    
+    except requests.exceptions.JSONDecodeError:
+        print("Failed to parse JSON response:", response.text)
+        return "Error: API returned non-JSON response."
+
 
 def compute_readability(text):
     r = Readability(text)
@@ -80,7 +108,7 @@ def save_summary_to_db(conn, patient_id, summary, readability_scores):
     try:
         cur = conn.cursor()
         cur.execute("""
-            INSERT INTO summaries (patient_id, summary, flesch_kincaid_grade, flesch_kincaid_score, flesch_reading_ease, smog_score, smog_grade)
+            INSERT INTO minimax_summaries (patient_id, summary, flesch_kincaid_grade, flesch_kincaid_score, flesch_reading_ease, smog_score, smog_grade)
             VALUES (%s, %s, %s, %s, %s, %s, %s)
             ON CONFLICT (patient_id) DO UPDATE 
             SET summary = EXCLUDED.summary,
@@ -112,7 +140,7 @@ def process_all_patients():
         print(f"Processing Patient {patient_id}...")
 
         text_data = load_text_report(file_path)
-        summary = summarize_with_gemini(text_data)
+        summary = summarize_with_minimax(text_data)
         readability_scores = compute_readability(summary)
 
         save_summary_to_db(conn, patient_id, summary, readability_scores)

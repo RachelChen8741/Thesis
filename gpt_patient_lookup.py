@@ -1,9 +1,8 @@
 from openai import OpenAI
 import os
+from readability import Readability
 import psycopg2
 import getpass
-from readability import Readability
-import glob
 
 if "OPENAI_API_KEY" not in os.environ:
     os.environ["OPENAI_API_KEY"] = getpass.getpass("Enter your OPEN AI API key: ")
@@ -82,8 +81,8 @@ def summarize_with_gpt(data):
     return response.choices[0].message.content.strip()
 
 def compute_readability(text):
-    r = Readability(text)
     try:
+        r = Readability(text)
         return {
             "flesch_kincaid_grade": r.flesch_kincaid().grade_level,
             "flesch_kincaid_score": r.flesch().score,
@@ -92,54 +91,36 @@ def compute_readability(text):
             "smog_grade": r.smog().grade_level
         }
     except Exception as e:
-        print("Readability error:", e)
-        return {"flesch_kincaid_grade": None, "flesch_kincaid_score": None, "flesch_reading_ease": None, "smog_score": None, "smog_grade": None}
-    
-def save_summary_to_db(conn, patient_id, summary, readability_scores):
-    try:
-        cur = conn.cursor()
-        cur.execute("""
-            INSERT INTO gpt_summaries (patient_id, summary, flesch_kincaid_grade, flesch_kincaid_score, flesch_reading_ease, smog_score, smog_grade)
-            VALUES (%s, %s, %s, %s, %s, %s, %s)
-            ON CONFLICT (patient_id) DO UPDATE 
-            SET summary = EXCLUDED.summary,
-                flesch_kincaid_grade = EXCLUDED.flesch_kincaid_grade,
-                flesch_kincaid_score = EXCLUDED.flesch_kincaid_score,
-                flesch_reading_ease = EXCLUDED.flesch_reading_ease,
-                smog_score = EXCLUDED.smog_score,
-                smog_grade = EXCLUDED.smog_grade;
-        """, (patient_id, summary, readability_scores["flesch_kincaid_grade"], readability_scores["flesch_kincaid_score"],
-              readability_scores["flesch_reading_ease"], readability_scores["smog_score"], 
-              readability_scores["smog_grade"]))
-        conn.commit()
-    except psycopg2.Error as e:
-        print(f"Database error for patient {patient_id}:", e)
+        print(f"Readability error: {e}")
+        return { "flesch_kincaid_grade": None, "flesch_kincaid_score": None, "flesch_reading_ease": None, "smog_score": None, "smog_grade": None }
 
-def process_all_patients():
-    conn = get_db_connection()
-    if not conn:
-        print("Failed to connect to database.")
+def process_patient(patient_id):
+    file_path = f"patient_reports/patient_{patient_id}.txt"
+    
+    print(f"Processing Patient {patient_id}...")
+
+    text_data = load_text_report(file_path)
+    if not text_data:
+        print(f"No data found for Patient {patient_id}. Skipping.")
         return
 
-    create_summary_table(conn)  
+    summary = summarize_with_gpt(text_data)
+    readability_scores = compute_readability(summary)
 
-    report_files = glob.glob("patient_reports/patient_*.txt")  
+    print(f"**Readability Scores:**\n{readability_scores}")
 
-    for file_path in report_files:
-        patient_id = os.path.basename(file_path).split("_")[1].split(".")[0]  
-        
-        print(f"Processing Patient {patient_id}...")
-
-        text_data = load_text_report(file_path)
-        summary = summarize_with_gpt(text_data)
-        readability_scores = compute_readability(summary)
-
-        save_summary_to_db(conn, patient_id, summary, readability_scores)
-
-        print(f"Summary saved for Patient {patient_id}\n")
-
-    conn.close()
-    print("\nAll patients processed successfully!")
+    print(f"Patient {patient_id} processed successfully!")
 
 if __name__ == "__main__":
-    process_all_patients()
+    conn = get_db_connection()
+    if conn:
+        patient_id = input("Enter the patient ID: ").strip()
+        health_record = fetch_patient_health_record(conn, patient_id)
+
+        if health_record:
+            print("\nGenerating summary...\n")
+            summary = summarize_with_gpt(health_record)
+            print("\nPatient Summary:\n")
+            print(summary)
+        
+        conn.close()
