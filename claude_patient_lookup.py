@@ -8,6 +8,8 @@ import nltk
 if "CLAUDE_API_KEY" not in os.environ:
     os.environ["CLAUDE_API_KEY"] = getpass.getpass("Enter your CLAUDE API key: ")
 
+CLAUDE_API_KEY = os.environ["CLAUDE_API_KEY"]
+
 def get_db_connection():
     try:
         conn = psycopg2.connect(
@@ -22,7 +24,7 @@ def get_db_connection():
         print("Database connection error:", e)
         return None
 
-client = anthropic.Anthropic(api_key="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")
+client = anthropic.Anthropic(api_key=CLAUDE_API_KEY)
     
 def create_summary_table(conn):
     try:
