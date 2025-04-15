@@ -24,14 +24,16 @@ def create_summary_table(conn):
     try:
         cur = conn.cursor()
         cur.execute("""
-            CREATE TABLE IF NOT EXISTS summaries (
+            CREATE TABLE IF NOT EXISTS gemini_summaries_temp (
                 patient_id TEXT PRIMARY KEY,
                 summary TEXT,
                 flesch_kincaid_grade FLOAT,
                 flesch_kincaid_score FlOAT,
                 flesch_reading_ease TEXT,
                 smog_score FLOAT,
-                smog_grade FLOAT
+                smog_grade FLOAT,
+                gunning_fog_score FLOAT,
+                gunning_fog_grade FLOAT
             );
         """)
         conn.commit()
@@ -50,7 +52,7 @@ model = genai.GenerativeModel('gemini-2.0-flash')
 
 def summarize_with_gemini(data):
     prompt = f"""
-    Summarize and explain this patient's health record to them in simple language to help them better understand their own health as if they were an sixth grader. Avoid using abbreviations if possible. There is no need to include non-relevant medical information such as their age, birthday, or sex.:
+    Summarize and explain this patient's health record to them to help them better understand their own health as if they were an sixth grader. Avoid using abbreviations if possible. There is no need to include non-relevant medical information such as their age, birthday, or sex.:
       
        {data}
       
@@ -59,7 +61,7 @@ def summarize_with_gemini(data):
        - Their current medications and what they do.
        - Any notable observations (e.g., lab results, vitals) and what it means.
     """
-    response = model.generate_content(prompt)
+    response = model.generate_content(prompt, generation_config={"temperature": 0.1})
     return response.text
 
 def compute_readability(text):
@@ -70,28 +72,48 @@ def compute_readability(text):
             "flesch_kincaid_score": r.flesch().score,
             "flesch_reading_ease": r.flesch().ease,
             "smog_score": r.smog().score,
-            "smog_grade": r.smog().grade_level
+            "smog_grade": r.smog().grade_level,
+            "gunning_fog_score": r.gunning_fog().score,
+            "gunning_fog_grade": r.gunning_fog().grade_level
         }
     except Exception as e:
         print("Readability error:", e)
-        return { "flesch_kincaid_grade": r.flesch_kincaid().grade_level, "flesch_kincaid_score": r.flesch().score, "flesch_reading_ease": r.flesch().ease, "smog_score": None, "smog_grade": None }
+        return { "flesch_kincaid_grade": r.flesch_kincaid().grade_level, "flesch_kincaid_score": r.flesch().score, "flesch_reading_ease": r.flesch().ease, "smog_score": None, "smog_grade": None, "gunning_fog_score": r.gunning_fog().score, "gunning_fog_grade": r.gunning_fog().grade_level}
     
 def save_summary_to_db(conn, patient_id, summary, readability_scores):
     try:
+        def safe_float(val):
+            try:
+                return float(val)
+            except (ValueError, TypeError):
+                return None
         cur = conn.cursor()
         cur.execute("""
-            INSERT INTO summaries (patient_id, summary, flesch_kincaid_grade, flesch_kincaid_score, flesch_reading_ease, smog_score, smog_grade)
-            VALUES (%s, %s, %s, %s, %s, %s, %s)
-            ON CONFLICT (patient_id) DO UPDATE 
+            INSERT INTO gemini_summaries_temp (
+                patient_id, summary, flesch_kincaid_grade, 
+                flesch_kincaid_score, flesch_reading_ease, 
+                smog_score, smog_grade, gunning_fog_score, gunning_fog_grade
+            )
+            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
+            ON CONFLICT (patient_id) DO UPDATE
             SET summary = EXCLUDED.summary,
                 flesch_kincaid_grade = EXCLUDED.flesch_kincaid_grade,
                 flesch_kincaid_score = EXCLUDED.flesch_kincaid_score,
                 flesch_reading_ease = EXCLUDED.flesch_reading_ease,
                 smog_score = EXCLUDED.smog_score,
-                smog_grade = EXCLUDED.smog_grade;
-        """, (patient_id, summary, readability_scores["flesch_kincaid_grade"], readability_scores["flesch_kincaid_score"],
-              readability_scores["flesch_reading_ease"], readability_scores["smog_score"], 
-              readability_scores["smog_grade"]))
+                smog_grade = EXCLUDED.smog_grade,
+                gunning_fog_score = EXCLUDED.gunning_fog_score,
+                gunning_fog_grade = EXCLUDED.gunning_fog_grade;
+        """, (
+            patient_id, summary,
+            safe_float(readability_scores["flesch_kincaid_grade"]),
+            safe_float(readability_scores["flesch_kincaid_score"]),
+            readability_scores["flesch_reading_ease"],
+            safe_float(readability_scores["smog_score"]),
+            safe_float(readability_scores["smog_grade"]),
+            safe_float(readability_scores["gunning_fog_score"]),
+            safe_float(readability_scores["gunning_fog_grade"])
+        ))
         conn.commit()
     except psycopg2.Error as e:
         print(f"Database error for patient {patient_id}:", e)

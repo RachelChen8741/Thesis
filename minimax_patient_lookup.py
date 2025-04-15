@@ -33,7 +33,7 @@ def summarize_with_minimax(data):
     payload = {
         "model": "MiniMax-Text-01",
         "messages": [{"role": "user", "content": prompt}],
-        "temperature": 0.1
+        "temperature": 0.3
     }
     
     response = requests.post(MINIMAX_API_URL, headers=headers, json=payload)

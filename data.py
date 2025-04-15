@@ -10,7 +10,7 @@ load_dotenv()
 def get_db_connection():
     try:
         conn = psycopg2.connect(
-            dbname="data",
+            dbname="1k_data",
             user="postgres",
             password="NeonWaterfallz8741",
             host="127.0.0.1",
@@ -67,15 +67,15 @@ def generate_text_report(conn, patient_id):
         tables = {
             "Encounters": ["start", "stop", "description"],
             "Conditions": ["description"],
-            "Medications": ["description", "start", "stop"],
+            "Medications": ["description", "start", "stop", "reasondescription"],
             "Procedures": ["description", "start", "stop"],
             "Observations": ["description", "value", "units"],
-            "Allergies": ["description", "reaction1", "severity1"],
+            "Allergies": ["description", "reaction1", "description1", "severity1", "reaction2", "description2", "severity2"],
             "Immunizations": ["description", "date"],
             "Devices": ["description", "start", "stop"],
-            "Careplans": ["description", "start", "stop"],
-            "Imaging": ["bodysitedescription", "modalitydescription", "date"],
-            "Supplies": ["description", "quantity", "date"]
+            "Careplans": ["description", "start", "stop", "reasondescription"],
+            "Imaging": ["bodysitedescription", "modalitydescription", "date", "sopdescription"],
+            "Supplies": ["description", "quantity", "date"],
         }
 
         report = []

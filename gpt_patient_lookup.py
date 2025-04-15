@@ -76,7 +76,7 @@ def summarize_with_gpt(data):
     response = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[{"role": "user", "content": prompt}],
-        temperature=0.3,
+        temperature=0.0,
     )
     return response.choices[0].message.content.strip()
 

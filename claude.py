@@ -38,7 +38,9 @@ def create_summary_table(conn):
                 flesch_kincaid_score FlOAT,
                 flesch_reading_ease TEXT,
                 smog_score FLOAT,
-                smog_grade FLOAT
+                smog_grade FLOAT,
+                gunning_fog_score FLOAT,
+                gunning_fog_grade FLOAT
             );
         """)
         conn.commit()
@@ -90,7 +92,7 @@ def summarize_with_claude(data):
     response = client.messages.create(
             model="claude-3-7-sonnet-20250219",
             messages=[{"role": "user", "content": prompt}],
-            temperature=0.3,
+            temperature=0.1,
             max_tokens=64000, 
             stream=True  
     )
@@ -103,35 +105,55 @@ def summarize_with_claude(data):
 
 
 def compute_readability(text):
+    r = Readability(text)
     try:
-        r = Readability(text)
         return {
             "flesch_kincaid_grade": r.flesch_kincaid().grade_level,
             "flesch_kincaid_score": r.flesch().score,
             "flesch_reading_ease": r.flesch().ease,
             "smog_score": r.smog().score,
-            "smog_grade": r.smog().grade_level
+            "smog_grade": r.smog().grade_level,
+            "gunning_fog_score": r.gunning_fog().score,
+            "gunning_fog_grade": r.gunning_fog().grade_level
         }
     except Exception as e:
-        print(f"Readability error: {e}")
-        return { "flesch_kincaid_grade": r.flesch_kincaid().grade_level, "flesch_kincaid_score": r.flesch().score, "flesch_reading_ease": r.flesch().ease, "smog_score": None, "smog_grade": None }
+        print("Readability error:", e)
+        return { "flesch_kincaid_grade": r.flesch_kincaid().grade_level, "flesch_kincaid_score": r.flesch().score, "flesch_reading_ease": r.flesch().ease, "smog_score": None, "smog_grade": None, "gunning_fog_score": r.gunning_fog().score, "gunning_fog_grade": r.gunning_fog().grade_level}
 
 def save_summary_to_db(conn, patient_id, summary, readability_scores):
     try:
+        def safe_float(val):
+            try:
+                return float(val)
+            except (ValueError, TypeError):
+                return None
         cur = conn.cursor()
         cur.execute("""
-            INSERT INTO claude_summaries (patient_id, summary, flesch_kincaid_grade, flesch_kincaid_score, flesch_reading_ease, smog_score, smog_grade)
-            VALUES (%s, %s, %s, %s, %s, %s, %s)
-            ON CONFLICT (patient_id) DO UPDATE 
+            INSERT INTO claude_summaries (
+                patient_id, summary, flesch_kincaid_grade, 
+                flesch_kincaid_score, flesch_reading_ease, 
+                smog_score, smog_grade, gunning_fog_score, gunning_fog_grade
+            )
+            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
+            ON CONFLICT (patient_id) DO UPDATE
             SET summary = EXCLUDED.summary,
                 flesch_kincaid_grade = EXCLUDED.flesch_kincaid_grade,
                 flesch_kincaid_score = EXCLUDED.flesch_kincaid_score,
                 flesch_reading_ease = EXCLUDED.flesch_reading_ease,
                 smog_score = EXCLUDED.smog_score,
-                smog_grade = EXCLUDED.smog_grade;
-        """, (patient_id, summary, readability_scores["flesch_kincaid_grade"], readability_scores["flesch_kincaid_score"],
-              readability_scores["flesch_reading_ease"], readability_scores["smog_score"], 
-              readability_scores["smog_grade"]))
+                smog_grade = EXCLUDED.smog_grade,
+                gunning_fog_score = EXCLUDED.gunning_fog_score,
+                gunning_fog_grade = EXCLUDED.gunning_fog_grade;
+        """, (
+            patient_id, summary,
+            safe_float(readability_scores["flesch_kincaid_grade"]),
+            safe_float(readability_scores["flesch_kincaid_score"]),
+            readability_scores["flesch_reading_ease"],
+            safe_float(readability_scores["smog_score"]),
+            safe_float(readability_scores["smog_grade"]),
+            safe_float(readability_scores["gunning_fog_score"]),
+            safe_float(readability_scores["gunning_fog_grade"])
+        ))
         conn.commit()
     except psycopg2.Error as e:
         print(f"Database error for patient {patient_id}:", e)

@@ -63,7 +63,7 @@ def create_summary_table(conn):
     try:
         cur = conn.cursor()
         cur.execute("""
-            CREATE TABLE IF NOT EXISTS summaries_sixth (
+            CREATE TABLE IF NOT EXISTS summaries (
                 patient_id TEXT,
                 model TEXT,
                 summary TEXT,
@@ -84,7 +84,7 @@ def create_summary_table(conn):
 def summary_exists(conn, patient_id, model):
     try:
         cur = conn.cursor()
-        cur.execute("SELECT 1 FROM summaries_sixth WHERE patient_id = %s AND model = %s LIMIT 1;", (patient_id, model))
+        cur.execute("SELECT 1 FROM summaries WHERE patient_id = %s AND model = %s LIMIT 1;", (patient_id, model))
         return cur.fetchone() is not None
     except psycopg2.Error as e:
         print(f"Error checking summary existence for {patient_id} ({model}):", e)
@@ -93,7 +93,7 @@ def summary_exists(conn, patient_id, model):
 
 def summarize_with_gemini(model, data):
     prompt = f"""
-    Summarize and explain this patient's health record to them in simple language to help them better understand their own health as if they were an sixth grader. Avoid using abbreviations if possible. There is no need to include non-relevant medical information such as their age, birthday, or sex.
+    Summarize and explain this patient's health record to them in simple language to help them better understand their own health as if they were an eighth grader. Avoid using abbreviations if possible. There is no need to include non-relevant medical information such as their age, birthday, or sex.
     
     {data}
     
@@ -116,7 +116,7 @@ def summarize_with_minimax(MINIMAX_API_KEY, data):
     }
     
     prompt = f"""
-    Summarize and explain this patient's health record to them in simple language to help them better understand their own health as if they were an sixth grader. Avoid using abbreviations if possible. There is no need to include non-relevant medical information such as their age, birthday, or sex.
+    Summarize and explain this patient's health record to them in simple language to help them better understand their own health as if they were an eighth grader. Avoid using abbreviations if possible. There is no need to include non-relevant medical information such as their age, birthday, or sex.
     
     {data}
     
@@ -148,7 +148,7 @@ def summarize_with_minimax(MINIMAX_API_KEY, data):
 
 def summarize_with_gpt(client, data):
     prompt = f"""
-    Summarize and explain this patient's health record to them in simple language to help them better understand their own health as if they were an sixth grader. 
+    Summarize and explain this patient's health record to them in simple language to help them better understand their own health as if they were an eighth grader. 
     Avoid using abbreviations if possible. There is no need to include non-relevant medical information such as their age, birthday, or sex.
 
     Provide an explanation that includes:
@@ -177,7 +177,7 @@ def summarize_with_gpt(client, data):
 
 def summarize_with_claude(client, data):
     prompt = f"""
-    Summarize and explain this patient's health record to them in simple language to help them better understand their own health as if they were an sixth grader. 
+    Summarize and explain this patient's health record to them in simple language to help them better understand their own health as if they were an eighth grader. 
     Avoid using abbreviations if possible. There is no need to include non-relevant medical information such as their age, birthday, or sex.
 
     Provide an explanation that includes:
@@ -211,7 +211,7 @@ def summarize_with_claude(client, data):
     
 def summarize_with_deepseek(client,data):
     prompt = f"""
-    Summarize and explain this patient's health record to them in simple language to help them better understand their own health as if they were an sixth grader. 
+    Summarize and explain this patient's health record to them in simple language to help them better understand their own health as if they were an eighth grader. 
     Avoid using abbreviations if possible. There is no need to include non-relevant medical information such as their age, birthday, or sex.
 
     Provide an explanation that includes:
@@ -263,7 +263,7 @@ def save_summary_to_db(conn, patient_id, model, summary, readability_scores):
                 return None
         cur = conn.cursor()
         cur.execute("""
-            INSERT INTO summaries_sixth (
+            INSERT INTO summaries (
                 patient_id, model, summary, flesch_kincaid_grade, 
                 flesch_kincaid_score, flesch_reading_ease, 
                 smog_score, smog_grade, gunning_fog_score, gunning_fog_grade
